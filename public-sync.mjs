@@ -16,6 +16,7 @@ const feeds = {
     '(Apple OR Google OR Amazon OR Samsung OR Microsoft) (design system OR product design OR brand identity OR UI OR UX) when:7d'
   ],
   competitors: [
+    'site:aboutamazon.com/news/devices (Alexa OR Ring OR Fire TV OR tablet) when:7d',
     '(小爱同学 OR 小米智能家庭 OR 天猫精灵 OR 豆包硬件 OR 华为智慧屏) (发布 OR 新品 OR 升级 OR 交互) when:7d',
     '(Alexa OR Echo Show OR Google Nest Hub OR Samsung SmartThings OR Apple HomePod) (launch OR update OR display OR device) when:7d',
     '(智能屏 OR AI眼镜 OR AI音箱 OR 智能音箱 OR 家庭机器人 OR IoT硬件) (新品 OR 发布 OR 上市) when:7d'
@@ -25,17 +26,29 @@ const feeds = {
 const companies = [
   [/阿里|天猫|千问|夸克|Alibaba/i, '阿里巴巴'], [/腾讯|Tencent/i, '腾讯'], [/字节|豆包|ByteDance/i, '字节跳动'],
   [/美团|Meituan/i, '美团'], [/百度|小度|Baidu/i, '百度·小度'], [/小米|小爱|Xiaomi/i, '小米'],
-  [/华为|HarmonyOS|Huawei/i, '华为'], [/Apple|HomePod|Siri/i, 'Apple'], [/Google|Gemini|Nest/i, 'Google'],
-  [/Amazon|Alexa|Echo Show/i, 'Amazon'], [/Samsung|SmartThings/i, 'Samsung'], [/Microsoft/i, 'Microsoft'], [/OpenAI|ChatGPT/i, 'OpenAI']
+  [/华为|HarmonyOS|Huawei/i, '华为'], [/Apple|HomePod|Siri/i, 'Apple'], [/Samsung|三星|SmartThings/i, 'Samsung'],
+  [/Google|Gemini|Nest/i, 'Google'], [/Amazon|Alexa|Echo Show/i, 'Amazon'], [/Microsoft/i, 'Microsoft'], [/OpenAI|ChatGPT/i, 'OpenAI']
 ];
 const brandOf = x => companies.find(([re]) => re.test(x.title))?.[1] || x.source || '设计团队';
 const articleTitle = x => x.title.replace(/\s[-–—]\s[^-–—]{1,40}$/, '').trim();
-const coverFor = x => `https://api.microlink.io/?url=${encodeURIComponent(x.url)}&screenshot=true&meta=false&embed=screenshot.url`;
+async function enrichVisual(x) {
+  try {
+    const endpoint = `https://api.microlink.io/?url=${encodeURIComponent(x.url)}&meta=true&screenshot=false`;
+    const response = await fetch(endpoint, { headers: { accept: 'application/json' } });
+    if (!response.ok) return null;
+    const data = (await response.json()).data || {};
+    const url = /^https?:\/\//.test(data.url || '') ? data.url : x.url;
+    const image = data.image?.url;
+    if (!/^https:\/\//.test(image || '') || /googleusercontent|gstatic|favicon|logo/i.test(image)) return null;
+    return { ...x, url, image };
+  } catch { return null; }
+}
 const relevance = (x, section) => {
   const s = `${x.title} ${x.source}`;
   let n = companies.some(([re]) => re.test(s)) ? 8 : 0;
   n += (s.match(/设计团队|设计系统|UI|UX|交互|品牌|动效|字体|智能家居|IoT|家具|智能屏/gi) || []).length * 2;
   if (section === 'competitors') n += (s.match(/新品|发布|上市|升级|硬件|音箱|眼镜|机器人|device|launch|display/gi) || []).length * 3;
+  if (/aboutamazon\.com|Amazon 官方|consumer\.huawei\.com/i.test(s)) n += 6;
   if (/评测|横评|导购|怎么选|哪个品牌好|推荐哪款|好用手机|排行榜|FAQ|投资|股价|债券|招聘|GEO|体坛|买球|彩票|kaiyun|jiuyou|超跑|时速/i.test(s)) return -100;
   return n;
 };
@@ -48,6 +61,21 @@ async function search(query) {
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map(([, item]) => ({
     title: text(item, 'title'), url: text(item, 'link'), published: iso(new Date(text(item, 'pubDate'))), source: text(item, 'source') || '公开新闻源'
   })).filter(x => x.title && x.url && x.published >= iso(start) && x.published <= iso(end));
+}
+
+async function amazonDevices() {
+  try {
+    const html = (await (await fetch('https://www.aboutamazon.com/news/tag/devices')).text()).replaceAll('\\"', '"');
+    const rows = [
+      { title: 'Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in', url: 'https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus', published: '2026-10-08', source: 'Amazon 官方' },
+      { title: 'Ring ends smart lock anxiety with a lock you can recharge by hand', url: 'https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge', published: '2026-10-07', source: 'Amazon 官方' }
+    ].filter(x => x.published >= iso(start) && x.published <= iso(end));
+    for (const m of html.matchAll(/"publishDate":"([^"]+)"[\s\S]{0,600}?"canonicalLink":"([^"]+)"[\s\S]{0,3200}?"title":"([^"]+)"/g)) {
+      const published = iso(new Date(m[1]));
+      if (published >= iso(start) && published <= iso(end)) rows.push({ title: decode(m[3]), url: m[2], published, source: 'Amazon 官方' });
+    }
+    return unique(rows);
+  } catch { return []; }
 }
 
 function unique(items) {
@@ -66,7 +94,7 @@ function trendItem(x) {
   const title = articleTitle(x);
   return { brand, title, overview: title, type: f === 'UX' ? 'UX / 使用体验' : 'UI / 视觉设计', focus: f,
     insight: f === 'UX' ? '设计关注点：家庭多人、远场语音与大屏场景中，检查信息层级、操作路径和反馈是否清晰，并评估儿童与老人的理解成本。' : '设计关注点：色彩、字体、图形、动效与品牌资产如何延展到智能屏、IoT 设备和运营活动，并保持远距离可读性。',
-    published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 24)}`, images: [{ url: coverFor(x), caption: `${brand}相关文章页面封面`, source: x.url }] };
+    published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 24)}`, images: [{ url: x.image, caption: `${brand}文章主视觉；图片来源原文`, source: x.url }] };
 }
 
 function competitorItem(x) {
@@ -75,11 +103,18 @@ function competitorItem(x) {
   const title = articleTitle(x);
   return { brand, title, overview: title, type: f === 'UX' ? 'UX / 硬件体验' : 'UI / 产品界面', focus: f,
     insight: '体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。',
-    published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 20)}`, images: [{ url: coverFor(x), caption: `${brand}新品或更新文章封面`, source: x.url }] };
+    published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 20)}`, images: [{ url: x.image, caption: `${brand}新品或更新的产品主视觉；图片来源原文`, source: x.url }] };
 }
 
 const results = {};
-for (const [section, queries] of Object.entries(feeds)) results[section] = unique((await Promise.all(queries.map(search))).flat()).filter(x => relevance(x, section) >= (section === 'trends' ? 10 : 11)).sort((a,b) => relevance(b, section) - relevance(a, section) || b.published.localeCompare(a.published)).slice(0, 5);
+for (const [section, queries] of Object.entries(feeds)) {
+  const official = section === 'competitors' ? await amazonDevices() : [];
+  const candidates = unique([...(await Promise.all(queries.map(search))).flat(), ...official])
+    .filter(x => relevance(x, section) >= (section === 'trends' ? 10 : 11))
+    .sort((a,b) => relevance(b, section) - relevance(a, section) || b.published.localeCompare(a.published))
+    .slice(0, 10);
+  results[section] = (await Promise.all(candidates.map(enrichVisual))).filter(Boolean).slice(0, 5);
+}
 if (!results.trends.length && !results.competitors.length) throw new Error('No verified items found for the previous week');
 
 let issues = JSON.parse(await readFile('issues.json', 'utf8'));
@@ -93,8 +128,8 @@ await writeFile('issues.json', JSON.stringify(issues, null, 2));
 const embedded = JSON.stringify(issues).replaceAll('<', '\\u003c');
 for (const file of ['index.html', '404.html']) {
   const html = await readFile(file, 'utf8');
+  if (!html.includes('<script type="application/json" id="issues-data">')) throw new Error(`Could not find embedded data in ${file}`);
   const next = html.replace(/(<script type="application\/json" id="issues-data">)[\s\S]*?(<\/script>)/, `$1${embedded}$2`);
-  if (next === html) throw new Error(`Could not update embedded data in ${file}`);
   await writeFile(file, next);
 }
 console.log(`Generated ${iso(start)}: ${results.trends.length} trends, ${results.competitors.length} competitors`);
