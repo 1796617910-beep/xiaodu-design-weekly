@@ -2,7 +2,7 @@ name: Sync weekly issues
 
 on:
   schedule:
-    - cron: '20 1 * * 1'
+    - cron: '0 1 * * 1'
   workflow_dispatch:
 
 permissions:
