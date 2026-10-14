@@ -27,8 +27,8 @@ const feeds = {
 const companies = [
   [/阿里|天猫|千问|夸克|Alibaba/i, '阿里巴巴'], [/腾讯|Tencent/i, '腾讯'], [/字节|豆包|ByteDance/i, '字节跳动'],
   [/美团|Meituan/i, '美团'], [/百度|小度|Baidu/i, '百度·小度'], [/小米|小爱|Xiaomi/i, '小米'],
-  [/华为|HarmonyOS|Huawei/i, '华为'], [/Apple|HomePod|Siri/i, 'Apple'], [/Samsung|三星|SmartThings/i, 'Samsung'],
-  [/Google|Gemini|Nest/i, 'Google'], [/Amazon|Alexa|Echo Show/i, 'Amazon'], [/Aqara|绿米/i, 'Aqara'], [/eufy|Anker|安克/i, 'eufy'], [/Microsoft/i, 'Microsoft'], [/OpenAI|ChatGPT/i, 'OpenAI']
+  [/华为|HarmonyOS|Huawei/i, '华为'], [/Aqara|绿米/i, 'Aqara'], [/Apple|HomePod|Siri/i, 'Apple'], [/Samsung|三星|SmartThings/i, 'Samsung'],
+  [/Google|Gemini|Nest/i, 'Google'], [/Amazon|Alexa|Echo Show/i, 'Amazon'], [/eufy|Anker|安克/i, 'eufy'], [/Microsoft/i, 'Microsoft'], [/OpenAI|ChatGPT/i, 'OpenAI']
 ];
 const brandOf = x => companies.find(([re]) => re.test(x.title))?.[1] || x.source || '设计团队';
 const articleTitle = x => x.title.replace(/\s[-–—]\s[^-–—]{1,40}$/, '').trim();

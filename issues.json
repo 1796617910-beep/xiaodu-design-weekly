@@ -142,7 +142,7 @@
             ]
           },
           {
-            "brand": "Apple",
+            "brand": "Aqara",
             "title": "Aqara 发布五款 Matter 智能灯具，支持 Apple Home 与多平台联动",
             "overview": "Aqara 发布五款 Matter 智能灯具，支持 Apple Home 与多平台联动",
             "type": "UI / 产品界面",
@@ -150,11 +150,11 @@
             "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
             "published": "2026-09-04",
             "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
-            "event_key": "Apple-2026-09-04-Aqara 发布五款 Matter 智能",
+            "event_key": "Aqara-2026-09-04-Aqara 发布五款 Matter 智能",
             "images": [
               {
                 "url": "https://images.macrumors.com/t/Rm-0dyX-7nwfzmXXyUAi8HXrMVU=/2000x/article-new/2026/09/aqara-floor-lamp.jpg",
-                "caption": "Apple新品或更新的产品主视觉；图片来源原文",
+                "caption": "Aqara新品或更新的产品主视觉；图片来源原文",
                 "source": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/"
               }
             ]
