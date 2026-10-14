@@ -32,8 +32,9 @@ const companies = [
 ];
 const brandOf = x => companies.find(([re]) => re.test(x.title))?.[1] || x.source || '设计团队';
 const articleTitle = x => x.title.replace(/\s[-–—]\s[^-–—]{1,40}$/, '').trim();
+const proxyImage = url => `https://images.weserv.nl/?url=${encodeURIComponent(url)}&w=1200&h=675&fit=cover&output=webp`;
 async function enrichVisual(x) {
-  if (/^https:\/\//.test(x.image || '') && !/favicon|logo/i.test(x.image)) return x;
+  if (/^https:\/\//.test(x.image || '') && !/favicon|logo/i.test(x.image)) return { ...x, image: proxyImage(x.image) };
   try {
     const endpoint = `https://api.microlink.io/?url=${encodeURIComponent(x.url)}&meta=true&screenshot=false`;
     const response = await fetch(endpoint, { headers: { accept: 'application/json' } });
@@ -42,7 +43,7 @@ async function enrichVisual(x) {
     const url = /^https?:\/\//.test(data.url || '') ? data.url : x.url;
     const image = data.image?.url;
     if (!/^https:\/\//.test(image || '') || /googleusercontent|gstatic|favicon|logo/i.test(image)) return null;
-    return { ...x, url, image };
+    return { ...x, url, image: proxyImage(image) };
   } catch { return null; }
 }
 const relevance = (x, section) => {
