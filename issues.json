@@ -5,126 +5,88 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "本周设计趋势：从公开来源筛选最新 UI、UX、品牌、字体与动效案例。",
-        "notice": "自动汇总前一周公开报道；标题、日期与链接来自原始来源，设计关注点为编辑解读。",
+        "summary": "优先关注国内互联网大厂设计团队，以及与小度智能屏、IoT、家居和运营品牌相关的 UI / UX 设计。",
+        "notice": "自动汇总前一周公开报道；国内大厂和小度相关性优先，国外大型品牌作为补充。设计关注点为编辑解读。",
         "delivery": "published",
         "items": [
           {
-            "brand": "让每个人都能使用 GPT-6 和智能界面",
-            "overview": "让每个人都能使用 GPT-6 和智能界面 - OpenAI",
+            "brand": "Apple",
+            "title": "Apple HomePad: 这可能就是 Apple 智能家居中枢的样子",
+            "overview": "Apple HomePad: 这可能就是 Apple 智能家居中枢的样子",
             "type": "UI / 视觉设计",
             "focus": "UI",
-            "insight": "关注色彩、字体、图形与动效如何形成可识别的视觉系统；可评估在智能屏上的可读性。",
-            "published": "2026-10-08",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXWjZFRGdVTmNqS0U4c1I3aFhFd2hFU1NUTUpZMFZaMEMxSWV4eGx2cmhuUGhNc2pzREZXci1WVFdUTWFqOUp6SG5oWUwtNlRYRnZ3WUpGdGZ3V1lnN0ZJeWFMWkRmZw?oc=5",
-            "event_key": "让每个人都能使用 GPT-6 和智能界面-2026-10-08",
-            "images": []
+            "insight": "设计关注点：色彩、字体、图形、动效与品牌资产如何延展到智能屏、IoT 设备和运营活动，并保持远距离可读性。",
+            "published": "2026-10-10",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SZk9HREt4MktvRV9CRlRSREhMV3VUMW53Q29jZ0ZzalJXZC1hQUpDY2lZZjRTSzJuMzF3RUtwbFYxYW10T2tRbGItTnZuRGgzOFJMZ3NOZ0J4eGFtUG9LUy1HNnJKd0otVWJrVW5ZZGV2c3lPT2c?oc=5",
+            "event_key": "Apple-2026-10-10-Apple HomePad: 这可能就是 App",
+            "images": [
+              {
+                "url": "https://api.microlink.io/?url=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMidkFVX3lxTE5SZk9HREt4MktvRV9CRlRSREhMV3VUMW53Q29jZ0ZzalJXZC1hQUpDY2lZZjRTSzJuMzF3RUtwbFYxYW10T2tRbGItTnZuRGgzOFJMZ3NOZ0J4eGFtUG9LUy1HNnJKd0otVWJrVW5ZZGV2c3lPT2c%3Foc%3D5&screenshot=true&meta=false&embed=screenshot.url",
+                "caption": "Apple相关文章页面封面",
+                "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SZk9HREt4MktvRV9CRlRSREhMV3VUMW53Q29jZ0ZzalJXZC1hQUpDY2lZZjRTSzJuMzF3RUtwbFYxYW10T2tRbGItTnZuRGgzOFJMZ3NOZ0J4eGFtUG9LUy1HNnJKd0otVWJrVW5ZZGV2c3lPT2c?oc=5"
+              }
+            ]
           },
           {
-            "brand": "Anthropic 推出 Claude Dashboards 与 Motion，将 ",
-            "overview": "Anthropic 推出 Claude Dashboards 与 Motion，将 Docs 从测试版移除。 - Unite.AI",
+            "brand": "Apple",
+            "title": "苹果与LG合作打造智能家居产品首次曝光：恒温器、温度传感器和智能门锁亮相- Apple 苹果",
+            "overview": "苹果与LG合作打造智能家居产品首次曝光：恒温器、温度传感器和智能门锁亮相- Apple 苹果",
             "type": "UI / 视觉设计",
             "focus": "UI",
-            "insight": "关注色彩、字体、图形与动效如何形成可识别的视觉系统；可评估在智能屏上的可读性。",
-            "published": "2026-10-09",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0Rvak9IQkRSME8xQXdFSS0tblVqcUIxb0paTzZ1Vk1XekNPQ09fZ1NnTlEza0JxUFgwZzNkd3VONENmdWxPNUwyd1JxNjE3RFJIOVgzckRlVVFySWhxVF9Sd2tCZ0F0TkhXdHF4WmV6Rkd4MkQ5SUVNektQUTZRS2htRVA2RkliSGVMZW1CaVd2LWs0VmVuUHBjZmwweDg?oc=5",
-            "event_key": "Anthropic 推出 Claude Dashboards 与 Motion，将 -2026-10-09",
-            "images": []
-          },
-          {
-            "brand": "OpenAI 推出 GPT-6 和 Intelligent UI，ChatGPT 的",
-            "overview": "OpenAI 推出 GPT-6 和 Intelligent UI，ChatGPT 的回答变成可交互界面 - Pasquale Pillitteri",
-            "type": "UX / 使用体验",
-            "focus": "UX",
-            "insight": "关注信息层级、操作路径与反馈是否降低用户理解成本；可结合小度真实场景进一步验证。",
-            "published": "2026-10-08",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG5JNHNtRlhmU1NReFZ0ZUM2QWVZako3V0RXQUFxSDJTMkY5aU9aUWQ4SE52WVROUUd2LVFlaWIwQlEwNmdqbWpYSlg2c3dHMEt2VGVhZ1h6bFVHc0tsXzByLWRUclZEVjUwUl8wSl9xejNiTWp4YTBGcnpIRlBIRzdPajFCR1EzakQtWXdR?oc=5",
-            "event_key": "OpenAI 推出 GPT-6 和 Intelligent UI，ChatGPT 的-2026-10-08",
-            "images": []
-          },
-          {
-            "brand": "谷歌发布 Gemini agent，并向 Anthropic 的 Claude 模型",
-            "overview": "谷歌发布 Gemini agent，并向 Anthropic 的 Claude 模型开放 - Pasquale Pillitteri",
-            "type": "UI / 视觉设计",
-            "focus": "UI",
-            "insight": "关注色彩、字体、图形与动效如何形成可识别的视觉系统；可评估在智能屏上的可读性。",
-            "published": "2026-10-08",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nVHFPVE5sZTRJMkhQQXpFRzg3V1IxSnZ1OGRCWXkxaDNBbzMxNmwwUFBMWGppREhpeTFwbFNuWEVieHYzZFNFbEtpYUs2TGhpbUpQYU1CdlNNbHoxdEZlbnE3azhVbS16Q2paMHN4aWdTOC0tQVJFNmE0bC1jZw?oc=5",
-            "event_key": "谷歌发布 Gemini agent，并向 Anthropic 的 Claude 模型-2026-10-08",
-            "images": []
-          },
-          {
-            "brand": "LightCraft 指南，用 Rust 编写的免费开源 Lightroom 替代品",
-            "overview": "LightCraft 指南，用 Rust 编写的免费开源 Lightroom 替代品 - Pasquale Pillitteri",
-            "type": "UI / 视觉设计",
-            "focus": "UI",
-            "insight": "关注色彩、字体、图形与动效如何形成可识别的视觉系统；可评估在智能屏上的可读性。",
-            "published": "2026-10-08",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWJWZTZfUVdLTENqLXVpSTg5SUp4SnotdEdHd1AyUHpPQ2pXdGVyZE1KV045Z0tHcEZTSndFbGFueG5MLUFhWW9qSkVCVjlETGw3a2Q5YW1hU3V6ZVZCcFh4eEU3aGdLYTNxOWpvVDBxemQ1dW9OczBKTTc3dUFQMzNuTzNyMFZFeHRGZW9wUlR4ekMxYThTdg?oc=5",
-            "event_key": "LightCraft 指南，用 Rust 编写的免费开源 Lightroom 替代品-2026-10-08",
-            "images": []
+            "insight": "设计关注点：色彩、字体、图形、动效与品牌资产如何延展到智能屏、IoT 设备和运营活动，并保持远距离可读性。",
+            "published": "2026-10-07",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XenFWRU1fTXNYXzBBZmFSSGNuWktVNkZpTXZ3aW1Eel9pSVQtVnNzNFRxNDIzeDBjQ2M4YWtuWjBhMElWeFpTY2hEWU5GVWtJbjdad3NOTTI3YjlCWkQxNA?oc=5",
+            "event_key": "Apple-2026-10-07-苹果与LG合作打造智能家居产品首次曝光：恒温器、",
+            "images": [
+              {
+                "url": "https://api.microlink.io/?url=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiYEFVX3lxTE9XenFWRU1fTXNYXzBBZmFSSGNuWktVNkZpTXZ3aW1Eel9pSVQtVnNzNFRxNDIzeDBjQ2M4YWtuWjBhMElWeFpTY2hEWU5GVWtJbjdad3NOTTI3YjlCWkQxNA%3Foc%3D5&screenshot=true&meta=false&embed=screenshot.url",
+                "caption": "Apple相关文章页面封面",
+                "source": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XenFWRU1fTXNYXzBBZmFSSGNuWktVNkZpTXZ3aW1Eel9pSVQtVnNzNFRxNDIzeDBjQ2M4YWtuWjBhMElWeFpTY2hEWU5GVWtJbjdad3NOTTI3YjlCWkQxNA?oc=5"
+              }
+            ]
           }
         ]
       },
       "competitors": {
-        "summary": "本周竞品追踪：关注智能助手与 AI 产品的交互和界面变化。",
-        "notice": "自动汇总前一周公开报道，已按标题去重；体验启发为设计解读。内容不足时不凑数。",
+        "summary": "围绕小度的硬件与 IoT 竞品，追踪智能屏、音箱、家庭中控、AI 穿戴设备及大厂新品。",
+        "notice": "优先小米、天猫精灵、华为、豆包硬件、Amazon、Google、Samsung 与 Apple 的新硬件或重大体验升级；内容不足时不凑数。",
         "delivery": "published",
         "items": [
           {
-            "brand": "ChatGPT",
-            "overview": "ChatGPT教我打麻将，OpenAI智能界面实测：重新定义AI交互 - 36氪",
-            "type": "UX / 体验变化",
-            "focus": "UX",
-            "insight": "体验解读：关注该更新对任务效率、多模态反馈和学习成本的影响；小度可在对应场景中进行可用性验证。此段为设计解读，标题与日期来自原始报道。",
-            "published": "2026-10-08",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OcEpsTEEtUEQyRk9XT2xaYkVkWnZIYVV4eG4wcENCRU04VVdYbVV0NnlUeUNwMGhpb2tjU0JmZVlnOWRDUmFsUHJtNUxNdw?oc=5",
-            "event_key": "ChatGPT-2026-10-08-ChatGPT教我打麻将，OpenAI智",
-            "images": []
-          },
-          {
-            "brand": "新浪网",
-            "overview": "语音控制好的手机怎么选？2026年AI助手实测对比+FAQ - 新浪网",
-            "type": "UI / 界面视觉",
+            "brand": "Google",
+            "title": "三星Gemini AI眼镜或11月发布，智能穿戴市场迎变局",
+            "overview": "三星Gemini AI眼镜或11月发布，智能穿戴市场迎变局",
+            "type": "UI / 产品界面",
             "focus": "UI",
-            "insight": "体验解读：关注该更新对任务效率、多模态反馈和学习成本的影响；小度可在对应场景中进行可用性验证。此段为设计解读，标题与日期来自原始报道。",
+            "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
             "published": "2026-10-11",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPalNWeEttb2N1MExrVEZLRTM1cWtKLW9uNG5Qc2UzNGtRR2t0NWxiWmlSWWtGLUpkS2tQQ19wcDZXNzFSWkc4RFR5ekJ2aTh1ekltQ2N6OWUtLUkzc2MxWUhRR3FiSkxidmstejAtSkNFaGZnUEZQdWtFczZKWXp0QQ?oc=5",
-            "event_key": "新浪网-2026-10-11-语音控制好的手机怎么选？2026年AI助",
-            "images": []
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vZjhCaHBUbzhEX2NHYVExQ2dudFdzbTBEdUU5R1NRUGdTN05pWHlpa0pTV3dMZHVnWHE1cHRpS3p3eWlsbmZpYk12YVlOSXBJQl9Z?oc=5",
+            "event_key": "Google-2026-10-11-三星Gemini AI眼镜或11月发布，",
+            "images": [
+              {
+                "url": "https://api.microlink.io/?url=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiU0FVX3lxTE9vZjhCaHBUbzhEX2NHYVExQ2dudFdzbTBEdUU5R1NRUGdTN05pWHlpa0pTV3dMZHVnWHE1cHRpS3p3eWlsbmZpYk12YVlOSXBJQl9Z%3Foc%3D5&screenshot=true&meta=false&embed=screenshot.url",
+                "caption": "Google新品或更新文章封面",
+                "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vZjhCaHBUbzhEX2NHYVExQ2dudFdzbTBEdUU5R1NRUGdTN05pWHlpa0pTV3dMZHVnWHE1cHRpS3p3eWlsbmZpYk12YVlOSXBJQl9Z?oc=5"
+              }
+            ]
           },
           {
-            "brand": "豆包",
-            "overview": "2026豆包GEO实力派：技术自研、交付实证与避坑要点_行业动态 - 投资界",
-            "type": "UI / 界面视觉",
+            "brand": "华为",
+            "title": "产品剖析：巨幕手机大有可玩，华为智慧屏Mate TV 2发布",
+            "overview": "产品剖析：巨幕手机大有可玩，华为智慧屏Mate TV 2发布",
+            "type": "UI / 产品界面",
             "focus": "UI",
-            "insight": "体验解读：关注该更新对任务效率、多模态反馈和学习成本的影响；小度可在对应场景中进行可用性验证。此段为设计解读，标题与日期来自原始报道。",
-            "published": "2026-10-08",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BVFF6cS1Eb2hwMllSWG8yVTk5UzJMYXhXcVF2MzM4YlJCclF1aFZtTUZpdklINVk1S2o1a0dYMjh3TXFXVVZTclpTN2RwTjJ4N3ZaWFRkRVo?oc=5",
-            "event_key": "豆包-2026-10-08-2026豆包GEO实力派：技术自研、交付",
-            "images": []
-          },
-          {
-            "brand": "ChatGPT",
-            "overview": "ChatGPT 智能 UI 上线！回复可直接展示图片、图表与交互按钮-AI云资讯 - 人工智能",
-            "type": "UX / 体验变化",
-            "focus": "UX",
-            "insight": "体验解读：关注该更新对任务效率、多模态反馈和学习成本的影响；小度可在对应场景中进行可用性验证。此段为设计解读，标题与日期来自原始报道。",
-            "published": "2026-10-08",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RT1J4TGMzckhGajQ0YUx5VjljMHNXeU40cFo2ZE54U2NCUk5LZzFKaWRMbTJrOVI4NjhRYWNsc3VRVHNuYURtSkxUZHhkMml3emc?oc=5",
-            "event_key": "ChatGPT-2026-10-08-ChatGPT 智能 UI 上线！回复可",
-            "images": []
-          },
-          {
-            "brand": "中华网",
-            "overview": "GPT6推出智能交互界面 改变人机交互新方式 - 中华网",
-            "type": "UX / 体验变化",
-            "focus": "UX",
-            "insight": "体验解读：关注该更新对任务效率、多模态反馈和学习成本的影响；小度可在对应场景中进行可用性验证。此段为设计解读，标题与日期来自原始报道。",
-            "published": "2026-10-09",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lWDRBbmswQ0RZNEtrTlV1X3dEbERjZkNXS21TX3BaRGpYLTZJTGxRNEVlZFVlbmZUbTJIUkt1NHY0TTVLR3FQaTZIbHp6TXp2STBhdm83b1E3R185VGlKTWFjb1E3RG12R0NnRXMzVUE?oc=5",
-            "event_key": "中华网-2026-10-09-GPT6推出智能交互界面 改变人机交互新",
-            "images": []
+            "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
+            "published": "2026-10-10",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wd1BRNG9OVkhFNUtFSGZ1YjUyamdsZFpqZzZRazJFTVg3bmQ3QWtSWkZMOVdvM0hpcGxDYUNDUHpKZ0EwdlppTFRhRDZpUWRPZHVJXzlhQmlqcUFES2dB?oc=5",
+            "event_key": "华为-2026-10-10-产品剖析：巨幕手机大有可玩，华为智慧屏M",
+            "images": [
+              {
+                "url": "https://api.microlink.io/?url=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiX0FVX3lxTE5Wd1BRNG9OVkhFNUtFSGZ1YjUyamdsZFpqZzZRazJFTVg3bmQ3QWtSWkZMOVdvM0hpcGxDYUNDUHpKZ0EwdlppTFRhRDZpUWRPZHVJXzlhQmlqcUFES2dB%3Foc%3D5&screenshot=true&meta=false&embed=screenshot.url",
+                "caption": "华为新品或更新文章封面",
+                "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wd1BRNG9OVkhFNUtFSGZ1YjUyamdsZFpqZzZRazJFTVg3bmQ3QWtSWkZMOVdvM0hpcGxDYUNDUHpKZ0EwdlppTFRhRDZpUWRPZHVJXzlhQmlqcUFES2dB?oc=5"
+              }
+            ]
           }
         ]
       }

@@ -10,8 +10,34 @@ const end = new Date(thisMonday); end.setUTCDate(end.getUTCDate() - 1);
 const start = new Date(end); start.setUTCDate(start.getUTCDate() - 6);
 
 const feeds = {
-  trends: ['design identity OR UI OR UX OR typography OR motion design when:7d', '品牌设计 OR UI设计 OR UX体验 OR 字体设计 OR 动效 when:7d'],
-  competitors: ['(Alexa OR Gemini OR Google Nest OR Siri OR ChatGPT OR 小爱同学 OR 天猫精灵 OR 豆包) (update OR design OR interface OR experience OR 更新 OR 交互) when:7d']
+  trends: [
+    '(阿里巴巴 OR 腾讯 OR 字节跳动 OR 美团 OR 百度 OR 小米 OR 华为) (设计团队 OR 设计系统 OR UI OR UX OR 品牌设计 OR 动效) when:7d',
+    '(智能家居 OR IoT OR 智能屏 OR 家具设计 OR 产品设计) (UI OR UX OR 品牌 OR 交互 OR 设计) when:7d',
+    '(Apple OR Google OR Amazon OR Samsung OR Microsoft) (design system OR product design OR brand identity OR UI OR UX) when:7d'
+  ],
+  competitors: [
+    '(小爱同学 OR 小米智能家庭 OR 天猫精灵 OR 豆包硬件 OR 华为智慧屏) (发布 OR 新品 OR 升级 OR 交互) when:7d',
+    '(Alexa OR Echo Show OR Google Nest Hub OR Samsung SmartThings OR Apple HomePod) (launch OR update OR display OR device) when:7d',
+    '(智能屏 OR AI眼镜 OR AI音箱 OR 智能音箱 OR 家庭机器人 OR IoT硬件) (新品 OR 发布 OR 上市) when:7d'
+  ]
+};
+
+const companies = [
+  [/阿里|天猫|千问|夸克|Alibaba/i, '阿里巴巴'], [/腾讯|Tencent/i, '腾讯'], [/字节|豆包|ByteDance/i, '字节跳动'],
+  [/美团|Meituan/i, '美团'], [/百度|小度|Baidu/i, '百度·小度'], [/小米|小爱|Xiaomi/i, '小米'],
+  [/华为|HarmonyOS|Huawei/i, '华为'], [/Apple|HomePod|Siri/i, 'Apple'], [/Google|Gemini|Nest/i, 'Google'],
+  [/Amazon|Alexa|Echo Show/i, 'Amazon'], [/Samsung|SmartThings/i, 'Samsung'], [/Microsoft/i, 'Microsoft'], [/OpenAI|ChatGPT/i, 'OpenAI']
+];
+const brandOf = x => companies.find(([re]) => re.test(x.title))?.[1] || x.source || '设计团队';
+const articleTitle = x => x.title.replace(/\s[-–—]\s[^-–—]{1,40}$/, '').trim();
+const coverFor = x => `https://api.microlink.io/?url=${encodeURIComponent(x.url)}&screenshot=true&meta=false&embed=screenshot.url`;
+const relevance = (x, section) => {
+  const s = `${x.title} ${x.source}`;
+  let n = companies.some(([re]) => re.test(s)) ? 8 : 0;
+  n += (s.match(/设计团队|设计系统|UI|UX|交互|品牌|动效|字体|智能家居|IoT|家具|智能屏/gi) || []).length * 2;
+  if (section === 'competitors') n += (s.match(/新品|发布|上市|升级|硬件|音箱|眼镜|机器人|device|launch|display/gi) || []).length * 3;
+  if (/评测|横评|导购|怎么选|哪个品牌好|推荐哪款|好用手机|排行榜|FAQ|投资|股价|债券|招聘|GEO|体坛|买球|彩票|kaiyun|jiuyou|超跑|时速/i.test(s)) return -100;
+  return n;
 };
 
 async function search(query) {
@@ -35,30 +61,32 @@ function unique(items) {
 const focus = title => /UX|experience|interaction|体验|交互|功能|更新/i.test(title) ? 'UX' : 'UI';
 
 function trendItem(x) {
-  const brand = x.title.split(/\s[-–—|]​?\s/)[0].slice(0, 42);
+  const brand = brandOf(x);
   const f = focus(x.title);
-  return { brand, overview: x.title, type: f === 'UX' ? 'UX / 使用体验' : 'UI / 视觉设计', focus: f,
-    insight: f === 'UX' ? '关注信息层级、操作路径与反馈是否降低用户理解成本；可结合小度真实场景进一步验证。' : '关注色彩、字体、图形与动效如何形成可识别的视觉系统；可评估在智能屏上的可读性。',
-    published: x.published, url: x.url, event_key: `${brand}-${x.published}`, images: [] };
+  const title = articleTitle(x);
+  return { brand, title, overview: title, type: f === 'UX' ? 'UX / 使用体验' : 'UI / 视觉设计', focus: f,
+    insight: f === 'UX' ? '设计关注点：家庭多人、远场语音与大屏场景中，检查信息层级、操作路径和反馈是否清晰，并评估儿童与老人的理解成本。' : '设计关注点：色彩、字体、图形、动效与品牌资产如何延展到智能屏、IoT 设备和运营活动，并保持远距离可读性。',
+    published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 24)}`, images: [{ url: coverFor(x), caption: `${brand}相关文章页面封面`, source: x.url }] };
 }
 
 function competitorItem(x) {
-  const brand = x.title.match(/Alexa|Gemini|Google Nest|Siri|ChatGPT|小爱同学|小爱|天猫精灵|豆包/i)?.[0] || x.source;
+  const brand = brandOf(x);
   const f = focus(x.title);
-  return { brand, overview: x.title, type: f === 'UX' ? 'UX / 体验变化' : 'UI / 界面视觉', focus: f,
-    insight: '体验解读：关注该更新对任务效率、多模态反馈和学习成本的影响；小度可在对应场景中进行可用性验证。此段为设计解读，标题与日期来自原始报道。',
-    published: x.published, url: x.url, event_key: `${brand}-${x.published}-${x.title.slice(0, 20)}`, images: [] };
+  const title = articleTitle(x);
+  return { brand, title, overview: title, type: f === 'UX' ? 'UX / 硬件体验' : 'UI / 产品界面', focus: f,
+    insight: '体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。',
+    published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 20)}`, images: [{ url: coverFor(x), caption: `${brand}新品或更新文章封面`, source: x.url }] };
 }
 
 const results = {};
-for (const [section, queries] of Object.entries(feeds)) results[section] = unique((await Promise.all(queries.map(search))).flat()).slice(0, 5);
+for (const [section, queries] of Object.entries(feeds)) results[section] = unique((await Promise.all(queries.map(search))).flat()).filter(x => relevance(x, section) >= (section === 'trends' ? 10 : 11)).sort((a,b) => relevance(b, section) - relevance(a, section) || b.published.localeCompare(a.published)).slice(0, 5);
 if (!results.trends.length && !results.competitors.length) throw new Error('No verified items found for the previous week');
 
 let issues = JSON.parse(await readFile('issues.json', 'utf8'));
 issues = issues.filter(issue => issue.start !== iso(start));
 issues.unshift({ start: iso(start), end: iso(end), generated_at: iso(now), sections: {
-  trends: { summary: '本周设计趋势：从公开来源筛选最新 UI、UX、品牌、字体与动效案例。', notice: '自动汇总前一周公开报道；标题、日期与链接来自原始来源，设计关注点为编辑解读。', delivery: 'published', items: results.trends.map(trendItem) },
-  competitors: { summary: '本周竞品追踪：关注智能助手与 AI 产品的交互和界面变化。', notice: '自动汇总前一周公开报道，已按标题去重；体验启发为设计解读。内容不足时不凑数。', delivery: 'published', items: results.competitors.map(competitorItem) }
+  trends: { summary: '优先关注国内互联网大厂设计团队，以及与小度智能屏、IoT、家居和运营品牌相关的 UI / UX 设计。', notice: '自动汇总前一周公开报道；国内大厂和小度相关性优先，国外大型品牌作为补充。设计关注点为编辑解读。', delivery: 'published', items: results.trends.map(trendItem) },
+  competitors: { summary: '围绕小度的硬件与 IoT 竞品，追踪智能屏、音箱、家庭中控、AI 穿戴设备及大厂新品。', notice: '优先小米、天猫精灵、华为、豆包硬件、Amazon、Google、Samsung 与 Apple 的新硬件或重大体验升级；内容不足时不凑数。', delivery: 'published', items: results.competitors.map(competitorItem) }
 } });
 
 await writeFile('issues.json', JSON.stringify(issues, null, 2));
