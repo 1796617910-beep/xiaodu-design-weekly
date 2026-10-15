@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Looki信息封面">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif} .eyebrow{font-size:24px;font-weight:700;letter-spacing:3px;fill:#AFA4FF}.brand{font-size:56px;font-weight:760;fill:#F1EEFF}.title{font-size:44px;font-weight:650;fill:#fff}.meta{font-size:24px;font-weight:600;fill:#F1EEFF}
+</style>
+<rect width="1200" height="675" rx="32" fill="#2D2460"/>
+<circle cx="1080" cy="112" r="210" fill="#AFA4FF" opacity=".14"/><circle cx="1100" cy="580" r="320" fill="#AFA4FF" opacity=".08"/>
+<path d="M940 116h112v112H940zM1026 202h112v112h-112z" fill="none" stroke="#AFA4FF" stroke-width="10" opacity=".75"/>
+<text x="72" y="82" class="eyebrow">COMPETITOR TRACKING</text>
+<text x="72" y="178" class="brand">Looki</text>
+<text x="72" y="260" class="title">Looki L1 AI生活主理人深度评测</text><text x="72" y="332" class="title">：全新&quot;感知交互&quot;品类设备，PIE造型无</text><text x="72" y="404" class="title">屏幕无按键设计。搭载多模态AI感知芯片…</text>
+<rect x="72" y="568" width="256" height="54" rx="27" fill="#AFA4FF"/><text x="100" y="604" class="meta" fill="#2D2460">UX · 使用体验</text>
+<text x="900" y="605" class="meta">2026-07-31</text>
+</svg>

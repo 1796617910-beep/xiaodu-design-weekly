@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="雷鸟创新信息封面">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif} .eyebrow{font-size:24px;font-weight:700;letter-spacing:3px;fill:#AFA4FF}.brand{font-size:56px;font-weight:760;fill:#F1EEFF}.title{font-size:44px;font-weight:650;fill:#fff}.meta{font-size:24px;font-weight:600;fill:#F1EEFF}
+</style>
+<rect width="1200" height="675" rx="32" fill="#2D2460"/>
+<circle cx="1080" cy="112" r="210" fill="#AFA4FF" opacity=".14"/><circle cx="1100" cy="580" r="320" fill="#AFA4FF" opacity=".08"/>
+<path d="M940 116h112v112H940zM1026 202h112v112h-112z" fill="none" stroke="#AFA4FF" stroke-width="10" opacity=".75"/>
+<text x="72" y="82" class="eyebrow">COMPETITOR TRACKING</text>
+<text x="72" y="178" class="brand">雷鸟创新</text>
+<text x="72" y="260" class="title">雷鸟创新5月27日发布AR观影旗舰GT系</text><text x="72" y="332" class="title">列与AI拍摄眼镜V4，GT系列定位行业首</text><text x="72" y="404" class="title">款专业影视级AR眼镜，V4首创1:1大底…</text>
+<rect x="72" y="568" width="256" height="54" rx="27" fill="#AFA4FF"/><text x="100" y="604" class="meta" fill="#2D2460">UI · 界面视觉</text>
+<text x="900" y="605" class="meta">2026-05-20</text>
+</svg>

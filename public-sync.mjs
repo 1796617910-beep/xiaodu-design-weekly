@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import { readFile, writeFile } from 'node:fs/promises';
 
 const decode = (s = '') => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
@@ -153,7 +154,16 @@ issues.unshift({ start: iso(start), end: iso(end), generated_at: iso(now), secti
 } });
 
 await writeFile('issues.json', JSON.stringify(issues, null, 2));
-const embedded = JSON.stringify(issues).replaceAll('<', '\\u003c');
+const displayIssues = structuredClone(issues);
+for (const issue of displayIssues) for (const section of Object.values(issue.sections)) for (const item of section.items || []) for (const image of item.images || []) {
+  const match = image.url?.match(/^data:image\/(png|jpeg|webp|svg\+xml);base64,(.+)$/s);
+  if (match) {
+    const ext = {jpeg:'jpg', 'svg+xml':'svg'}[match[1]] || match[1];
+    const name = 'cover-' + createHash('sha256').update(Buffer.from(match[2], 'base64')).digest('hex').slice(0,16) + '.' + ext;
+    try { await readFile(name); image.url = './' + name; } catch {}
+  }
+}
+const embedded = JSON.stringify(displayIssues).replaceAll('<', '\\u003c');
 for (const file of ['index.html', '404.html']) {
   const html = await readFile(file, 'utf8');
   if (!html.includes('<script type="application/json" id="issues-data">')) throw new Error(`Could not find embedded data in ${file}`);

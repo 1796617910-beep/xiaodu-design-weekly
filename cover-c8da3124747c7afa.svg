@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="枫清科技信息封面">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif} .eyebrow{font-size:24px;font-weight:700;letter-spacing:3px;fill:#FFB685}.brand{font-size:56px;font-weight:760;fill:#FFF2E8}.title{font-size:44px;font-weight:650;fill:#fff}.meta{font-size:24px;font-weight:600;fill:#FFF2E8}
+</style>
+<rect width="1200" height="675" rx="32" fill="#4D281D"/>
+<circle cx="1080" cy="112" r="210" fill="#FFB685" opacity=".14"/><circle cx="1100" cy="580" r="320" fill="#FFB685" opacity=".08"/>
+<path d="M940 116h112v112H940zM1026 202h112v112h-112z" fill="none" stroke="#FFB685" stroke-width="10" opacity=".75"/>
+<text x="72" y="82" class="eyebrow">COMPETITOR TRACKING</text>
+<text x="72" y="178" class="brand">枫清科技</text>
+<text x="72" y="260" class="title">枫清科技（Fabarta）首发中国版Op</text><text x="72" y="332" class="title">enClaw“龙虾”,</text><text x="72" y="404" class="title">重新定义本地AI生产力</text>
+<rect x="72" y="568" width="256" height="54" rx="27" fill="#FFB685"/><text x="100" y="604" class="meta" fill="#4D281D">UX · 使用体验</text>
+<text x="900" y="605" class="meta">2026-02-03</text>
+</svg>

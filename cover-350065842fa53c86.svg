@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="AI Studio信息封面">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif} .eyebrow{font-size:24px;font-weight:700;letter-spacing:3px;fill:#8EC9FF}.brand{font-size:56px;font-weight:760;fill:#EDF7FF}.title{font-size:44px;font-weight:650;fill:#fff}.meta{font-size:24px;font-weight:600;fill:#EDF7FF}
+</style>
+<rect width="1200" height="675" rx="32" fill="#173153"/>
+<circle cx="1080" cy="112" r="210" fill="#8EC9FF" opacity=".14"/><circle cx="1100" cy="580" r="320" fill="#8EC9FF" opacity=".08"/>
+<path d="M940 116h112v112H940zM1026 202h112v112h-112z" fill="none" stroke="#8EC9FF" stroke-width="10" opacity=".75"/>
+<text x="72" y="82" class="eyebrow">DESIGN TREND</text>
+<text x="72" y="178" class="brand">AI Studio</text>
+<text x="72" y="260" class="title">这篇文章讨论了 AI 进入创意工作后的一</text><text x="72" y="332" class="title">个关键转变：当内容生产变得越来越快、越来</text><text x="72" y="404" class="title">越便宜，真正稀缺的能力不再是“做出东西”…</text>
+<rect x="72" y="568" width="256" height="54" rx="27" fill="#8EC9FF"/><text x="100" y="604" class="meta" fill="#173153">UX · 使用体验</text>
+<text x="900" y="605" class="meta">2026-06-19</text>
+</svg>

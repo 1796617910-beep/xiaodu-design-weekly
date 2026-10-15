@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="LG信息封面">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Arial,sans-serif} .eyebrow{font-size:24px;font-weight:700;letter-spacing:3px;fill:#C9E86C}.brand{font-size:56px;font-weight:760;fill:#F7FFE0}.title{font-size:44px;font-weight:650;fill:#fff}.meta{font-size:24px;font-weight:600;fill:#F7FFE0}
+</style>
+<rect width="1200" height="675" rx="32" fill="#26351A"/>
+<circle cx="1080" cy="112" r="210" fill="#C9E86C" opacity=".14"/><circle cx="1100" cy="580" r="320" fill="#C9E86C" opacity=".08"/>
+<path d="M940 116h112v112H940zM1026 202h112v112h-112z" fill="none" stroke="#C9E86C" stroke-width="10" opacity=".75"/>
+<text x="72" y="82" class="eyebrow">COMPETITOR TRACKING</text>
+<text x="72" y="178" class="brand">LG</text>
+<text x="72" y="260" class="title">LG 在 CES 2026</text><text x="72" y="332" class="title">展览会上首次公开展示面向家庭场景的 AI</text><text x="72" y="404" class="title">机器人 CLOiD，该机器人可完成叠衣服…</text>
+<rect x="72" y="568" width="256" height="54" rx="27" fill="#C9E86C"/><text x="100" y="604" class="meta" fill="#26351A">UI · 界面视觉</text>
+<text x="900" y="605" class="meta">2026-01-05</text>
+</svg>
