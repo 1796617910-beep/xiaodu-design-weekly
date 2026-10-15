@@ -838,23 +838,32 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "Figma 的文件组织与精细化 AI 编辑，结合 Wallpaper 设计新品，关注创作效率与产品表达。",
-        "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
+        "summary": "Figma 将数字纹理、动态图形与互动装置整合为一致的品牌体验，结合 Wallpaper 的设计新品观察，关注视觉语言如何跨越界面、产品与实体空间。",
+        "notice": "根据往期资料整理；2026-10-15以同一观察周内可访问的Figma设计团队原文替换缺失链接条目。",
         "delivery": "published",
         "items": [
           {
             "brand": "Figma",
-            "title": "Figma发布嵌套文件夹功能，替代原有Projects体系，支持最多10层嵌套和颜色标记；Figma Make新增精细化编辑面板，支持标注引导式AI编辑（标注位置+描述意图，Agent直接执行修改），可切换设备帧实时预览多端适配效果。",
-            "overview": "Figma发布嵌套文件夹功能，替代原有Projects体系，支持最多10层嵌套和颜色标记；Figma Make新增精细化编辑面板，支持标注引导式AI编辑（标注位置+描述意图，Agent直接执行修改），可切换设备帧实时预览多端适配效果。",
-            "type": "设计工具平台更新",
+            "title": "Figma Config 2026 品牌设计：把数字工具与人的表达融为一体",
+            "original_title": "Digital tools, human expression: The visual identity behind Config 2026",
+            "overview": "Figma 品牌设计团队复盘 Config 2026 的视觉系统：把图形、手绘感纹理和动态组合延伸到大会空间、互动装置及周边，并用 Figma Make 辅助制作纹理工具。",
+            "type": "品牌 / 视觉",
             "focus": "UI",
-            "insight": "1.嵌套文件夹+颜色标记的层级管理对小度设计团队管理跨产品线（智能屏/音箱/全屋智能/IoT配件）的海量设计文件有直接提效作用； 2.Figma Make的标注引导式编辑可以在多端适配场景中快速产出智能屏（横屏/竖屏）、车载屏幕、手机App等不同形态的设计稿变体； 3.设备帧实时预览与闺蜜机、智能中控屏等多种屏幕尺寸适配的工作流高度匹配。",
-            "published": "2026-08-03",
-            "url": "#",
-            "event_key": "history-trends-2026-08-03-Figma-0",
-            "images": [],
-            "cover_status": "pending-source-image",
-            "cover_note": "历史记录缺少原文链接，配图待补充"
+            "insight": "设计解读：以同一套图形和纹理连接屏幕、空间与周边，同时保留手绘感和可参与性。小度可借鉴这种跨触点的一致性，让产品界面、运营活动与线下展示形成统一而有温度的品牌体验。",
+            "published": "2026-07-27",
+            "url": "https://www.figma.com/blog/the-visual-identity-behind-config-2026/",
+            "event_key": "figma-config-2026-identity-20260727",
+            "images": [
+              {
+                "url": "./cover-4dd2b59f7a3ae839.webp",
+                "caption": "Figma Config 2026 的 Collage Remixer 互动装置；图片来源 Figma 原文",
+                "source": "https://www.figma.com/blog/the-visual-identity-behind-config-2026/",
+                "original_url": "https://cdn.sanity.io/images/599r6htc/regionalized/4339af70ec1a370731227679712f2db31a2b7379-1608x1284.png?w=804&h=642&q=75&fit=max&auto=format",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-15"
           },
           {
             "brand": "Wallpaper",
