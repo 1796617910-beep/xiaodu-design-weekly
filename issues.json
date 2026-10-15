@@ -5,7 +5,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "优先关注国内互联网大厂设计团队，以及与小度智能屏、IoT、家居和运营品牌相关的 UI / UX 设计。",
+        "summary": "从 SmartThings 家庭控制界面到小爱实时反馈，结合华为、Aqara 与 Apple 的家庭场景，关注多设备体验如何更清晰地衔接。",
         "notice": "从最近60天的公开报道中筛选，跨期去重并优先覆盖不同品牌；国内大厂和小度相关性优先。设计关注点为编辑解读。",
         "delivery": "published",
         "items": [
@@ -102,7 +102,7 @@
         ]
       },
       "competitors": {
-        "summary": "围绕小度的硬件与 IoT 竞品，追踪智能屏、音箱、家庭中控、AI 穿戴设备及大厂新品。",
+        "summary": "华为智慧屏、Samsung 寻物标签、Aqara 智能灯具、eufy 门铃与 Amazon 平板，覆盖家庭显示、设备联动与语音入口。",
         "notice": "从最近60天内筛选小米、天猫精灵、华为、豆包硬件、Amazon、Google、Samsung 与 Apple 的新硬件或重大体验升级，跨期去重并优先不同品牌。",
         "delivery": "published",
         "items": [
@@ -206,7 +206,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Firefox 用圆润界面缩短使用距离，DeafCity Hub 把手语动作变成动态品牌资产，观察界面亲和力与品牌表现力。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -253,7 +253,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "天猫精灵聚焦全双工对话与带屏音箱，华为擎云展示鸿蒙办公终端，关注语音反馈与跨端一致性。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -306,7 +306,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Estúdio Drama 用手绘字标与高饱和色彩建立辨识度，Gemini 探索流动的 AI 视觉语言，关注品牌个性与动态反馈。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -353,7 +353,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "中兴 AI 智能屏与苹果新终端成为本期焦点，观察多协议连接、设备形态与软硬件体验的结合。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -401,7 +401,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "AI 设计工具如何进入团队流程，以及设计师如何修正同质化视觉，是本期两条线索：效率提升也需要审美判断。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -448,7 +448,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "小爱专家模式与追觅全屋产品展示，分别指向多步骤任务执行和家庭场景整合，关注复杂能力如何易于理解。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -502,7 +502,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Figma 探索设计与代码之间的 Agent 协作，Photoshop 强化提示编辑与非破坏式调整，关注可控的 AI 创作流程。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -537,7 +537,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "Samsung 的情境感知体验与华为全屋智能方案，关注个性化信息组织、空间看板和多模态入口。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -579,7 +579,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Instagram 的品牌字体刷新与 AI 设计工具盘点并行，观察稳定的品牌识别如何与新的创作方式共存。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -614,7 +614,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "特斯拉车机接入大模型，小米音箱采用磁吸与声光联动，关注语音连续性、物理操作与情境反馈。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -656,7 +656,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "手工招牌的地方性与 AI 品牌接触点的信任感，提醒设计在技术变化中保留文化特征和情感温度。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -691,7 +691,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "HyperOS 与 Google Home 的更新围绕系统视觉、自然语言控制和跨设备协同，关注家庭任务的连续体验。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -733,7 +733,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "LEGOUI、Behance 趋势案例与微信界面调整，串联可控生成、视觉表达和日常信息层级的优化。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -789,7 +789,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "华为电视与天猫精灵点阵屏音箱展示不同尺寸的家庭屏幕，关注显示反馈、内容可读性和语音控制。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -831,7 +831,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Figma 的文件组织与精细化 AI 编辑，结合 Wallpaper 设计新品，关注创作效率与产品表达。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -872,7 +872,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "Looki 的感知交互与凯迪拉克座舱更新，关注主动服务、用户档案与触控目标如何适配真实场景。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -914,7 +914,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Apple 设计资源与支付宝对话入口，分别展示组件规范和服务入口收敛，关注一致性与任务直达。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -955,7 +955,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "Matter 配网与智能门锁的身份管理，聚焦跨品牌连接、成员授权和异常状态的清晰表达。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1009,7 +1009,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "复杂体验图的表达方法与图形设计趋势，关注如何让信息更易读、让视觉更有层次。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1050,7 +1050,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "小爱复合指令与苹果家庭中控动向，观察跨设备任务编排和家庭统一入口的演进。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1092,7 +1092,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Material 的表达性设计与 Adobe 的视觉趋势，关注色彩、形态、动效和手工质感如何传达情绪。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1133,7 +1133,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "小鹏主动语音服务与 Apple 家庭 AI 场景，关注从被动响应走向主动协助时的反馈与控制感。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1181,7 +1181,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "《UN/SEEN》的编辑网格与戛纳创意洞察，关注信息组织、叙事和创意判断。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1216,7 +1216,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "多生态智能家居集成与华为全屋方案，关注中控入口、设备兼容和场景联动。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1270,7 +1270,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "AIGC 与 Figma 工具资源之外，本期也讨论创作判断：当生成更容易，选择与组织更重要。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1311,7 +1311,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "小米家庭 Agent 与 Google Home Speaker，关注环境感知、多步骤指令和家庭设备协同。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1353,7 +1353,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "字体新品与 Google 设计相关内容，关注文字表现力及数字产品视觉语言的更新。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1394,7 +1394,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "Schlage 门锁与苹果 AI 穿戴动向，关注无感身份识别、第一视角感知和隐私反馈。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1448,7 +1448,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "iOS 系统更新与 Newspaper Club 的专属字体，观察系统体验和品牌资产如何形成一致表达。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1489,7 +1489,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "美的家庭中控与 AIVA 智能座舱，关注语音、触控和跨设备服务在不同空间中的组织。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1537,7 +1537,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "微信朋友圈排版变化与 Midjourney 创作内容，关注信息阅读顺序和 AI 视觉表达。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1572,7 +1572,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "Nest 宠物识别与 Homey 接入 ChatGPT，关注家庭对象识别和自然语言控制的实际使用路径。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1626,7 +1626,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "AI 项目助手与设计资源协同，关注从单点工具转向可重复的工作流程。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1673,7 +1673,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "家庭智能音频与 Aqara 中控屏，关注声音、触控和家庭设备管理的结合。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1727,7 +1727,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "智能终端分级、意图设计与行业字体案例，关注能力如何被理解，以及视觉如何回应具体场景。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1788,7 +1788,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "华为与雷鸟眼镜、小猿学习机，覆盖穿戴和教育硬件，关注感知能力、反馈与使用负担。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1844,7 +1844,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Agent 技能、Vibe 编程与自适应界面，关注设计师如何定义规则、组织流程并掌控 AI 产出。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1911,7 +1911,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "本期收录美的 COLMO 相关案例，观察家庭产品与高端家居体验的结合。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1939,7 +1939,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "iOS 更新相关报道与 Material 3 Expressive，关注系统视觉、色彩和动效的表现力。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -1986,7 +1986,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "本期未收录竞品文章。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": []
@@ -1999,7 +1999,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "ChatGPT Images 2.0 是本期焦点，关注生成式图像工具对视觉创作方式的影响。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2026,7 +2026,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "ChatGPT 图像能力与讯飞墨水屏平板，观察 AI 创作和专注办公硬件的不同体验入口。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2075,7 +2075,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "淘宝穿搭频道的一致性与 Claude Design，关注品牌调性、界面规范和 AI 设计工具。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2110,7 +2110,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "ChatGPT 图像生成与讯飞墨水屏平板，关注创作能力和办公设备如何降低使用门槛。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2159,7 +2159,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "本期聚焦图形设计趋势，观察视觉风格如何转化为可复用的界面和品牌表达。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2186,7 +2186,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "海信冰箱、千问与雷鸟眼镜，关注家电场景创新及可穿戴设备的办事、购物能力。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2260,7 +2260,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "淘宝闪购视觉更新与京东 B 端视觉疲劳研究，关注品牌辨识和长时间阅读的舒适度。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2295,7 +2295,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "WWDC 动向与腾讯 AI 浏览器，关注系统级 AI 能力和浏览器入口的变化。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2343,7 +2343,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "天猫直播间品牌升级与 AI 驱动界面趋势，关注品牌心智、情境感知和移动体验的融合。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2410,7 +2410,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "eufy 摄像头与新版 Siri 动向，关注家庭看护和系统级智能助理的入口设计。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2464,7 +2464,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Stitch 的氛围设计与网页、UI/UX 案例，关注 AI 生成如何与完整的交互结构结合。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2531,7 +2531,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "小猿学习机、海尔智能家电与 Aqara 中控屏，关注个性化学习、主动感知和家庭语音控制。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2607,7 +2607,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "两份家居设计观察聚焦自然材质、包裹感和新复古，思考小度产品如何融入居住空间。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2642,7 +2642,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "MOVA 清洁设备、追觅 AI 戒指与华为鸿蒙智家，关注家庭自动化、健康感知和生态联动。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2716,7 +2716,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "本期 UI/UX 趋势围绕视觉美感与易用性的平衡，关注以用户和场景为核心的界面表达。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2757,7 +2757,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "讯飞学习机、华为鸿蒙智家与 TCL 家电，关注教育、连接和家庭场景中的智能体验。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2831,7 +2831,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Seedance、Google Maps 与 Nano Banana 相关案例，关注生成式视觉、系统语言和创作可控性。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2898,7 +2898,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "讯飞与千问 AI 眼镜亮相 MWC，关注面对面交流、换电和大模型硬件化。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -2940,7 +2940,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "视频叙事、触感视觉、沉浸体验与生成式 UI，构成本期 AI 设计观察的四条线索。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3027,7 +3027,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "Seedream、Nano Banana 与荣耀 Robot Phone，关注生成能力和新硬件形态带来的交互变化。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3090,7 +3090,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "AI 交互、触感视觉与三维空间体验，关注新界面如何兼顾表达力和可理解性。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3151,7 +3151,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "可灵视频创作、Fabarta 与有道桌面 Agent，关注多模态输入、本地执行和操作可控性。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3221,7 +3221,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "自然家居、室内风格与 CMF 趋势，关注材质、色彩和生活温度如何进入产品设计。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3288,7 +3288,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "中国移动灵犀屏、Skywork 桌面版与即梦 Seedance，关注家庭融合终端、桌面任务执行和多模态创作。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3365,7 +3365,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "QQ 浏览器 PC 版 AI 升级，关注智能能力如何融入搜索、阅读与日常任务的完整流程。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3392,7 +3392,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "扣子、美团搜索、玄景眼镜与 Clawdbot，观察 Agent、对话决策和模块化硬件的不同交互路径。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3490,7 +3490,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "往期设计趋势观察：涵盖 UI、UX、品牌、字体、AIGC、家居与工业设计。",
+        "summary": "Copilot 设计复盘与 UI/UX、网页趋势，关注主动感知、AI 协作和界面信息组织。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -3577,7 +3577,7 @@
         ]
       },
       "competitors": {
-        "summary": "往期竞品趋势追踪：关注智能屏、音箱、AI 硬件、IoT 与多模态交互。",
+        "summary": "千问办事、Google TV、LG 家庭机器人与 AI 穿戴案例，关注智能服务从对话走向家庭和随身场景。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [

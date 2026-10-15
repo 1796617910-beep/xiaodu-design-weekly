@@ -148,9 +148,10 @@ for (const [section, queries] of Object.entries(feeds)) {
 if (!results.trends.length && !results.competitors.length) throw new Error('No verified items found for the previous week');
 
 issues = issues.filter(issue => issue.start !== iso(start));
+const weeklySummary = (section) => { const items=results[section]; if(!items.length)return '本期未收录'+(section==='trends'?'设计趋势':'竞品')+'文章。'; return '本期关注：'+items.map(x=>articleTitle(x).replace(/[。；;].*$/, '')).join('；')+'。'; };
 issues.unshift({ start: iso(start), end: iso(end), generated_at: iso(now), sections: {
-  trends: { summary: '优先关注国内互联网大厂设计团队，以及与小度智能屏、IoT、家居和运营品牌相关的 UI / UX 设计。', notice: '从最近60天的公开报道中筛选，跨期去重并优先覆盖不同品牌；国内大厂和小度相关性优先。设计关注点为编辑解读。', delivery: 'published', items: results.trends.map(trendItem) },
-  competitors: { summary: '围绕小度的硬件与 IoT 竞品，追踪智能屏、音箱、家庭中控、AI 穿戴设备及大厂新品。', notice: '从最近60天内筛选小米、天猫精灵、华为、豆包硬件、Amazon、Google、Samsung 与 Apple 的新硬件或重大体验升级，跨期去重并优先不同品牌。', delivery: 'published', items: results.competitors.map(competitorItem) }
+  trends: { summary: weeklySummary('trends'), notice: '从最近60天的公开报道中筛选，跨期去重并优先覆盖不同品牌；国内大厂和小度相关性优先。设计关注点为编辑解读。', delivery: 'published', items: results.trends.map(trendItem) },
+  competitors: { summary: weeklySummary('competitors'), notice: '从最近60天内筛选小米、天猫精灵、华为、豆包硬件、Amazon、Google、Samsung 与 Apple 的新硬件或重大体验升级，跨期去重并优先不同品牌。', delivery: 'published', items: results.competitors.map(competitorItem) }
 } });
 
 await writeFile('issues.json', JSON.stringify(issues, null, 2));
