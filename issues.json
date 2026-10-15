@@ -387,14 +387,9 @@
             "published": "2026-09-18",
             "url": "https://www.toutiao.com/article/7683707431519535652/",
             "event_key": "history-competitors-2026-09-18-苹果-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuiLueaenOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQzlFODZDfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjdGRkUwfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGN0ZGRTB9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMjYzNTFBIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0M5RTg2QyIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0M5RTg2QyIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6Iu55p6cPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPmlQaG9uZSAxOCBQcm88L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7ns7vliJfkuI7pppbmrL7mipjlj6DlsY8gaVBob25lIER1bzwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuS6jiA5LzE4IOWPkeWUru+8mjJubSDliLbnqIsgQTIw4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNDOUU4NkMiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyNjM1MUEiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA5LTE4PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "苹果往期信息封面；原文主视觉无法核实",
-                "source": "https://www.toutiao.com/article/7683707431519535652/",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       }
@@ -521,14 +516,9 @@
             "published": "2026-08-26",
             "url": "#",
             "event_key": "history-trends-2026-08-26-Figma-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkZpZ21h5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNDOUU4NkN9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGN0ZGRTB9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0Y3RkZFMH0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiMyNjM1MUEiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNDOUU4NkMiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzlFODZDIiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+REVTSUdOIFRSRU5EPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPkZpZ21hPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWPkeW4g+OAildvcmtmbG93IGxhYjo8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5Nb3ZpbmcgYmV0d2VlbjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPmRlc2lnbiBhbmQgY29kZSB3aXRo4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNDOUU4NkMiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyNjM1MUEiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA4LTI2PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "Figma往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Adobe Photoshop",
@@ -540,14 +530,9 @@
             "published": "2026-08-28",
             "url": "#",
             "event_key": "history-trends-2026-08-28-Adobe Photoshop-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkFkb2JlIFBob3Rvc2hvcOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5BZG9iZSBQaG90b3Nob3A8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+UGhvdG9zaG9wIDI3LjEwIOW8leWFpTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPkFJIEFzc2lzdGVkPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+RWRpdG9y44CBUHJvbXB0IHRv4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiM4RUM5RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNzMxNTMiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA4LTI4PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "Adobe Photoshop往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -566,14 +551,9 @@
             "published": "2026-08-27",
             "url": "#",
             "event_key": "history-competitors-2026-08-27-Samsung-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlNhbXN1bmfkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0YxQTdFNn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0ZGRjBGQn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRkZGMEZCfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzQwMjI0NSIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNGMUE3RTYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNGMUE3RTYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5DT01QRVRJVE9SIFRSQUNLSU5HPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPlNhbXN1bmc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5Y+R5biDIEdhbGF4eSBTMjYgRkXvvIzpppbmrKHlsIY8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5PbmUgVUk8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj4544CBQ29udGV4dC1hd2FyZeKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRjFBN0U2Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNDAyMjQ1Ij5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wOC0yNzwvdGV4dD4KPC9zdmc+",
-                "caption": "Samsung往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "华为",
@@ -585,14 +565,9 @@
             "published": "2026-08-26",
             "url": "#",
             "event_key": "history-competitors-2026-08-26-华为-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWNjuS4uuS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Y2O5Li6PC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWNjuS4uum4v+iSmeaZuuWutiAyMDI2IOaKgOacr+ayn+mAmuS8muWPkeW4gyZxdW90OzwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPjErMytOJnF1b3Q75YWo5bGL5pm66IO96Kej5Yaz5pa55qGI77ya5Lul5a625bqt5aSn6ISRPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+5Li65qC45b+DJnF1b3Q7MSZxdW90O++8jOinpuaOp+OAgeivremfs+OAgeaXoOaEn+S4ieWkp+S6pOS6kuS4uuKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wOC0yNjwvdGV4dD4KPC9zdmc+",
-                "caption": "华为往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       }
@@ -618,14 +593,9 @@
             "published": "2026-08-20",
             "url": "#",
             "event_key": "history-trends-2026-08-20-Instagram-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ikluc3RhZ3JhbeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5JbnN0YWdyYW08L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+SW5zdGFncmFtPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+5Y2B5bm05p2l6aaW5qyh6L+b6KGM5ZOB54mM6KeG6KeJ5Yi35paw77yM6YeN5paw6LCD5pW0PC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+TG9nb+OAgVdvcmRtYXJr77yM5bm25byV5YWlIDPigKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0YxQTdFNiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzQwMjI0NSI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDgtMjA8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Instagram往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Guideflow",
@@ -637,14 +607,9 @@
             "published": "2026-08-19",
             "url": "#",
             "event_key": "history-trends-2026-08-19-Guideflow-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ikd1aWRlZmxvd+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5HdWlkZWZsb3c8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5pW055CGIDIwMjYg5bm05Li75rWBIEFJPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+RGVzaWduIFRvb2xz77yM5a+5IEFJPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+5bmz6Z2i6K6+6K6h44CBVUkg55Sf5oiQ44CB5Y6f5Z6L5bel5YW36L+b6KGM5q+U6L6DPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNCOUY1RDgiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNTNCM0QiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA4LTE5PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "Guideflow往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -663,14 +628,9 @@
             "published": "2026-08-19",
             "url": "#",
             "event_key": "history-competitors-2026-08-19-特斯拉-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IueJueaWr+aLieS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+54m55pav5ouJPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPueJueaWr+aLieS4reWbvei9puacuuato+W8j+mbhuaIkOixhuWMheWkp+aooeWei++8iOi9r+S7tueJiDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuacrCAyMDI2LjE0LjEz77yMNy8zMSDotbfliIY8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7mibnmjqjpgIHvvInvvJrnq6/liLDnq6/lrp7ml7bor63pn7PkuqTkupLjgIHkuIDmrKHllKTphpLov57igKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0ZGQjY4NSIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzREMjgxRCI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDgtMTk8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "特斯拉往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "小米",
@@ -682,14 +642,9 @@
             "published": "2026-08-19",
             "url": "#",
             "event_key": "history-competitors-2026-08-19-小米-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWwj+exs+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQzlFODZDfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjdGRkUwfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGN0ZGRTB9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMjYzNTFBIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0M5RTg2QyIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0M5RTg2QyIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5bCP57GzPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWwj+exs+iTneeJmemfs+euseejgeWQuOeJiCA4LzE5IOS8l+etueW8gOWUru+8mjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPumcjeWwlOejgeWQuOiHquWKqOW8gOacuuOAgeS4gOWQuOS4pOeUqO+8iOWkluaUvivmlK/mnrbvvIk8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7jgIFSR0Ig5aOw5YWJ6IGU5Yqo44CB6JOd54mZ4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNDOUU4NkMiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyNjM1MUEiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA4LTE5PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "小米往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       }
@@ -715,14 +670,9 @@
             "published": "2026-08-14",
             "url": "#",
             "event_key": "history-trends-2026-08-14-Wallpaper-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IldhbGxwYXBlcuS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5XYWxscGFwZXI8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+44CMVHlwb2dyYXBoaWMgVG91cmlzbTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuOAjeWFs+azqOWFqOeQg+ato+WcqOa2iOWkseeahOaJi+W3peaLm+eJjOWSjOWcsOaWueWtl+S9k+aWhzwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuWMljwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQUZBNEZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMkQyNDYwIj5VSSDCtyDnlYzpnaLop4bop4k8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wOC0xNDwvdGV4dD4KPC9zdmc+",
-                "caption": "Wallpaper往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "DesignRush",
@@ -734,14 +684,9 @@
             "published": "2026-08-12",
             "url": "#",
             "event_key": "history-trends-2026-08-12-DesignRush-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkRlc2lnblJ1c2jkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0I5RjVEOH0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VDRkZGN30udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRUNGRkY3fQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE1M0IzRCIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNCOUY1RDgiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNCOUY1RDgiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+RGVzaWduUnVzaDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj7orqjorrogQUkg5LuL5YWl5ZOB54mM5o6l6Kem54K55ZCO77yM5aaC5L2V57u05oyB5ZOBPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+54mM5oOF5oSf5LiO55So5oi35L+h5Lu7PC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNCOUY1RDgiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNTNCM0QiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA4LTEyPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "DesignRush往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -760,14 +705,9 @@
             "published": "2026-08-13",
             "url": "#",
             "event_key": "history-competitors-2026-08-13-Xiaomi-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlhpYW9taeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+WGlhb21pPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuato+W8j+WPkeW4gyBIeXBlck9TIDTvvIzph4fnlKjmlrDnmoQ8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5HbGFzcyBVSe+8jOW5tuW8uuWMliBTdXBlcjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPkFJIEFzc2lzdGFudCAyLjA8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iIzhFQzlGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE3MzE1MyI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDgtMTM8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Xiaomi往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Google Home",
@@ -779,14 +719,9 @@
             "published": "2026-08-11",
             "url": "https://www.androidauthority.com/tag/google-home/?utm_source=chatgpt.com",
             "event_key": "history-competitors-2026-08-11-Google Home-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ikdvb2dsZSBIb21l5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNBRkE0RkZ9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGMUVFRkZ9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0YxRUVGRn0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiMyRDI0NjAiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNBRkE0RkYiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQUZBNEZGIiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+Q09NUEVUSVRPUiBUUkFDS0lORzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5Hb29nbGUgSG9tZTwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5Hb29nbGUgSG9tZSDmjIHnu63mjqjov5s8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5HZW1pbmkgZm9yIEhvbWXvvIzlop7lvLrmmbrog708L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7lrrblsYXkuK3nmoToh6rnhLbor63oqIDkuqTkupLlkozorr7lpIfmjqfliLbog73lips8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0FGQTRGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzJEMjQ2MCI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDgtMTE8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Google Home往期信息封面；原文主视觉无法核实",
-                "source": "https://www.androidauthority.com/tag/google-home/?utm_source=chatgpt.com",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       }
@@ -812,14 +747,9 @@
             "published": "2026-08-04",
             "url": "https://arxiv.org/abs/2608.04293",
             "event_key": "history-trends-2026-08-04-LEGOUI（论文）-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkxFR09VSe+8iOiuuuaWh++8ieS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5MRUdPVUnvvIjorrrmlofvvIk8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5Y+v6Kej6YeKIEFJIFVJIOeUn+aIkOahhuaetjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQjlGNUQ4Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMTUzQjNEIj5VSSDCtyDnlYzpnaLop4bop4k8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wOC0wNDwvdGV4dD4KPC9zdmc+",
-                "caption": "LEGOUI（论文）往期信息封面；原文主视觉无法核实",
-                "source": "https://arxiv.org/abs/2608.04293",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "Behance",
@@ -833,12 +763,14 @@
             "event_key": "history-trends-2026-08-07-Behance-1",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkJlaGFuY2Xkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0M5RTg2Q30uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0Y3RkZFMH0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRjdGRkUwfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzI2MzUxQSIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNDOUU4NkMiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0M5RTg2QyIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNDOUU4NkMiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+QmVoYW5jZTwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj7npL7ljLrng63pl6jjgIpEZXNpZ24gVHJlbmRzPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+MjAyNuOAizwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQzlFODZDIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMjYzNTFBIj5VSSDCtyDnlYzpnaLop4bop4k8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wOC0wNzwvdGV4dD4KPC9zdmc+",
-                "caption": "Behance往期信息封面；原文主视觉无法核实",
+                "url": "./cover-3e5595812867ee28.webp",
+                "caption": "Behance原文正文配图",
                 "source": "https://www.behance.net/gallery/239027109/Design-Trends-2026",
-                "kind": "editorial-fallback"
+                "original_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/84ec5e239027109.6936a19b3c4fa.png",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "微信",
@@ -850,14 +782,9 @@
             "published": "2026-08-03",
             "url": "#",
             "event_key": "history-trends-2026-08-03-微信-2",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuW+ruS/oeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7lvq7kv6E8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5b6u5L+hOC4wLjc254mI5pys6Z2Z6buY5o6o6YCB77yM5a6M5oiQ5YWo55WM6Z2iPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+6Imy5b2p5pS554mI77ya6IGK5aSp56qX5Y+j6IOM5pmv5LuO57qv55m95Y+Y5Li65p+U5ZKM5rWF54GwPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+5bqV77yM5raI5oGv5rCU5rOh5ZyG6KeS5p+U5YyW44CB6KGM6Ze06Led5ouJ5byA77yM57qi54K55pS54oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiM4RUM5RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNzMxNTMiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA4LTAzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "微信往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -876,14 +803,9 @@
             "published": "2026-08-03",
             "url": "#",
             "event_key": "history-competitors-2026-08-03-华为-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWNjuS4uuS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Y2O5Li6PC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuS9meaJv+S4nOWumOWuo+WNjuS4uummluasvlJHQi1NaW5pTEVEPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+55S16KeGVmlzaW9u5pm65oWn5bGPNiBTRTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPlJHQu+8jDjmnIg15pel5byA5ZSu44CC6YeH55SoNEvigKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0YxQTdFNiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzQwMjI0NSI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDgtMDM8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "华为往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "天猫精灵（阿里巴巴）",
@@ -895,14 +817,9 @@
             "published": "2026-08-02",
             "url": "#",
             "event_key": "history-competitors-2026-08-02-天猫精灵（阿里巴巴）-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWkqeeMq+eyvueBte+8iOmYv+mHjOW3tOW3tO+8ieS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5aSp54yr57K+54G177yI6Zi/6YeM5be05be077yJPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWkqeeMq+eyvueBtUlO57OWMyBBSeaZuuiDvemfs+eusea3seW6puS9k+mqjOivhDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPua1i++8mumFjeWkh0xFROeCuemYteWxj++8iOaYvuekuuaXtumXtC/lpKnmsJQv6KGoPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+5oOFL+atjOivje+8ie+8jDVX5oms5aOw5Zmo77yM5Y+M6bqm5YWL6aOO6Zi15YiXK+mZjeKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjOEVDOUZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMTczMTUzIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wOC0wMjwvdGV4dD4KPC9zdmc+",
-                "caption": "天猫精灵（阿里巴巴）往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       }
@@ -928,14 +845,9 @@
             "published": "2026-08-03",
             "url": "#",
             "event_key": "history-trends-2026-08-03-Figma-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkZpZ21h5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNGRkI2ODV9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGRkYyRTh9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0ZGRjJFOH0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiM0RDI4MUQiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNGRkI2ODUiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZCNjg1IiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+REVTSUdOIFRSRU5EPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPkZpZ21hPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPkZpZ21h5Y+R5biD5bWM5aWX5paH5Lu25aS55Yqf6IO977yM5pu/5Luj5Y6f5pyJUDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPnJvamVjdHPkvZPns7vvvIzmlK/mjIHmnIDlpJoxMOWxguW1jOWll+WSjDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuminOiJsuagh+iusO+8m0ZpZ21hIE1ha2XmlrDlop7nsr7nu4bljJbigKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0ZGQjY4NSIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzREMjgxRCI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDgtMDM8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Figma往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Wallpaper",
@@ -974,14 +886,9 @@
             "published": "2026-07-31",
             "url": "#",
             "event_key": "history-competitors-2026-07-31-Looki-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ikxvb2tp5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNBRkE0RkZ9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGMUVFRkZ9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0YxRUVGRn0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiMyRDI0NjAiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNBRkE0RkYiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQUZBNEZGIiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+Q09NUEVUSVRPUiBUUkFDS0lORzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5Mb29raTwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5Mb29raSBMMSBBSeeUn+a0u+S4u+eQhuS6uua3seW6puivhOa1izwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPu+8muWFqOaWsCZxdW90O+aEn+efpeS6pOS6kiZxdW90O+WTgeexu+iuvuWkh++8jFBJRemAoOWei+aXoDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuWxj+W5leaXoOaMiemUruiuvuiuoeOAguaQrei9veWkmuaooeaAgUFJ5oSf55+l6Iqv54mH4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNBRkE0RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyRDI0NjAiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA3LTMxPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "Looki往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "通用汽车(GM)/凯迪拉克",
@@ -993,14 +900,9 @@
             "published": "2026-07-29",
             "url": "#",
             "event_key": "history-competitors-2026-07-29-通用汽车(GM)/凯迪拉克-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IumAmueUqOaxvei9pihHTSkv5Yev6L+q5ouJ5YWL5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNGMUE3RTZ9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGRkYwRkJ9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0ZGRjBGQn0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiM0MDIyNDUiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNGMUE3RTYiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjFBN0U2IiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+Q09NUEVUSVRPUiBUUkFDS0lORzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7pgJrnlKjmsb3ovaYoR00pL+WHr+i/quaLieWFizwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5HTemAmui/h09UQeWQkeWHr+i/quaLieWFi+i9puWei+aOqOmAgeS/oeaBr+WoseS5kDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuezu+e7n1VJ5pu05paw77ya5paw5aKe5L6n6L655pKt5pS+6Zif5YiXK+S4i+aLiemfs+a6kDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuWIh+aNouWZqOOAgeW6p+akheiusOW/huaMiemSruiBlOWKqOeUqOaIt+aho+ahiO+8iOS4gOmUruaBouKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRjFBN0U2Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNDAyMjQ1Ij5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNy0yOTwvdGV4dD4KPC9zdmc+",
-                "caption": "通用汽车(GM)/凯迪拉克往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       }
@@ -1046,14 +948,9 @@
             "published": "2026-07-18",
             "url": "#",
             "event_key": "history-trends-2026-07-18-支付宝-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuaUr+S7mOWuneS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7mlK/ku5jlrp08L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5pSv5LuY5a6d5q2j5byP5LiK57q/QUnniYjvvIzmoLjlv4PkuLrigJzpmL/lrp3igJ3mmbrog708L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7liqnmiYvjgILmlrDniYjmnKzku4Xkv53nlZnigJzpmL/lrp3igJ3lkozigJzotYTkuqfigJ3kuKTkuKo8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7lip/og73pobXvvIzlsIblup7mnYLmnI3liqHkvZPns7vmipjlj6Dov5vlr7nor53lhaXlj6PvvIzlrp7igKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iIzhFQzlGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE3MzE1MyI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDctMTg8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "支付宝往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -1146,14 +1043,9 @@
             "published": "2026-07-13",
             "url": "#",
             "event_key": "history-trends-2026-07-13-Creative Bloq-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkNyZWF0aXZlIEJsb3Hkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0ZGQjY4NX0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0ZGRjJFOH0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRkZGMkU4fQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzREMjgxRCIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNGRkI2ODUiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkI2ODUiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+Q3JlYXRpdmUgQmxvcTwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5HcmFwaGljIERlc2lnbjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPlRyZW5kcyAyMDI2PC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNGRkI2ODUiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiM0RDI4MUQiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA3LTEzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "Creative Bloq往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -1172,14 +1064,9 @@
             "published": "2026-07-04",
             "url": "#",
             "event_key": "history-competitors-2026-07-04-小米/今日头条-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWwj+exsy/ku4rml6XlpLTmnaHkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0M5RTg2Q30uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0Y3RkZFMH0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRjdGRkUwfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzI2MzUxQSIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNDOUU4NkMiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0M5RTg2QyIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNDOUU4NkMiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5DT01QRVRJVE9SIFRSQUNLSU5HPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPuWwj+exsy/ku4rml6XlpLTmnaE8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5bCP57Gz6LaF57qn5bCP54ixVjcuMTMuMjPmraPlvI/niYjkuIrnur/kuKQ8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7lpKfmoLjlv4Plip/og73vvJrikaDlhajlnLrmma/kuIDlj6Xor53lpJrmjIfku6Tot6jnq6/ogZTliqg8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7igJTigJTljZXmrKHllKTphpLmlK/mjIE15p2h5Lul5YaF5aSN5ZCI5oyH5Luk77yM5omT6YCa5omL4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNDOUU4NkMiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyNjM1MUEiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA3LTA0PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "小米/今日头条往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "苹果/今日头条",
@@ -1191,14 +1078,9 @@
             "published": "2026-07-07",
             "url": "#",
             "event_key": "history-competitors-2026-07-07-苹果/今日头条-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuiLueaenC/ku4rml6XlpLTmnaHkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6IzhFQzlGRn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VERjdGRn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRURGN0ZGfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE3MzE1MyIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiM4RUM5RkYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiM4RUM5RkYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5DT01QRVRJVE9SIFRSQUNLSU5HPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPuiLueaenC/ku4rml6XlpLTmnaE8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+6Iu55p6c5bCG5o6o5Ye65pCt6L29TjHoiq/niYfjgIHljp/nlJ/mlK/mjIFBcHBsPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+ZSBJbnRlbGxpZ2VuY2XnmoTluKblsY/kuK3mjqfpn7M8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7nrrHvvIzooaXotrNIb21lS2l055Sf5oCB57y65bCR57uf5LiA56Gs5Lu25YWl4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiM4RUM5RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNzMxNTMiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA3LTA3PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "苹果/今日头条往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       }
@@ -1244,14 +1126,9 @@
             "published": "2026-07-10",
             "url": "https://www.adobe.com/express/learn/blog/design-trends-2026?utm_source=chatgpt.com",
             "event_key": "history-trends-2026-07-10-Adobe Express-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkFkb2JlIEV4cHJlc3Pkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0I5RjVEOH0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VDRkZGN30udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRUNGRkY3fQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE1M0IzRCIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNCOUY1RDgiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNCOUY1RDgiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+QWRvYmUgRXhwcmVzczwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5BZG9iZSDlj5HluIPjgIpEZXNpZ248L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5UcmVuZHMgZm9yIDIwMjbjgIvvvIzorqTkuLrmnKo8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7mnaXop4bop4norr7orqHlsIbmm7TliqDms6jph43nnJ/lrp7mhJ/jgIHmiYvlt6XmhJ/jgIHmnKzlnLDigKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0I5RjVEOCIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE1M0IzRCI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDctMTA8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Adobe Express往期信息封面；原文主视觉无法核实",
-                "source": "https://www.adobe.com/express/learn/blog/design-trends-2026?utm_source=chatgpt.com",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       },
@@ -1270,14 +1147,9 @@
             "published": "2026-07-07",
             "url": "#",
             "event_key": "history-competitors-2026-07-07-小鹏汽车-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWwj+m5j+axvei9puS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5bCP6bmP5rG96L2mPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWwj+m5j+axvei9puWcqOivremfs+S6pOS6kumihuWfn+WvhumbhuW4g+WxgO+8muaOqOmAgeWkqeeOkTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPkFJT1MgNi4wIE9UQeWNh+e6p++8jEFJ6K+t6Z+z5YqpPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+5omL4oCc5bCPUOeuoeWutuKAneaUr+aMgeWFqOWkqeWAmeS4u+WKqOacjeWKoeS4juWFqOWcuuaZr+KApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNy0wNzwvdGV4dD4KPC9zdmc+",
-                "caption": "小鹏汽车往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Apple Home + Apple Intelligence",
@@ -1323,14 +1195,9 @@
             "published": "2026-07-03",
             "url": "#",
             "event_key": "history-trends-2026-07-03-Abduzeedo-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkFiZHV6ZWVkb+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5BYmR1emVlZG88L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+QWJkdXplZWRvIOS6jiA3IOaciCAzPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+5pel5ZCM5pel5Y+R5biDIFBldHJhIEVpc2VsZSDkuLo8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj5TbGFudGVkIOWHuueJiOeahOe8lui+keiuvuiuoeS5puexjeOAilVO4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNBRkE0RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyRDI0NjAiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA3LTAzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "Abduzeedo往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Creative Boom",
@@ -1342,14 +1209,9 @@
             "published": "2026-06-30",
             "url": "#",
             "event_key": "history-trends-2026-06-30-Creative Boom-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkNyZWF0aXZlIEJvb23kv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6IzhFQzlGRn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VERjdGRn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRURGN0ZGfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE3MzE1MyIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiM4RUM5RkYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiM4RUM5RkYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+Q3JlYXRpdmUgQm9vbTwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5DcmVhdGl2ZSBCb29tIOS6jiA2IOaciDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPjMwIOaXpeWPkeW4g+aIm+e6s+WbvemZheWIm+aEj+iKgu+8iENhbm5lczwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPkxpb25zIDIwMjbvvInmt7HluqbmtJ7lr5/mlofnq6DvvIznlLHkurLigKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iIzhFQzlGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE3MzE1MyI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDYtMzA8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Creative Boom往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -1442,14 +1304,9 @@
             "published": "2026-06-19",
             "url": "#",
             "event_key": "history-trends-2026-06-19-AI Studio-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkFJIFN0dWRpb+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5BSSBTdHVkaW88L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+6L+Z56+H5paH56ug6K6o6K665LqGIEFJIOi/m+WFpeWIm+aEj+W3peS9nOWQjueahOS4gDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuS4quWFs+mUrui9rOWPmO+8muW9k+WGheWuueeUn+S6p+WPmOW+l+i2iuadpei2iuW/q+OAgei2iuadpTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPui2iuS+v+WunO+8jOecn+ato+eogOe8uueahOiDveWKm+S4jeWGjeaYr+KAnOWBmuWHuuS4nOilv+KAneKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjOEVDOUZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMTczMTUzIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNi0xOTwvdGV4dD4KPC9zdmc+",
-                "caption": "AI Studio往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -1468,14 +1325,9 @@
             "published": "2026-06-18",
             "url": "#",
             "event_key": "history-competitors-2026-06-18-小米-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWwj+exs+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQzlFODZDfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjdGRkUwfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGN0ZGRTB9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMjYzNTFBIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0M5RTg2QyIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0M5RTg2QyIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5bCP57GzPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWwj+exs+WPkeW4g+W5tuW8gOa6kOWFqOWxi+aZuuiDvUFJ5pa55qGIWGlhb208L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5pIE1pbG9jbyAyLjDvvIzln7rkuo7oh6rnoJRNaU08L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj5v5aSn5qih5Z6L77yM5LulQWdlbnTlvaLlvI/mjqXlhaVPcGVuQ+KApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQzlFODZDIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMjYzNTFBIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNi0xODwvdGV4dD4KPC9zdmc+",
-                "caption": "小米往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Google",
@@ -1487,14 +1339,9 @@
             "published": "2026-06-23",
             "url": "#",
             "event_key": "history-competitors-2026-06-23-Google-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ikdvb2dsZeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+R29vZ2xlPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuiwt+atjOaXtumalOWFreW5tOWPkeW4g+WFqOaWsEdvb2dsZTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPkhvbWU8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj5TcGVha2Vy77yM5pCt6L29R2VtaW5pIGZvcuKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQUZBNEZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMkQyNDYwIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNi0yMzwvdGV4dD4KPC9zdmc+",
-                "caption": "Google往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       }
@@ -1520,14 +1367,9 @@
             "published": "2026-06-16",
             "url": "https://www.creativeboom.com/resources/the-best-new-typefaces-for-june-2026/",
             "event_key": "history-trends-2026-06-16-creativeboom-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9ImNyZWF0aXZlYm9vbeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5jcmVhdGl2ZWJvb208L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+Q3JlYXRpdmUgQm9vbSDlubTluqblrZfkvZPnvJbovpE8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5LYXR5IENvd2FuIOavj+aciOeyvumAieWFqOeQg+acgOWAvOW+lzwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuWFs+azqOeahOWtl+S9k+aWsOWTge+8jDbmnIjmmK/mnKzlubTluqbov4Tku4rmnIDkuLDmlLbnmoQ8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0I5RjVEOCIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE1M0IzRCI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDYtMTY8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "creativeboom往期信息封面；原文主视觉无法核实",
-                "source": "https://www.creativeboom.com/resources/the-best-new-typefaces-for-june-2026/",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "Google",
@@ -1640,14 +1482,9 @@
             "published": "2026-06-10",
             "url": "https://www.creativeboom.com/news/newspaper-club-teams-up-with-abcd8-on-nc-headline-a-tabloid-inspired-typeface-it-owns-outright/",
             "event_key": "history-trends-2026-06-10-Newspaper Club-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ik5ld3NwYXBlciBDbHVi5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNGMUE3RTZ9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGRkYwRkJ9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0ZGRjBGQn0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiM0MDIyNDUiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNGMUE3RTYiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjFBN0U2IiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+REVTSUdOIFRSRU5EPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPk5ld3NwYXBlciBDbHViPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPk5ld3NwYXBlckNsdWIgw5cgYWJjRDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPjjvvJrlvZPkuIDkuKrlrZfkvZPmiJDkuLrnnJ/mraPlsZ7kuo7kvaDnmoTotYTkuqc8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0YxQTdFNiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzQwMjI0NSI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDYtMTA8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Newspaper Club往期信息封面；原文主视觉无法核实",
-                "source": "https://www.creativeboom.com/news/newspaper-club-teams-up-with-abcd8-on-nc-headline-a-tabloid-inspired-typeface-it-owns-outright/",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       },
@@ -1686,14 +1523,9 @@
             "published": "2026-06-12",
             "url": "https://news.m.yiche.com/hao/wenzhang/110691553",
             "event_key": "history-competitors-2026-06-12-AIVA / 赛豆科技-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkFJVkEgLyDotZvosYbnp5HmioDkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0I5RjVEOH0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VDRkZGN30udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRUNGRkY3fQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE1M0IzRCIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNCOUY1RDgiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNCOUY1RDgiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5DT01QRVRJVE9SIFRSQUNLSU5HPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPkFJVkEgLyDotZvosYbnp5HmioA8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+6LWb6LGG56eR5oqA6IGU5ZCI54Gr5bGx5byV5pOO5o6o5Ye6QUnlh7rooYzlk4HniYxBSTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPlZB77yM5Y+R5biDT3JpZ2luIENvbmNlcHTmpoI8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7lv7XovabvvIzpppbmrL7ph4/kuqdNRTflubTlhoXkuq7nm7jjgILku6UmcXVvdDtBSeWumuKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQjlGNUQ4Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMTUzQjNEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNi0xMjwvdGV4dD4KPC9zdmc+",
-                "caption": "AIVA / 赛豆科技往期信息封面；原文主视觉无法核实",
-                "source": "https://news.m.yiche.com/hao/wenzhang/110691553",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       }
@@ -1719,14 +1551,9 @@
             "published": "2026-06-01",
             "url": "#",
             "event_key": "history-trends-2026-06-01-微信-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuW+ruS/oeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7lvq7kv6E8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5b6u5L+h5aSa56uv5pu05paw77ya5pyL5Y+L5ZyI54mI5byP5pS55Li64oCc5paH5a2X5Zyo5LiK5Zu+PC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+54mH5Zyo5LiL4oCdICsgTWFj55u05pKt5Ly05L6j44CC5a6J5Y2TOC4wPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+Ljc05YaF5rWL54mI77ya5pyL5Y+L5ZyI5Zu+5paH5o6S5YiX5LuO5bem5Y+z5YiG5qCP5pS54oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNBRkE0RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyRDI0NjAiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA2LTAxPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "微信往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "原文2",
@@ -1738,14 +1565,9 @@
             "published": "2026-06-03",
             "url": "#",
             "event_key": "history-trends-2026-06-03-原文2-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWOn+aWhzLkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6IzhFQzlGRn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VERjdGRn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRURGN0ZGfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE3MzE1MyIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiM4RUM5RkYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiM4RUM5RkYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Y6f5paHMjwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5NaWRqb3VybmV5PC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiM4RUM5RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNzMxNTMiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA2LTAzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "原文2往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -1919,14 +1741,9 @@
             "published": "2026-05-20",
             "url": "https://baijiahao.baidu.com/sid=1865714869362181463",
             "event_key": "history-trends-2026-05-20-工信部/商务部-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuW3peS/oemDqC/llYbliqHpg6jkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0ZGQjY4NX0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0ZGRjJFOH0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRkZGMkU4fQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzREMjgxRCIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNGRkI2ODUiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkI2ODUiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5bel5L+h6YOoL+WVhuWKoemDqDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj7kuInpg6jpl6jogZTlkIjlj5HluIPjgIrkurrlt6Xmmbrog73nu4jnq6/mmbrog73ljJbliIbnuqfjgIs8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7ns7vliJflm73lrrbmoIflh4bvvIzlsIZBSee7iOerr+aZuuiDveWMluawtOW5s+WIkuWIhuS4ujwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPkwxLUw05Zub5Liq562J57qn77yM57uI57uTJnF1b3Q75pm66IO9JnF1b3Q75qaC5b+15rOb5rul4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNGRkI2ODUiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiM0RDI4MUQiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA1LTIwPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "工信部/商务部往期信息封面；原文主视觉无法核实",
-                "source": "https://baijiahao.baidu.com/sid=1865714869362181463",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "IEEE / HCI 趋势",
@@ -1985,14 +1802,9 @@
             "published": "2026-05-20",
             "url": "https://baijiahao.baidu.com/s?id=1865701660979553747",
             "event_key": "history-competitors-2026-05-20-华为-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWNjuS4uuS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Y2O5Li6PC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWNjuS4ukFJ55y86ZWc6ZKb5Lid5Y2K5qGG5YWJ5a2m6ZWc5pa55b2i5qy+5byA5ZCv6aKE5ZSuPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+77yM5ZSu5Lu3MjQ5OeWFg++8jOmVnOaetui9u+iHszM1LjXlhYvvvIzlhoU8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7nva7ljY7kuLroh6rnoJRBSeecvOmVnOiKr+eJh++8jOaUr+aMgeenkue6p+WTjeW6lDwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNS0yMDwvdGV4dD4KPC9zdmc+",
-                "caption": "华为往期信息封面；原文主视觉无法核实",
-                "source": "https://baijiahao.baidu.com/s?id=1865701660979553747",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "雷鸟创新",
@@ -2004,14 +1816,9 @@
             "published": "2026-05-20",
             "url": "https://baijiahao.baidu.com/s?id=1865675250341190842",
             "event_key": "history-competitors-2026-05-20-雷鸟创新-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iumbt+m4n+WIm+aWsOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6Zu36bif5Yib5pawPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPumbt+m4n+WIm+aWsDXmnIgyN+aXpeWPkeW4g0FS6KeC5b2x5peX6IiwR1Tns7s8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7liJfkuI5BSeaLjeaRhOecvOmVnFY077yMR1Tns7vliJflrprkvY3ooYzkuJrpppY8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7mrL7kuJPkuJrlvbHop4bnuqdBUuecvOmVnO+8jFY06aaW5YibMTox5aSn5bqV4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNBRkE0RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyRDI0NjAiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA1LTIwPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "雷鸟创新往期信息封面；原文主视觉无法核实",
-                "source": "https://baijiahao.baidu.com/s?id=1865675250341190842",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "小猿AI学习机T4",
@@ -2023,14 +1830,9 @@
             "published": "2026-05-18",
             "url": "https://baijiahao.baidu.com/s?id=1865492370304411783",
             "event_key": "history-competitors-2026-05-18-小猿AI学习机T4-2",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWwj+eMv0FJ5a2m5Lmg5py6VDTkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6IzhFQzlGRn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VERjdGRn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRURGN0ZGfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE3MzE1MyIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiM4RUM5RkYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiM4RUM5RkYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5DT01QRVRJVE9SIFRSQUNLSU5HPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPuWwj+eMv0FJ5a2m5Lmg5py6VDQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5bCP54y/QUnlrabkuaDmnLpUNOS7pSZxdW90O+WFqOaEn+efpeS6pOS6kiZxdW90O+mHjeaWsOWumjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuS5iUFJ5a625pWZ77yMJnF1b3Q7QUnotoXmi5/kurrogIHluIgmcXVvdDvlrp7njrDog73lkKzjgIE8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7og73nnIvjgIHog73nkIbop6PnmoTlhajmhJ/nn6XkuqTkupLnlJ/mgIE8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iIzhFQzlGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE3MzE1MyI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDUtMTg8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "小猿AI学习机T4往期信息封面；原文主视觉无法核实",
-                "source": "https://baijiahao.baidu.com/s?id=1865492370304411783",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       }
@@ -2123,14 +1925,9 @@
             "published": "2026-05-10",
             "url": "https://dy.163.com/article/KSHC6PTC0550TE65.html",
             "event_key": "history-competitors-2026-05-10-美的-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iue+jueahOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+576O55qEPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPkNPTE1PPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiM4RUM5RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNzMxNTMiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA1LTEwPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "美的往期信息封面；原文主视觉无法核实",
-                "source": "https://dy.163.com/article/KSHC6PTC0550TE65.html",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       }
@@ -2243,14 +2040,9 @@
             "published": "2026-04-22",
             "url": "#",
             "event_key": "history-competitors-2026-04-22-ChatGPT-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkNoYXRHUFTkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0YxQTdFNn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0ZGRjBGQn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRkZGMEZCfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzQwMjI0NSIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNGMUE3RTYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNGMUE3RTYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5DT01QRVRJVE9SIFRSQUNLSU5HPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPkNoYXRHUFQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+Q2hhdEdQVC1pbWFnZS0y5q2j5byP5Y+R5biDPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNGMUE3RTYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiM0MDIyNDUiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA0LTIyPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "ChatGPT往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "京东",
@@ -2264,12 +2056,14 @@
             "event_key": "history-competitors-2026-04-23-京东-1",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuS6rOS4nOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Lqs5LicPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuS6rOS4nOmmluWPkeWFqOeQg+acgOiWhOWiqOawtOWxj+W5s+advzwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuiur+mjnuidiee/vEFJTk9URSAyPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNCOUY1RDgiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNTNCM0QiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA0LTIzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "京东往期信息封面；原文主视觉无法核实",
+                "url": "./cover-f29b4eb6969ab963.webp",
+                "caption": "京东原文正文配图",
                 "source": "https://article.pchome.net/content-2195022.html",
-                "kind": "editorial-fallback"
+                "original_url": "https://img-cms.pchome.net/article/1ka/br/4g/t9rt3q-1xec-ori.png?imageView2/2/w/720/q/100",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           }
         ]
       }
@@ -2295,14 +2089,9 @@
             "published": "2026-04-17",
             "url": "#",
             "event_key": "history-trends-2026-04-17-淘宝-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iua3mOWuneS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7mt5jlrp08L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5reY5a6d56m/5pCt6aKR6YGT5L2T6aqM5LiA6Ie05oCn6K6+6K6h77ya6K6p44CM5pe25bCa5oSf44CNPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+56uZ5Ye65p2lPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiM4RUM5RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNzMxNTMiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA0LTE3PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "淘宝往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Claude",
@@ -2314,14 +2103,9 @@
             "published": "2026-04-18",
             "url": "#",
             "event_key": "history-trends-2026-04-18-Claude-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkNsYXVkZeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5DbGF1ZGU8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+Q2xhdWRlIERlc2lnbjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuWPkeW4g++8muiuvuiuoeeahOaWsOaXtuS7ozwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRjFBN0U2Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNDAyMjQ1Ij5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNC0xODwvdGV4dD4KPC9zdmc+",
-                "caption": "Claude往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -2340,14 +2124,9 @@
             "published": "2026-04-22",
             "url": "#",
             "event_key": "history-competitors-2026-04-22-ChatGPT-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkNoYXRHUFTkv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6I0YxQTdFNn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0ZGRjBGQn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRkZGMEZCfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzQwMjI0NSIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiNGMUE3RTYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNGMUE3RTYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5DT01QRVRJVE9SIFRSQUNLSU5HPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPkNoYXRHUFQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+Q2hhdEdQVC1pbWFnZS0y5q2j5byP5Y+R5biDPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNGMUE3RTYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiM0MDIyNDUiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA0LTIyPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "ChatGPT往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "京东",
@@ -2361,12 +2140,14 @@
             "event_key": "history-competitors-2026-04-23-京东-1",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuS6rOS4nOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Lqs5LicPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuS6rOS4nOmmluWPkeWFqOeQg+acgOiWhOWiqOawtOWxj+W5s+advzwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuiur+mjnuidiee/vEFJTk9URSAyPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNCOUY1RDgiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNTNCM0QiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA0LTIzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "京东往期信息封面；原文主视觉无法核实",
+                "url": "./cover-f29b4eb6969ab963.webp",
+                "caption": "京东原文正文配图",
                 "source": "https://article.pchome.net/content-2195022.html",
-                "kind": "editorial-fallback"
+                "original_url": "https://img-cms.pchome.net/article/1ka/br/4g/t9rt3q-1xec-ori.png?imageView2/2/w/720/q/100",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           }
         ]
       }
@@ -2493,14 +2274,9 @@
             "published": "2026-04-08",
             "url": "https://www.xiaohongshu.com/discovery/item/69d5cfbf000000002102f105?source=webshare&xhsshare=pc_web&xsec_token=ABbjoYl9L2vqPWXcA8EE_flS81RyusFhApRtkb_GNdEkw=&xsec_source=pc_share",
             "event_key": "history-trends-2026-04-08-淘宝闪购-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iua3mOWunemXqui0reS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7mt5jlrp3pl6rotK08L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5reY5a6d6Zeq6LSt5aSn5Y+Y6Lqr77yBPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNGMUE3RTYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiM0MDIyNDUiPlVJIMK3IOeVjOmdouinhuiniTwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTA0LTA4PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "淘宝闪购往期信息封面；原文主视觉无法核实",
-                "source": "https://www.xiaohongshu.com/discovery/item/69d5cfbf000000002102f105?source=webshare&xhsshare=pc_web&xsec_token=ABbjoYl9L2vqPWXcA8EE_flS81RyusFhApRtkb_GNdEkw=&xsec_source=pc_share",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "京东",
@@ -2512,14 +2288,9 @@
             "published": "2026-04-10",
             "url": "#",
             "event_key": "history-trends-2026-04-10-京东-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuS6rOS4nOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7kuqzkuJw8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+Querr+S9k+mqjOiuvuiuoeaOoue0ou+8muWmguS9lee8k+ino+eUqOaIt+inhuinieeWsuWKszwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNC0xMDwvdGV4dD4KPC9zdmc+",
-                "caption": "京东往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       },
@@ -2558,14 +2329,9 @@
             "published": "2026-04-08",
             "url": "https://zhuanlan.zhihu.com/p/2025537518918018461",
             "event_key": "history-competitors-2026-04-08-腾讯-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuiFvuiur+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6IW+6K6vPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuiFvuiur+mmluWPkeWFqOaWsCBBSTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPua1j+iniOWZqOm+meiZvu+8geaUr+aMgeiHqueUsemFjee9ruS4u+a1geWkp+aooeWei+aOpeWPozwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjOEVDOUZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMTczMTUzIj5VSSDCtyDnlYzpnaLop4bop4k8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wNC0wODwvdGV4dD4KPC9zdmc+",
-                "caption": "腾讯往期信息封面；原文主视觉无法核实",
-                "source": "https://zhuanlan.zhihu.com/p/2025537518918018461",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       }
@@ -2801,12 +2567,14 @@
             "event_key": "history-competitors-2026-03-13-海尔-1",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iua1t+WwlOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQzlFODZDfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjdGRkUwfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGN0ZGRTB9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMjYzNTFBIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0M5RTg2QyIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0M5RTg2QyIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5rW35bCUPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPua1t+WwlFNlZWtlcuWll+ezu+mAmui/h+WbveWutummluS4qkw06K6k6K+BPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+77yM5pm66IO95a6255S16Ieq5Li75oSf55+l6L+O5p2l6LSo5Y+YPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNDOUU4NkMiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyNjM1MUEiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAzLTEzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "海尔往期信息封面；原文主视觉无法核实",
+                "url": "./cover-0ba1ed57e13f6f50.webp",
+                "caption": "海尔原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2015706264752108154",
-                "kind": "editorial-fallback"
+                "original_url": "https://picx.zhimg.com/v2-903a13f004df02b2a6732c733631f679_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "苹果",
@@ -2820,12 +2588,14 @@
             "event_key": "history-competitors-2026-03-04-苹果-2",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuiLueaenOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojOEVDOUZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRURGN0ZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFREY3RkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTczMTUzIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFQzlGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6Iu55p6cPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPjIwMjblubQz5pyIM+aXpe+8jEFxYXJh6IGU5ZCI5bCR5pWw5rS+PC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+5Zyo5rex5Zyz5Y+R5biD6aaW5qy+5pCt6L29U2lyaeeahOWFqOWxi+aZuuiDveS4reaOpzwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuWxj++8jOihpeWFqEFwcGxlIEhvbWXor63pn7PkuqTkupLpl63njq/igKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iIzhFQzlGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE3MzE1MyI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDMtMDQ8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "苹果往期信息封面；原文主视觉无法核实",
+                "url": "./cover-ffc22918ee2418fa.webp",
+                "caption": "苹果原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2012499605816878025",
-                "kind": "editorial-fallback"
+                "original_url": "https://pica.zhimg.com/v2-3e0529f41d05844b7c907ea5139a71ac_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           }
         ]
       }
@@ -2851,14 +2621,9 @@
             "published": "2026-01-28",
             "url": "https://www.build-review.com/the-big-home-design-trends-set-to-shape-2026/",
             "event_key": "history-trends-2026-01-28-2026年即将到来的主要家居设计趋势-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IjIwMjblubTljbPlsIbliLDmnaXnmoTkuLvopoHlrrblsYXorr7orqHotovlir/kv6Hmga/lsIHpnaIiPgo8c3R5bGU+CnRleHR7Zm9udC1mYW1pbHk6LWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsIlBpbmdGYW5nIFNDIiwiTWljcm9zb2Z0IFlhSGVpIixBcmlhbCxzYW5zLXNlcmlmfSAuZXllYnJvd3tmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6M3B4O2ZpbGw6IzhFQzlGRn0uYnJhbmR7Zm9udC1zaXplOjU2cHg7Zm9udC13ZWlnaHQ6NzYwO2ZpbGw6I0VERjdGRn0udGl0bGV7Zm9udC1zaXplOjQ0cHg7Zm9udC13ZWlnaHQ6NjUwO2ZpbGw6I2ZmZn0ubWV0YXtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo2MDA7ZmlsbDojRURGN0ZGfQo8L3N0eWxlPgo8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2NzUiIHJ4PSIzMiIgZmlsbD0iIzE3MzE1MyIvPgo8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iMTEyIiByPSIyMTAiIGZpbGw9IiM4RUM5RkYiIG9wYWNpdHk9Ii4xNCIvPjxjaXJjbGUgY3g9IjExMDAiIGN5PSI1ODAiIHI9IjMyMCIgZmlsbD0iIzhFQzlGRiIgb3BhY2l0eT0iLjA4Ii8+CjxwYXRoIGQ9Ik05NDAgMTE2aDExMnYxMTJIOTQwek0xMDI2IDIwMmgxMTJ2MTEyaC0xMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiM4RUM5RkYiIHN0cm9rZS13aWR0aD0iMTAiIG9wYWNpdHk9Ii43NSIvPgo8dGV4dCB4PSI3MiIgeT0iODIiIGNsYXNzPSJleWVicm93Ij5ERVNJR04gVFJFTkQ8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+MjAyNuW5tOWNs+WwhuWIsOadpeeahOS4u+imgeWutuWxheiuvuiuoei2i+WKvzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj7lrrblsYU8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iIzhFQzlGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE3MzE1MyI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDEtMjg8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "2026年即将到来的主要家居设计趋势往期信息封面；原文主视觉无法核实",
-                "source": "https://www.build-review.com/the-big-home-design-trends-set-to-shape-2026/",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "25个家居设计趋势将定义我们2026年的生活方式",
@@ -2870,14 +2635,9 @@
             "published": "2026-01-01",
             "url": "https://www.houzz.com/magazine/25-home-design-trends-defining-how-well-live-in-2026-stsetivw-vs~183837788",
             "event_key": "history-trends-2026-01-01-25个家居设计趋势将定义我们2026年的生活方式-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IjI15Liq5a625bGF6K6+6K6h6LaL5Yq/5bCG5a6a5LmJ5oiR5LusMjAyNuW5tOeahOeUn+a0u+aWueW8j+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj4yNeS4quWutuWxheiuvuiuoei2i+WKv+WwhuWumuS5ieaIkeS7rDIwMjblubTnmoTnlJ/mtLvmlrnlvI88L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+MS7muKnmtqbjgIHljIXoo7nkuI7igJzmlrDlpI3lj6TigJ08L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0YxQTdFNiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzQwMjI0NSI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDEtMDE8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "25个家居设计趋势将定义我们2026年的生活方式往期信息封面；原文主视觉无法核实",
-                "source": "https://www.houzz.com/magazine/25-home-design-trends-defining-how-well-live-in-2026-stsetivw-vs~183837788",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       },
@@ -2970,14 +2730,9 @@
             "published": "2026-02-23",
             "url": "#",
             "event_key": "history-trends-2026-02-23-2026 年的设计不再刻意追求“极简”或“极繁”的风格对立，而是以用户需求和使用场景为核心，追求视觉美学与易用性的高度平衡。-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IjIwMjYg5bm055qE6K6+6K6h5LiN5YaN5Yi75oSP6L+95rGC4oCc5p6B566A4oCd5oiW4oCc5p6B57mB4oCd55qE6aOO5qC85a+556uL77yM6ICM5piv5Lul55So5oi36ZyA5rGC5ZKM5L2/55So5Zy65pmv5Li65qC45b+D77yM6L+95rGC6KeG6KeJ576O5a2m5LiO5piT55So5oCn55qE6auY5bqm5bmz6KGh44CC5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNDOUU4NkN9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGN0ZGRTB9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0Y3RkZFMH0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiMyNjM1MUEiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNDOUU4NkMiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzlFODZDIiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+REVTSUdOIFRSRU5EPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMTc4IiBjbGFzcz0iYnJhbmQiPjIwMjYg5bm055qE6K6+6K6h5LiN5YaN5Yi75oSP6L+95rGC4oCc5p6B566A4oCd5oiW4oCc5p6B57mB4oCd55qE6aOO5qC85a+556uL77yM6ICM5piv5Lul55So5oi36ZyA5rGC5ZKM5L2/55So5Zy65pmv5Li65qC45b+D77yM6L+95rGC6KeG6KeJ576O5a2m5LiO5piT55So5oCn55qE6auY5bqm5bmz6KGh44CCPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPlVJPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNDOUU4NkMiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyNjM1MUEiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAyLTIzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "2026 年的设计不再刻意追求“极简”或“极繁”的风格对立，而是以用户需求和使用场景为核心，追求视觉美学与易用性的高度平衡。往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "专家精选",
@@ -3157,14 +2912,9 @@
             "published": "2026-03-03",
             "url": "#",
             "event_key": "history-competitors-2026-03-03-科大讯飞-0",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuenkeWkp+iur+mjnuS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+56eR5aSn6K6v6aOePC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPjPmnIgy5pel77yM5Zyo6KW/54+t54mZ5be05aGe572X6YKj5Li+5Yqe55qETVdDIDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPjIwMjbkuJbnlYznp7vliqjpgJrkv6HlpKfkvJrkuIrvvIznp5HlpKforq/po57vvIhpPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+RkxZVEVL77yJ5ZCR5YWo55CD5bGV56S65LqG5LiA5qy+5LiT5Li66Z2i5a+56Z2i4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNBRkE0RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyRDI0NjAiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAzLTAzPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "科大讯飞往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "阿里巴巴",
@@ -3176,14 +2926,9 @@
             "published": "2026-03-04",
             "url": "#",
             "event_key": "history-competitors-2026-03-04-阿里巴巴-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IumYv+mHjOW3tOW3tOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6Zi/6YeM5be05be0PC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWcqDIwMjbkuJbnlYznp7vliqjpgJrkv6HlpKfkvJrvvIhNV0PvvInkuIrvvIw8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7pmL/ph4zlt7Tlt7Tml5fkuIvljYPpl65BSeecvOmVnOi/juadpeWFqOeQg+mmluasoeWFrOW8gDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuS6ruebuO+8jOi/measvuWNg+mXruWkp+aooeWei+iQveWcsOeahOmmluasvkFJ56Gs5Lu25Lqn4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNGMUE3RTYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiM0MDIyNDUiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAzLTA0PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "阿里巴巴往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           }
         ]
       }
@@ -3298,12 +3043,14 @@
             "event_key": "history-competitors-2026-02-10-字节跳动-0",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWtl+iKgui3s+WKqOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5a2X6IqC6Lez5YqoPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWtl+iKgui3s+WKqOWbvuWDj+eUn+aIkOaooeWeiyBTZWVkcmVhbTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPjUuMCBQcmV2aWV3IOS4iue6v++8jOWPr+WcqOWJquaYoOOAgTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPkNhcGN1dOOAgeWwj+S6kembgOS9v+eUqO+8jOWcqOWNs+aipiBBSeKApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRjFBN0U2Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNDAyMjQ1Ij5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMi0xMDwvdGV4dD4KPC9zdmc+",
-                "caption": "字节跳动往期信息封面；原文主视觉无法核实",
+                "url": "./cover-8171cb4bd5ea81b8.webp",
+                "caption": "字节跳动原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2004551162012131859",
-                "kind": "editorial-fallback"
+                "original_url": "https://picx.zhimg.com/v2-3eff97b4a967ef825e08000493b63dd3_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "谷歌",
@@ -3315,14 +3062,9 @@
             "published": "2026-02-27",
             "url": "https://m.alexa.baidu.com/t/#/readReport?id=77000e74874c8e04029eb4c902bba98c&type=1",
             "event_key": "history-competitors-2026-02-27-谷歌-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iuiwt+atjOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6LC35q2MPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuiwt+atjOeUn+WbvuaWsOeOi05hbm8gQmFuYW5hPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+Mua3seWknOeqgeiire+8geaAp+iDveWxoOamnOmAn+W6pumjnuWNh++8jOS7t+agvOiFsOaWqTwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMi0yNzwvdGV4dD4KPC9zdmc+",
-                "caption": "谷歌往期信息封面；原文主视觉无法核实",
-                "source": "https://m.alexa.baidu.com/t/#/readReport?id=77000e74874c8e04029eb4c902bba98c&type=1",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "荣耀",
@@ -3334,14 +3076,9 @@
             "published": "2026-03-01",
             "url": "https://zhuanlan.zhihu.com/p/2011555602581722241",
             "event_key": "history-competitors-2026-03-01-荣耀-2",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuiNo+iAgOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6I2j6ICAPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuaWsOeJqeenjVJvYm90IFBob25l5Lqu55u4TVdD77yMPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+Q0VP5p2O5YGl77ya5omL5py65LiN5bqU5piv4oCc5peg6IGK6buR6Imy5pa55Z2X4oCdPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNBRkE0RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyRDI0NjAiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAzLTAxPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "荣耀往期信息封面；原文主视觉无法核实",
-                "source": "https://zhuanlan.zhihu.com/p/2011555602581722241",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       }
@@ -3407,14 +3144,9 @@
             "published": "2026-01-09",
             "url": "https://juejin.cn/post/7592903126178611250",
             "event_key": "history-trends-2026-01-09-稀土掘金-2",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IueogOWcn+aOmOmHkeS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkRFU0lHTiBUUkVORDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj7nqIDlnJ/mjpjph5E8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIyNjAiIGNsYXNzPSJ0aXRsZSI+5pys5paH5bCG5bim5L2g5o+Q5YmN5LqG6KejMjAyNuW5tOe9kemhteiuvuiuoeeahOWNgTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuWkp+i2i+WKvzwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQUZBNEZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMkQyNDYwIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMS0wOTwvdGV4dD4KPC9zdmc+",
-                "caption": "稀土掘金往期信息封面；原文主视觉无法核实",
-                "source": "https://juejin.cn/post/7592903126178611250",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           }
         ]
       },
@@ -3435,12 +3167,14 @@
             "event_key": "history-competitors-2026-02-04-可灵-0",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWPr+eBteS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Y+v54G1PC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuOAkOWPr+eBtUFJ44CR5Y+R5biDMy4w54mI5pys77yM6YeN5p6EQUnop4bpopE8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7liJvkvZzlhajpk77ot6/vvIzlsZ7kuo7mr4/kuKrkurrnmoTlr7zmvJTml7bku6PmnaXkuLTvvIzmjqg8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7lh7rop4bpopEzLjDjgIHop4bpopEzLjDigKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0I5RjVEOCIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE1M0IzRCI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDItMDQ8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "可灵往期信息封面；原文主视觉无法核实",
+                "url": "./cover-635c9a2c636aa961.webp",
+                "caption": "可灵原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2004294403389416768",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic3.zhimg.com/v2-3cce3d9837886daae8066a8d469ad7a4_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "枫清科技",
@@ -3452,14 +3186,9 @@
             "published": "2026-02-03",
             "url": "#",
             "event_key": "history-competitors-2026-02-03-枫清科技-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iuaeq+a4heenkeaKgOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5p6r5riF56eR5oqAPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuaeq+a4heenkeaKgO+8iEZhYmFydGHvvInpppblj5HkuK3lm73niYhPcDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPmVuQ2xhd+KAnOm+meiZvuKAnSw8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7ph43mlrDlrprkuYnmnKzlnLBBSeeUn+S6p+WKmzwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMi0wMzwvdGV4dD4KPC9zdmc+",
-                "caption": "枫清科技往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "网易有道",
@@ -3473,12 +3202,14 @@
             "event_key": "history-competitors-2026-02-11-网易有道-2",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iue9keaYk+aciemBk+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+572R5piT5pyJ6YGTPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPue9keaYk+aciemBk+aOqOWHuuWFqOWcuuaZr+S4quS6uuWKqeeQhiBBZ2VudDwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPkxvYnN0ZXJBSe+8jOiDvei/nOeoi+aMh+aMpeeUteiEkeW5sua0uzwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQUZBNEZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMkQyNDYwIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMi0xMTwvdGV4dD4KPC9zdmc+",
-                "caption": "网易有道往期信息封面；原文主视觉无法核实",
+                "url": "./cover-4e9ec6d0de90b767.webp",
+                "caption": "网易有道原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2004927232334901484",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic2.zhimg.com/v2-9895cc50feb2ca79cd073658521548b3_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           }
         ]
       }
@@ -3573,12 +3304,14 @@
             "event_key": "history-competitors-2026-02-05-中国移动-0",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuS4reWbveenu+WKqOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5Lit5Zu956e75YqoPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWxj+iuuuS4qOi/kOiQpeWVhuS4reWxj++8jOW8gOWni+KAnOeZu+WgguWFpeWupOOAgjIwMjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPjblubTlvIDlubTvvIzkuK3lm73np7vliqjlsLHmjqjlh7rkuoblhbbpppbmrL7kuIDkvZPljJbmmbo8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7og73kuqTkupLluKblsY/nu4jnq6/igJzngbXnioDlsY/igJ3vvIzlubblkK/liqjor5XllYbnlKg8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0ZGQjY4NSIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzREMjgxRCI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDItMDU8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "中国移动往期信息封面；原文主视觉无法核实",
+                "url": "./cover-4500c50fa667de1d.webp",
+                "caption": "中国移动原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2000492078824698950",
-                "kind": "editorial-fallback"
+                "original_url": "https://picx.zhimg.com/v2-5cd92b10591b1ad8d79f566cb20e162f_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "昆仑天工",
@@ -3592,12 +3325,14 @@
             "event_key": "history-competitors-2026-02-04-昆仑天工-1",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuaYhuS7keWkqeW3peS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5piG5LuR5aSp5belPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPui2hei2ikNsYXVkZSBDb3dvcmvvvIzmmIbku5HlpKnlt6U8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj5Ta3l3b3Jr5qGM6Z2i54mI5LiK57q/77yMU2t5d29yazwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuahjOmdoueJiOeahOaguOW/g+aYr+WunueOsOS7juS6keerr+S+nei1luWIsOacrOWcsOiHquS4u+KApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjQUZBNEZGIi8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjMkQyNDYwIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMi0wNDwvdGV4dD4KPC9zdmc+",
-                "caption": "昆仑天工往期信息封面；原文主视觉无法核实",
+                "url": "./cover-b2bc90e2b2ce90c0.webp",
+                "caption": "昆仑天工原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2002708706681450844",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic2.zhimg.com/v2-f59f2221654d4c0e73c8aa6881da52e9_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "字节跳动",
@@ -3611,12 +3346,14 @@
             "event_key": "history-competitors-2026-02-06-字节跳动-2",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWtl+iKgui3s+WKqOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5a2X6IqC6Lez5YqoPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWNs+aipnNlZWRhbmNlPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+Mi4w5oiQ5Li65LqGMjAyNuW5tOeahOesrOS4gOWMuem7kemprO+8jOWNs+aipjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPlNlZWRhbmNlIDIuMCDnmoTmoLjlv4PmmK/lrp7njrDku47igKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0I5RjVEOCIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE1M0IzRCI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDItMDY8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "字节跳动往期信息封面；原文主视觉无法核实",
+                "url": "./cover-1722ff4751e1aa63.webp",
+                "caption": "字节跳动原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/2003652116993025320",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic1.zhimg.com/v2-337578327e10ba9c3c4fd75d4398d108_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           }
         ]
       }
@@ -3671,12 +3408,14 @@
             "event_key": "history-competitors-2026-01-19-字节跳动-0",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuWtl+iKgui3s+WKqOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQzlFODZDfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjdGRkUwfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGN0ZGRTB9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMjYzNTFBIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0M5RTg2QyIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0M5RTg2QyIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5a2X6IqC6Lez5YqoPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPkFJ55qE57uI5bGA77yB5a2X6IqC5omj5a2QMi4w5Y+R5biD77yM5LuO4oCc5bel5YW3PC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+5LmL5LqJ4oCd6L2s5ZCR4oCc55Sf5oCB5LmL5LqJ4oCd5omj5a2QIDIuMCDnmoTmoLg8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7lv4PmmK/lrp7njrDku47ooqvliqjlt6XlhbfliLDkuLvliqjkvJnkvLTnmoTop5LoibLovazlj5g8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0M5RTg2QyIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzI2MzUxQSI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDEtMTk8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "字节跳动往期信息封面；原文主视觉无法核实",
+                "url": "./cover-fed6179bb85a5b59.webp",
+                "caption": "字节跳动原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/1996875385883862644",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic4.zhimg.com/v2-b2a98844a1b45add85302e72bbed73a9_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "美团",
@@ -3690,12 +3429,14 @@
             "event_key": "history-competitors-2026-01-22-美团-1",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iue+juWbouS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQjlGNUQ4fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRUNGRkY3fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNFQ0ZGRjd9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMTUzQjNEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0I5RjVEOCIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQjlGNUQ4IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0I5RjVEOCIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+576O5ZuiPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPue+juWbouS4iue6v0FJ5pCc57Si5Yqf6IO977yM5om+5Yiw54Of54Gr5bCP5bqX5pu05a655piTPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+5LqG77yM5LuO5YWz6ZSu6K+N5pCc57Si5Yiw5a+56K+d5byP5Yaz562W55qE6IyD5byP5Y2H57qnPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNCOUY1RDgiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNTNCM0QiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAxLTIyPC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "美团往期信息封面；原文主视觉无法核实",
+                "url": "./cover-251ea666c6ee6fe8.webp",
+                "caption": "美团原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/1998330076136240660",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic2.zhimg.com/v2-830c7467462d3adaecef9a95341a9ce1_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "微光科技",
@@ -3709,12 +3450,14 @@
             "event_key": "history-competitors-2026-01-06-微光科技-2",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IuW+ruWFieenkeaKgOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+5b6u5YWJ56eR5oqAPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPueOhOaZryBNNiDns7vliJfnmoTmoLjlv4PmmK/lrp7njrDku47mlbTmnLrmjYbnu5HliLA8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7lip/og73op6PogKbnmoTnqb/miLTorr7lpIfkuqTkupLpnanlkb3vvIzpgJrov4fmqKHlnZfljJbno4E8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7lkLjkuqTkupIgKyDlpJrmqKHmgIHml6DmhJ/mjqfliLYgK+KApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMS0wNjwvdGV4dD4KPC9zdmc+",
-                "caption": "微光科技往期信息封面；原文主视觉无法核实",
+                "url": "./cover-6b342b9cd97f0acb.webp",
+                "caption": "微光科技原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/1991886485494973643",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic3.zhimg.com/v2-091309332d5744c73446bbc2c1cf060e_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "clawdbot",
@@ -3728,12 +3471,14 @@
             "event_key": "history-competitors-2026-01-26-clawdbot-3",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9ImNsYXdkYm905L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiM4RUM5RkZ9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNFREY3RkZ9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0VERjdGRn0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiMxNzMxNTMiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiM4RUM5RkYiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOEVDOUZGIiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+Q09NUEVUSVRPUiBUUkFDS0lORzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5jbGF3ZGJvdDwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj7ov5nlsYrnvZHlj4vlpKrni6DkuobvvJpDbGF3ZGJvdOeIhueBq++8jOeLgjwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPuWbpDQw5Y+wTWFjPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+bWluaeadpei3kUNsYXdkYm904oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiM4RUM5RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMxNzMxNTMiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAxLTI2PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "clawdbot往期信息封面；原文主视觉无法核实",
+                "url": "./cover-19e01cd63e276925.webp",
+                "caption": "clawdbot原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/1999089579374973717",
-                "kind": "editorial-fallback"
+                "original_url": "https://pic3.zhimg.com/v2-0bc63e9cbf151c2f16989751cdc6faf4_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           }
         ]
       }
@@ -3848,12 +3593,14 @@
             "event_key": "history-competitors-2026-01-15-阿里千问-0",
             "images": [
               {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IumYv+mHjOWNg+mXruS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRjFBN0U2fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMEZCfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYwRkJ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNDAyMjQ1Ii8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0YxQTdFNiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRjFBN0U2IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0YxQTdFNiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6Zi/6YeM5Y2D6ZeuPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPuWNg+mXrkFwcOWFqOmdouaOpeWFpemYv+mHjOeUn+aAge+8jOWFqOeQg+mmluWPkUFJPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+6LSt54mp54K55aSW5Y2W562J5Yqe5LqL5Yqf6IO944CCPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNGMUE3RTYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiM0MDIyNDUiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAxLTE1PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "阿里千问往期信息封面；原文主视觉无法核实",
+                "url": "./cover-5739bf4df62da8fe.webp",
+                "caption": "阿里千问原文正文配图",
                 "source": "https://zhuanlan.zhihu.com/p/1995197158794753185",
-                "kind": "editorial-fallback"
+                "original_url": "https://pica.zhimg.com/v2-fb7c8e737729e2c3c88382dd6cedd692_r.jpg",
+                "kind": "article-body"
               }
-            ]
+            ],
+            "cover_status": "verified-article-image"
           },
           {
             "brand": "谷歌",
@@ -3865,14 +3612,9 @@
             "published": "2026-01-16",
             "url": "#",
             "event_key": "history-competitors-2026-01-16-谷歌-1",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iuiwt+atjOS/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojQUZBNEZGfS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRjFFRUZGfS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGMUVFRkZ9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjMkQyNDYwIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0FGQTRGRiIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjQUZBNEZGIiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0FGQTRGRiIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6LC35q2MPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPkdlbWluaSDkuLogR29vZ2xlIFRWPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+5bim5p2l55qE5Lqk5LqS6Z2p5ZG977yM5qC45b+D5Zyo5LqO5bCGIOKAnOiHqueEtuWvueivneKAnTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPuS4jiDigJzlpKflsY/msonmtbjigJ0g5rex5bqm6J6N5ZCI77yM5b275bqV6YeN5p6E55S16KeG4oCmPC90ZXh0Pgo8cmVjdCB4PSI3MiIgeT0iNTY4IiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjU0IiByeD0iMjciIGZpbGw9IiNBRkE0RkYiLz48dGV4dCB4PSIxMDAiIHk9IjYwNCIgY2xhc3M9Im1ldGEiIGZpbGw9IiMyRDI0NjAiPlVYIMK3IOS9v+eUqOS9k+mqjDwvdGV4dD4KPHRleHQgeD0iOTAwIiB5PSI2MDUiIGNsYXNzPSJtZXRhIj4yMDI2LTAxLTE2PC90ZXh0Pgo8L3N2Zz4=",
-                "caption": "谷歌往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "LG",
@@ -3884,14 +3626,9 @@
             "published": "2026-01-05",
             "url": "#",
             "event_key": "history-competitors-2026-01-05-LG-2",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkxH5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiNDOUU4NkN9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNGN0ZGRTB9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0Y3RkZFMH0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiMyNjM1MUEiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjQzlFODZDIiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiNDOUU4NkMiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzlFODZDIiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+Q09NUEVUSVRPUiBUUkFDS0lORzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5MRzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5MRyDlnKggQ0VTIDIwMjY8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpdGxlIj7lsZXop4jkvJrkuIrpppbmrKHlhazlvIDlsZXnpLrpnaLlkJHlrrbluq3lnLrmma/nmoQgQUk8L3RleHQ+PHRleHQgeD0iNzIiIHk9IjQwNCIgY2xhc3M9InRpdGxlIj7mnLrlmajkurogQ0xPaUTvvIzor6XmnLrlmajkurrlj6/lrozmiJDlj6DooaPmnI3igKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iI0M5RTg2QyIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzI2MzUxQSI+VUkgwrcg55WM6Z2i6KeG6KeJPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDEtMDU8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "LG往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "雷鸟",
@@ -3903,14 +3640,9 @@
             "published": "2026-01-05",
             "url": "#",
             "event_key": "history-competitors-2026-01-05-雷鸟-3",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Iumbt+m4n+S/oeaBr+WwgemdoiI+CjxzdHlsZT4KdGV4dHtmb250LWZhbWlseTotYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwiUGluZ0ZhbmcgU0MiLCJNaWNyb3NvZnQgWWFIZWkiLEFyaWFsLHNhbnMtc2VyaWZ9IC5leWVicm93e2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzozcHg7ZmlsbDojRkZCNjg1fS5icmFuZHtmb250LXNpemU6NTZweDtmb250LXdlaWdodDo3NjA7ZmlsbDojRkZGMkU4fS50aXRsZXtmb250LXNpemU6NDRweDtmb250LXdlaWdodDo2NTA7ZmlsbDojZmZmfS5tZXRhe2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjYwMDtmaWxsOiNGRkYyRTh9Cjwvc3R5bGU+CjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgcng9IjMyIiBmaWxsPSIjNEQyODFEIi8+CjxjaXJjbGUgY3g9IjEwODAiIGN5PSIxMTIiIHI9IjIxMCIgZmlsbD0iI0ZGQjY4NSIgb3BhY2l0eT0iLjE0Ii8+PGNpcmNsZSBjeD0iMTEwMCIgY3k9IjU4MCIgcj0iMzIwIiBmaWxsPSIjRkZCNjg1IiBvcGFjaXR5PSIuMDgiLz4KPHBhdGggZD0iTTk0MCAxMTZoMTEydjExMkg5NDB6TTEwMjYgMjAyaDExMnYxMTJoLTExMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGQjY4NSIgc3Ryb2tlLXdpZHRoPSIxMCIgb3BhY2l0eT0iLjc1Ii8+Cjx0ZXh0IHg9IjcyIiB5PSI4MiIgY2xhc3M9ImV5ZWJyb3ciPkNPTVBFVElUT1IgVFJBQ0tJTkc8L3RleHQ+Cjx0ZXh0IHg9IjcyIiB5PSIxNzgiIGNsYXNzPSJicmFuZCI+6Zu36bifPC90ZXh0Pgo8dGV4dCB4PSI3MiIgeT0iMjYwIiBjbGFzcz0idGl0bGUiPumbt+m4n+WIm+aWsOWujOaIkOi2hTEw5Lq/5YWD6J6N6LWE77yM5o6o5Ye65paw5ZOB6Zu36bifPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSIzMzIiIGNsYXNzPSJ0aXRsZSI+WDMgUHJvIFByb2plY3QgZVNJTTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iNDA0IiBjbGFzcz0idGl0bGUiPu+8jOS6pOS6kuiuvuiuoeaguOW/g+WbtOe7lSDvvJrigJzni6znq4vpgJrkv6EgK+KApjwvdGV4dD4KPHJlY3QgeD0iNzIiIHk9IjU2OCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZCNjg1Ii8+PHRleHQgeD0iMTAwIiB5PSI2MDQiIGNsYXNzPSJtZXRhIiBmaWxsPSIjNEQyODFEIj5VWCDCtyDkvb/nlKjkvZPpqow8L3RleHQ+Cjx0ZXh0IHg9IjkwMCIgeT0iNjA1IiBjbGFzcz0ibWV0YSI+MjAyNi0wMS0wNTwvdGV4dD4KPC9zdmc+",
-                "caption": "雷鸟往期信息封面；原文主视觉无法核实",
-                "source": "",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "历史记录缺少原文链接，配图待补充"
           },
           {
             "brand": "Loona",
@@ -3922,14 +3654,9 @@
             "published": "2026-01-08",
             "url": "https://www.xiaohongshu.com/discovery/item/6964c204000000000a031c1e?source=webshare&xhsshare=pc_web&xsec_token=ABlBNnX4stPkPZZ42SjYfNZepynvNraxRrvsaMK6lZhZg=&xsec_source=pc_share",
             "event_key": "history-competitors-2026-01-08-Loona-4",
-            "images": [
-              {
-                "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgdmlld0JveD0iMCAwIDEyMDAgNjc1IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ikxvb25h5L+h5oGv5bCB6Z2iIj4KPHN0eWxlPgp0ZXh0e2ZvbnQtZmFtaWx5Oi1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCJQaW5nRmFuZyBTQyIsIk1pY3Jvc29mdCBZYUhlaSIsQXJpYWwsc2Fucy1zZXJpZn0gLmV5ZWJyb3d7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2xldHRlci1zcGFjaW5nOjNweDtmaWxsOiM4RUM5RkZ9LmJyYW5ke2ZvbnQtc2l6ZTo1NnB4O2ZvbnQtd2VpZ2h0Ojc2MDtmaWxsOiNFREY3RkZ9LnRpdGxle2ZvbnQtc2l6ZTo0NHB4O2ZvbnQtd2VpZ2h0OjY1MDtmaWxsOiNmZmZ9Lm1ldGF7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NjAwO2ZpbGw6I0VERjdGRn0KPC9zdHlsZT4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjc1IiByeD0iMzIiIGZpbGw9IiMxNzMxNTMiLz4KPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExMiIgcj0iMjEwIiBmaWxsPSIjOEVDOUZGIiBvcGFjaXR5PSIuMTQiLz48Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNTgwIiByPSIzMjAiIGZpbGw9IiM4RUM5RkYiIG9wYWNpdHk9Ii4wOCIvPgo8cGF0aCBkPSJNOTQwIDExNmgxMTJ2MTEySDk0MHpNMTAyNiAyMDJoMTEydjExMmgtMTEyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOEVDOUZGIiBzdHJva2Utd2lkdGg9IjEwIiBvcGFjaXR5PSIuNzUiLz4KPHRleHQgeD0iNzIiIHk9IjgyIiBjbGFzcz0iZXllYnJvdyI+Q09NUEVUSVRPUiBUUkFDS0lORzwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjE3OCIgY2xhc3M9ImJyYW5kIj5Mb29uYTwvdGV4dD4KPHRleHQgeD0iNzIiIHk9IjI2MCIgY2xhc3M9InRpdGxlIj5Mb29uYTwvdGV4dD48dGV4dCB4PSI3MiIgeT0iMzMyIiBjbGFzcz0idGl0bGUiPkRlc2tNYXRl5piv5Y+v5Lul56eR5oqA5ZyoQ0VTIDIwPC90ZXh0Pjx0ZXh0IHg9IjcyIiB5PSI0MDQiIGNsYXNzPSJ0aXRsZSI+MjbluKbmnaXnmoTlhajmlrDlvaLmgIHkuqflk4HvvIzpgInmi6nnqLPnqLPljaDmja7lip7lhazigKY8L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSI1NjgiIHdpZHRoPSIyNTYiIGhlaWdodD0iNTQiIHJ4PSIyNyIgZmlsbD0iIzhFQzlGRiIvPjx0ZXh0IHg9IjEwMCIgeT0iNjA0IiBjbGFzcz0ibWV0YSIgZmlsbD0iIzE3MzE1MyI+VVggwrcg5L2/55So5L2T6aqMPC90ZXh0Pgo8dGV4dCB4PSI5MDAiIHk9IjYwNSIgY2xhc3M9Im1ldGEiPjIwMjYtMDEtMDg8L3RleHQ+Cjwvc3ZnPg==",
-                "caption": "Loona往期信息封面；原文主视觉无法核实",
-                "source": "https://www.xiaohongshu.com/discovery/item/6964c204000000000a031c1e?source=webshare&xhsshare=pc_web&xsec_token=ABlBNnX4stPkPZZ42SjYfNZepynvNraxRrvsaMK6lZhZg=&xsec_source=pc_share",
-                "kind": "editorial-fallback"
-              }
-            ]
+            "images": [],
+            "cover_status": "pending-source-image",
+            "cover_note": "原文配图待补充"
           },
           {
             "brand": "范式智能",
