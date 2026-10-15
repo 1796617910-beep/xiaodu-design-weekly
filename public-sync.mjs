@@ -13,15 +13,18 @@ const lookbackStart = new Date(now); lookbackStart.setUTCDate(lookbackStart.getU
 
 const feeds = {
   trends: [
-    '(阿里巴巴 OR 腾讯 OR 字节跳动 OR 美团 OR 百度 OR 小米 OR 华为) (设计团队 OR 设计系统 OR UI OR UX OR 品牌设计 OR 动效) when:60d',
-    '(智能家居 OR IoT OR 智能屏 OR 家具设计 OR 产品设计) (UI OR UX OR 品牌 OR 交互 OR 设计) when:60d',
-    '(Apple OR Google OR Amazon OR Samsung OR Microsoft) (design system OR product design OR brand identity OR UI OR UX) when:60d'
+    '(腾讯ISUX OR 腾讯CDC OR 腾讯设计 OR 阿里巴巴设计 OR 阿里UED OR 小米设计) (设计 OR 交互 OR 品牌 OR 字体 OR 动效) when:60d',
+    '(site:isux.tencent.com OR site:cdc.tencent.com OR site:alibabadesign.com OR site:ux.ant.design) when:60d',
+    '(site:developer.apple.com/design OR site:design.google OR site:microsoft.design) (design OR interaction OR typography OR motion) when:60d',
+    '(小米 OR 腾讯 OR 阿里巴巴 OR Apple) (设计团队 OR 设计复盘 OR 设计系统 OR 品牌设计 OR 交互设计) when:60d',
+    '(site:uisdc.com OR site:zcool.com.cn OR site:ui.cn) (小米 OR 腾讯 OR 阿里 OR 苹果 OR UI OR 品牌 OR 交互) when:60d'
   ],
   competitors: [
-    'site:aboutamazon.com/news/devices (Alexa OR Ring OR Fire TV OR tablet) when:60d',
-    '(小爱同学 OR 小米智能家庭 OR 天猫精灵 OR 豆包硬件 OR 华为智慧屏) (发布 OR 新品 OR 升级 OR 交互) when:60d',
-    '(Alexa OR Echo Show OR Google Nest Hub OR Samsung SmartThings OR Apple HomePod) (launch OR update OR display OR device) when:60d',
-    '(智能屏 OR AI眼镜 OR AI音箱 OR 智能音箱 OR 家庭机器人 OR IoT硬件) (新品 OR 发布 OR 上市) when:60d'
+    '(小米 OR 小爱 OR 天猫精灵 OR 华为) (智能屏 OR 智慧屏 OR 带屏音箱 OR 智能音箱 OR 家庭中控) (发布 OR 新品 OR 升级) when:60d',
+    '(Echo Show OR Nest Hub OR Google Home Speaker OR HomePod) (launch OR update OR new OR release) when:60d',
+    '(site:aboutamazon.com/news/devices OR site:blog.google OR site:consumer.huawei.com) (智能屏 OR speaker OR Echo OR Nest OR display OR home) when:60d',
+    '(Aqara OR Samsung SmartThings OR 小米 OR 华为 OR 天猫精灵) (IoT OR 全屋智能 OR 中控屏 OR Matter OR 家庭机器人) (发布 OR 新品 OR 升级) when:60d',
+    '(豆包硬件 OR 千问眼镜 OR AI学习机 OR 家庭陪伴机器人) (发布 OR 新品 OR 升级) when:60d'
   ]
 };
 
@@ -47,15 +50,35 @@ async function enrichVisual(x) {
     return { ...x, url, image: proxyImage(image) };
   } catch { return null; }
 }
-const relevance = (x, section) => {
-  const s = `${x.title} ${x.source}`;
-  let n = companies.some(([re]) => re.test(s)) ? 8 : 0;
-  n += (s.match(/设计团队|设计系统|UI|UX|交互|品牌|动效|字体|智能家居|IoT|家具|智能屏/gi) || []).length * 2;
-  if (section === 'competitors') n += (s.match(/新品|发布|上市|升级|硬件|音箱|眼镜|机器人|device|launch|display/gi) || []).length * 3;
-  if (/aboutamazon\.com|Amazon 官方|consumer\.huawei\.com/i.test(s)) n += 6;
-  if (/评测|横评|导购|怎么选|哪个品牌好|推荐哪款|好用手机|排行榜|FAQ|投资|股价|债券|招聘|GEO|体坛|买球|彩票|kaiyun|jiuyou|超跑|时速/i.test(s)) return -100;
-  return n;
+// Source priority and direct hardware relevance precede recency and brand diversity.
+const designTopic = /设计团队|设计复盘|设计系统|界面设计|交互设计|视觉设计|品牌设计|字体|动效|排版|UI|UX|design|typograph|motion|identity|rebrand/i;
+const hardwareTopic = /智能屏|智慧屏|中控屏|带屏音箱|智能音箱|音箱|全屋智能|家庭机器人|学习机|IoT|Matter|Echo|Nest|HomePod|SmartThings|speaker|smart display|smart home|doorbell|智能门锁|智能灯|AI眼镜|千问眼镜/i;
+const directCompetitor = /小米|小爱|天猫精灵|华为|Xiaomi|Huawei|Alexa|Amazon|Echo|Google|Nest|HomePod|Apple|苹果|Samsung|三星|Aqara|绿米/i;
+const sourcePriority = (x, section) => {
+  const text = [x.title,x.source,x.url].join(' ');
+  if (section === 'trends') {
+    if (/腾讯ISUX|腾讯CDC|阿里UED|小米设计|阿里巴巴设计|腾讯设计|isux.tencent.com|cdc.tencent.com|alibabadesign.com|ux.ant.design|developer.apple.com.*design|design.google|microsoft.design/i.test(text)) return 0;
+    if (/设计团队|设计复盘|design team/i.test(text) && /小米|腾讯|阿里|Apple|苹果|Huawei|华为|Microsoft|Google/i.test(text)) return 0;
+    if (/优设|uisdc.com|站酷|zcool|UI中国|ui.cn|It's Nice That|itsnicethat|Abduzeedo|Creative Boom|creativeboom/i.test(text)) return 1;
+    return 2;
+  }
+  if (directCompetitor.test(text) && /智能屏|智慧屏|中控屏|带屏音箱|智能音箱|音箱|Echo Show|Nest Hub|HomePod|speaker|smart display/i.test(text)) return 0;
+  if (directCompetitor.test(text) && hardwareTopic.test(text)) return 1;
+  if (hardwareTopic.test(text)) return 2;
+  return 3;
 };
+const relevance = (x, section) => {
+  const text = [x.title,x.source,x.url].join(' ');
+  if (/导购|怎么选|哪个品牌好|推荐哪款|好用手机|排行榜|投资|股价|债券|招聘|GEO|买球|彩票|kaiyun|jiuyou/i.test(text)) return -100;
+  if (section === 'trends' && !designTopic.test(x.title)) return -100;
+  if (section === 'competitors' && !hardwareTopic.test(x.title)) return -100;
+  let score = section === 'trends' ? 12 : 14;
+  if (/小米|腾讯|阿里巴巴|阿里UED|Apple|苹果/i.test(text)) score += 8;
+  if (/智能屏|音箱|家庭|IoT|UI|UX|品牌|字体|交互|动效/i.test(x.title)) score += 5;
+  if (section === 'competitors' && /发布|新品|上市|升级|launch|update|release/i.test(x.title)) score += 5;
+  return score;
+};
+const compareCandidates = section => (a,b) => sourcePriority(a,section)-sourcePriority(b,section) || relevance(b,section)-relevance(a,section) || b.published.localeCompare(a.published);
 
 async function search(query) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
@@ -70,29 +93,13 @@ async function search(query) {
 async function amazonDevices() {
   try {
     const html = (await (await fetch('https://www.aboutamazon.com/news/tag/devices')).text()).replaceAll('\\"', '"');
-    const rows = [
-      { title: 'Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in', url: 'https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus', published: '2026-10-08', source: 'Amazon 官方', image: 'https://assets.aboutamazon.com/dims4/default/11a0bdb/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fad%2Fdc%2Fa7f630ec4671960c964ff943c481%2Famazonalexatablet-inline-amazonnews-ck10826.jpg' },
-      { title: 'Ring ends smart lock anxiety with a lock you can recharge by hand', url: 'https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge', published: '2026-10-07', source: 'Amazon 官方', image: 'https://assets.aboutamazon.com/dims4/default/00d5d92/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F04%2Fe8%2F467af05c4b43accf78a07e26553a%2Fring-smart-lock-hero-amazonnews-ck10626.jpg' }
-    ].filter(x => x.published >= iso(lookbackStart) && x.published <= iso(now));
+    const rows = [];
     for (const m of html.matchAll(/"publishDate":"([^"]+)"[\s\S]{0,600}?"canonicalLink":"([^"]+)"[\s\S]{0,3200}?"title":"([^"]+)"/g)) {
       const published = iso(new Date(m[1]));
       if (published >= iso(lookbackStart) && published <= iso(now)) rows.push({ title: decode(m[3]), url: m[2], published, source: 'Amazon 官方' });
     }
     return unique(rows);
   } catch { return []; }
-}
-
-function curatedRecent(section) {
-  const rows = section === 'trends' ? [
-    { title: 'Samsung SmartThings UI / UX redesign brings a clearer Home and Routines experience', url: 'https://www.sammobile.com/news/major-smartthings-app-redesign-finally-hits-galaxy-phones/', published: '2026-10-06', source: 'SamMobile', image: 'https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-SmartThings-1200x674.jpg' },
-    { title: '华为智慧屏 MateTV 2 系列重构客厅的交互与视觉体验', url: 'https://consumer.huawei.com/cn/press/events/', published: '2026-10-01', source: '华为官方' }
-  ] : [
-    { title: '华为 Vision 智慧屏 6 悦享版发布，覆盖 65 至 98 英寸', url: 'https://m.ithome.com/html/999497.htm', published: '2026-09-08', source: 'IT之家', image: 'https://img.ithome.com/newsuploadfiles/2026/9/7852b82d-2bf6-42a4-a288-d723534d12c9.jpg' },
-    { title: 'Samsung Galaxy SmartTag3 全球发布，强化 SmartThings Find 寻物体验', url: 'https://prtimes.jp/main/html/rd/p/000000989.000030942.html', published: '2026-09-30', source: 'Samsung 官方新闻', image: 'https://prcdn.freetls.fastly.net/release_image/30942/989/30942-989-35450cda64fd803712b84e4b896e38ec-3900x2829.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260' },
-    { title: 'Aqara 发布五款 Matter 智能灯具，支持 Apple Home 与多平台联动', url: 'https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/', published: '2026-09-04', source: 'MacRumors', image: 'https://images.macrumors.com/t/Rm-0dyX-7nwfzmXXyUAi8HXrMVU=/2000x/article-new/2026/09/aqara-floor-lamp.jpg' },
-    { title: 'eufy 发布 Edge 5.0 智能家居系列与 Video Doorbell S4', url: 'https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free', published: '2026-09-28', source: 'TechRadar', image: 'https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg' }
-  ];
-  return rows.filter(x => x.published >= iso(lookbackStart) && x.published <= iso(now));
 }
 
 function unique(items) {
@@ -138,12 +145,11 @@ const diversify = items => {
 const results = {};
 for (const [section, queries] of Object.entries(feeds)) {
   const official = section === 'competitors' ? await amazonDevices() : [];
-  const guaranteed = curatedRecent(section).filter(unseen);
   const candidates = unique([...(await Promise.all(queries.map(search))).flat(), ...official])
     .filter(x => unseen(x) && relevance(x, section) >= (section === 'trends' ? 10 : 11))
-    .sort((a,b) => relevance(b, section) - relevance(a, section) || b.published.localeCompare(a.published))
+    .sort(compareCandidates(section))
     .slice(0, 24);
-  results[section] = diversify([...guaranteed, ...(await Promise.all(candidates.map(enrichVisual))).filter(Boolean)]);
+  results[section] = diversify((await Promise.all(candidates.map(enrichVisual))).filter(Boolean).sort(compareCandidates(section)));
 }
 if (!results.trends.length && !results.competitors.length) throw new Error('No verified items found for the previous week');
 
