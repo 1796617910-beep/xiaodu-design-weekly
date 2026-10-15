@@ -11,8 +11,8 @@
         "items": [
           {
             "brand": "Samsung",
-            "title": "Samsung SmartThings UI / UX redesign brings a clearer Home and Routines experience",
-            "overview": "Samsung SmartThings UI / UX redesign brings a clearer Home and Routines experience",
+            "title": "三星 SmartThings 更新界面，家庭控制与自动化场景更清晰",
+            "overview": "三星重新设计 SmartThings 的界面与交互，优化家庭首页和自动化场景的组织方式，让设备控制与日常操作更清晰。",
             "type": "UX / 使用体验",
             "focus": "UX",
             "insight": "设计关注点：家庭多人、远场语音与大屏场景中，检查信息层级、操作路径和反馈是否清晰，并评估儿童与老人的理解成本。",
@@ -25,7 +25,8 @@
                 "caption": "Samsung文章主视觉；图片来源原文",
                 "source": "https://www.sammobile.com/news/major-smartthings-app-redesign-finally-hits-galaxy-phones/"
               }
-            ]
+            ],
+            "original_title": "Samsung SmartThings UI / UX redesign brings a clearer Home and Routines experience"
           },
           {
             "brand": "华为",
@@ -180,8 +181,8 @@
           },
           {
             "brand": "Amazon",
-            "title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
-            "overview": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
+            "title": "亚马逊发布内置 Alexa+ 的新款平板",
+            "overview": "亚马逊推出内置 Alexa+ 的新款平板，将智能助理能力整合到平板使用体验中。",
             "type": "UI / 产品界面",
             "focus": "UI",
             "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
@@ -194,7 +195,8 @@
                 "caption": "Amazon新品或更新的产品主视觉；图片来源原文",
                 "source": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus"
               }
-            ]
+            ],
+            "original_title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in"
           }
         ]
       }
@@ -508,8 +510,8 @@
         "items": [
           {
             "brand": "Figma",
-            "title": "发布《Workflow lab: Moving between design and code with agents》，讨论 AI Agent 如何在 Design ↔ Code 之间保持上下文同步",
-            "overview": "发布《Workflow lab: Moving between design and code with agents》，讨论 AI Agent 如何在 Design ↔ Code 之间保持上下文同步",
+            "title": "Figma 探索用智能体连接设计与代码",
+            "overview": "Figma 发布工作流实验案例，讨论智能体如何在设计与代码之间保留上下文，帮助团队衔接设计和开发。",
             "type": "AI Agent / UIUX",
             "focus": "UX",
             "insight": "设计与开发的边界进一步模糊。 未来设计文件不是交付终点，而是 AI 可以继续执行的上下文资产。 对小度 Design → Code、设计自动化非常有参考价值。",
@@ -518,12 +520,13 @@
             "event_key": "history-trends-2026-08-26-Figma-0",
             "images": [],
             "cover_status": "pending-source-image",
-            "cover_note": "历史记录缺少原文链接，配图待补充"
+            "cover_note": "历史记录缺少原文链接，配图待补充",
+            "original_title": "发布《Workflow lab: Moving between design and code with agents》，讨论 AI Agent 如何在 Design ↔ Code 之间保持上下文同步"
           },
           {
             "brand": "Adobe Photoshop",
-            "title": "Photoshop 27.10 引入 AI Assisted Editor、Prompt to Edit、Markup 等能力，同时增加非破坏式 Light Adjustment Layer",
-            "overview": "Photoshop 27.10 引入 AI Assisted Editor、Prompt to Edit、Markup 等能力，同时增加非破坏式 Light Adjustment Layer",
+            "title": "Photoshop 27.10 加入 AI 辅助编辑与非破坏式光线调整",
+            "overview": "Photoshop 27.10 引入 AI 辅助编辑、文字提示编辑和标注能力，并增加可非破坏式修改画面光线的调整图层。",
             "type": "AIGC / 平面设计",
             "focus": "UI",
             "insight": "AI 开始与传统专业编辑工具深度融合，形成 Prompt + 手工精修 的混合工作流；尤其适合运营 KV、商品图、智能硬件场景图的快速修改。",
@@ -532,7 +535,8 @@
             "event_key": "history-trends-2026-08-28-Adobe Photoshop-1",
             "images": [],
             "cover_status": "pending-source-image",
-            "cover_note": "历史记录缺少原文链接，配图待补充"
+            "cover_note": "历史记录缺少原文链接，配图待补充",
+            "original_title": "Photoshop 27.10 引入 AI Assisted Editor、Prompt to Edit、Markup 等能力，同时增加非破坏式 Light Adjustment Layer"
           }
         ]
       },
@@ -753,8 +757,8 @@
           },
           {
             "brand": "Behance",
-            "title": "社区热门《Design Trends 2026》",
-            "overview": "社区热门《Design Trends 2026》",
+            "title": "Behance 社区精选：2026 设计趋势",
+            "overview": "Behance 社区的《2026 设计趋势》项目，整理当年的视觉设计方向与案例。",
             "type": "视觉风格趋势",
             "focus": "UI",
             "insight": "社区作品显示 Neo Brutalism、复古未来主义、空间化 3D、手工质感、AI Workflow 持续升温，品牌开始从“AI 感”回归“人味”。",
@@ -770,7 +774,8 @@
                 "kind": "article-body"
               }
             ],
-            "cover_status": "verified-article-image"
+            "cover_status": "verified-article-image",
+            "original_title": "社区热门《Design Trends 2026》"
           },
           {
             "brand": "微信",
@@ -851,8 +856,8 @@
           },
           {
             "brand": "Wallpaper",
-            "title": "July Design Launches",
-            "overview": "July Design Launches",
+            "title": "Wallpaper 七月设计新品观察",
+            "overview": "Wallpaper 汇集七月设计新品，为产品造型、材质和设计表达提供观察案例。",
             "type": "工业设计 / CMF",
             "focus": "UI",
             "insight": "七月设计新品体现三大趋势：低饱和中性色、情绪化色彩、精致材质表达。 三星 Galaxy Z Fold8、新配色家电等都体现 AI 硬件更加柔和、人性化的设计方向。",
@@ -867,7 +872,8 @@
                 "original_url": "https://cdn.mos.cms.futurecdn.net/9zZgesQXqeu55BGyg3q8CQ-1920-80.png",
                 "kind": "original-local"
               }
-            ]
+            ],
+            "original_title": "July Design Launches"
           }
         ]
       },
@@ -920,8 +926,8 @@
         "items": [
           {
             "brand": "Apple Developer",
-            "title": "更新开发者设计资源（Design Kits for Figma & Sketch）",
-            "overview": "更新开发者设计资源（Design Kits for Figma & Sketch）",
+            "title": "Apple 更新供 Figma 与 Sketch 使用的设计资源",
+            "overview": "Apple 更新开发者设计套件，提供供 Figma 与 Sketch 使用的组件与设计资源。",
             "type": "对小度多终端设计系统建设具有参考价值。",
             "focus": "UI",
             "insight": "Design System 苹果持续完善跨平台设计资源，强调统一组件、动态材质（Liquid Glass）和多端一致性，",
@@ -936,7 +942,8 @@
                 "original_url": "https://developer.apple.com/news/images/og/apple-developer-og.png",
                 "kind": "original-local"
               }
-            ]
+            ],
+            "original_title": "更新开发者设计资源（Design Kits for Figma & Sketch）"
           },
           {
             "brand": "支付宝",
@@ -1035,8 +1042,8 @@
           },
           {
             "brand": "Creative Bloq",
-            "title": "Graphic Design Trends 2026",
-            "overview": "Graphic Design Trends 2026",
+            "title": "2026 平面设计趋势",
+            "overview": "Creative Bloq 汇集 2026 年平面设计趋势，观察视觉风格、图形和排版的变化。",
             "type": "平面设计趋势",
             "focus": "UI",
             "insight": "1.AI 审美趋同后，品牌开始回归真实质感、手工肌理、角色 IP、情绪化色彩 对于小度品牌运营物料，可以减少纯 AI 风格，多加入品牌人格化表达。",
@@ -1045,7 +1052,8 @@
             "event_key": "history-trends-2026-07-13-Creative Bloq-1",
             "images": [],
             "cover_status": "pending-source-image",
-            "cover_note": "历史记录缺少原文链接，配图待补充"
+            "cover_note": "历史记录缺少原文链接，配图待补充",
+            "original_title": "Graphic Design Trends 2026"
           }
         ]
       },
@@ -1747,8 +1755,8 @@
           },
           {
             "brand": "IEEE / HCI 趋势",
-            "title": "HCI 领域提出从“Interaction Design”向“Intention Design”转变",
-            "overview": "HCI 领域提出从“Interaction Design”向“Intention Design”转变",
+            "title": "人机交互设计从“操作”转向“意图”",
+            "overview": "人机交互领域提出从交互设计走向意图设计：设计需要理解用户想达成什么，而不只安排操作步骤。",
             "type": "UX趋势",
             "focus": "UX",
             "insight": "从“页面操作逻辑”转向“用户目标驱动”的交互架构设计 弱化层级导航，强化 AI 自动完成与任务型反馈",
@@ -1763,7 +1771,8 @@
                 "original_url": "https://www.computer.org/wp-content/uploads/2026/04/ai_agents.png",
                 "kind": "original-local"
               }
-            ]
+            ],
+            "original_title": "HCI 领域提出从“Interaction Design”向“Intention Design”转变"
           },
           {
             "brand": "字由",

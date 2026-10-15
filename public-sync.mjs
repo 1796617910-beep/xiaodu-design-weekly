@@ -34,9 +34,22 @@ const companies = [
   [/华为|HarmonyOS|Huawei/i, '华为'], [/Aqara|绿米/i, 'Aqara'], [/Apple|HomePod|Siri/i, 'Apple'], [/Samsung|三星|SmartThings/i, 'Samsung'],
   [/Google|Gemini|Nest/i, 'Google'], [/Amazon|Alexa|Echo Show/i, 'Amazon'], [/eufy|Anker|安克/i, 'eufy'], [/Microsoft/i, 'Microsoft'], [/OpenAI|ChatGPT/i, 'OpenAI']
 ];
-const brandOf = x => companies.find(([re]) => re.test(x.title))?.[1] || x.source || '设计团队';
+const brandOf = x => x.brand || companies.find(([re]) => re.test(x.title))?.[1] || x.source || '设计团队';
 const articleTitle = x => x.title.replace(/\s[-–—]\s[^-–—]{1,40}$/, '').trim();
 const proxyImage = url => `https://images.weserv.nl/?url=${encodeURIComponent(url)}&w=1200&h=675&fit=cover&output=webp`;
+async function chineseOverview(x) {
+  if (/[\u4e00-\u9fff]/.test(x.title)) return x;
+  try {
+    const endpoint = 'https://api.mymemory.translated.net/get?q='+encodeURIComponent(articleTitle(x))+'&langpair=en%7Czh-CN';
+    const response = await fetch(endpoint, { signal: AbortSignal.timeout(12000) });
+    if (!response.ok) return null;
+    const data = await response.json();
+    const translated = decode(data.responseData?.translatedText || '').trim();
+    if (data.responseStatus !== 200 || !/[\u4e00-\u9fff]/.test(translated)) return null;
+    return { ...x, original_title: x.title, brand: brandOf(x), title: translated };
+  } catch { return null; }
+}
+
 async function enrichVisual(x) {
   if (/^https:\/\//.test(x.image || '') && !/favicon|logo/i.test(x.image)) return { ...x, image: proxyImage(x.image) };
   try {
@@ -116,7 +129,7 @@ function trendItem(x) {
   const brand = brandOf(x);
   const f = focus(x.title);
   const title = articleTitle(x);
-  return { brand, title, overview: title, type: f === 'UX' ? 'UX / 使用体验' : 'UI / 视觉设计', focus: f,
+  return { brand, title, overview: title, ...(x.original_title ? {original_title:x.original_title} : {}), type: f === 'UX' ? 'UX / 使用体验' : 'UI / 视觉设计', focus: f,
     insight: f === 'UX' ? '设计关注点：家庭多人、远场语音与大屏场景中，检查信息层级、操作路径和反馈是否清晰，并评估儿童与老人的理解成本。' : '设计关注点：色彩、字体、图形、动效与品牌资产如何延展到智能屏、IoT 设备和运营活动，并保持远距离可读性。',
     published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 24)}`, images: [{ url: x.image, caption: `${brand}文章主视觉；图片来源原文`, source: x.url }] };
 }
@@ -125,7 +138,7 @@ function competitorItem(x) {
   const brand = brandOf(x);
   const f = focus(x.title);
   const title = articleTitle(x);
-  return { brand, title, overview: title, type: f === 'UX' ? 'UX / 硬件体验' : 'UI / 产品界面', focus: f,
+  return { brand, title, overview: title, ...(x.original_title ? {original_title:x.original_title} : {}), type: f === 'UX' ? 'UX / 硬件体验' : 'UI / 产品界面', focus: f,
     insight: '体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。',
     published: x.published, url: x.url, event_key: `${brand}-${x.published}-${title.slice(0, 20)}`, images: [{ url: x.image, caption: `${brand}新品或更新的产品主视觉；图片来源原文`, source: x.url }] };
 }
@@ -149,7 +162,9 @@ for (const [section, queries] of Object.entries(feeds)) {
     .filter(x => unseen(x) && relevance(x, section) >= (section === 'trends' ? 10 : 11))
     .sort(compareCandidates(section))
     .slice(0, 24);
-  results[section] = diversify((await Promise.all(candidates.map(enrichVisual))).filter(Boolean).sort(compareCandidates(section)));
+  const visualCandidates = (await Promise.all(candidates.map(enrichVisual))).filter(Boolean);
+  const localized = (await Promise.all(visualCandidates.map(chineseOverview))).filter(Boolean);
+  results[section] = diversify(localized.sort(compareCandidates(section)));
 }
 if (!results.trends.length && !results.competitors.length) throw new Error('No verified items found for the previous week');
 
