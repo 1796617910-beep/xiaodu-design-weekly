@@ -5,17 +5,17 @@
     "generated_at": "2026-10-16",
     "sections": {
       "trends": {
-        "summary": "三星 SmartThings 更新界面，家庭控制与自动化场景更清晰；Build by design：让设计、代码与上下文在同一画布协作；绿米智能家居怎么样？全屋智能行业现状品牌实力全面解析等，关注这一期的设计与体验变化。",
-        "notice": "文章入口已于2026-10-16核验；替换内容采用对应期刊时间区间的公开文章。设计关注点为编辑解读。",
+        "summary": "SmartThings 以卡片与分组梳理家庭首页；超级小爱用动效和任务上岛呈现状态变化；Figma 探索设计画布、上下文与实现流程的衔接。",
+        "notice": "聚焦互联网视觉设计师可实践的 UI、平面、品牌、字体与动效案例，补充设计工具与方法；以硬件配置和功能发布为主的文章归入竞品追踪。",
         "delivery": "published",
         "items": [
           {
             "brand": "Samsung",
             "title": "三星 SmartThings 更新界面，家庭控制与自动化场景更清晰",
             "overview": "三星重新设计 SmartThings 的界面与交互，优化家庭首页和自动化场景的组织方式，让设备控制与日常操作更清晰。",
-            "type": "UX / 使用体验",
-            "focus": "UX",
-            "insight": "设计关注点：家庭多人、远场语音与大屏场景中，检查信息层级、操作路径和反馈是否清晰，并评估儿童与老人的理解成本。",
+            "type": "UI / 信息层级",
+            "focus": "UI",
+            "insight": "设计解读：观察家庭首页卡片、设备分组与自动化入口如何形成清晰层级；小度可借鉴界面组织方式，减少同屏信息争抢。",
             "published": "2026-10-06",
             "url": "https://www.sammobile.com/news/major-smartthings-app-redesign-finally-hits-galaxy-phones/",
             "event_key": "Samsung-2026-10-06-Samsung SmartThings UI /",
@@ -52,30 +52,12 @@
             "source_verified_at": "2026-10-16"
           },
           {
-            "brand": "Aqara",
-            "title": "绿米智能家居怎么样？全屋智能行业现状品牌实力全面解析",
-            "overview": "绿米智能家居怎么样？全屋智能行业现状品牌实力全面解析",
-            "type": "UI / 视觉设计",
-            "focus": "UI",
-            "insight": "设计关注点：色彩、字体、图形、动效与品牌资产如何延展到智能屏、IoT 设备和运营活动，并保持远距离可读性。",
-            "published": "2026-10-12",
-            "url": "https://tech.ifeng.com/c/8xAJIFLj0ch",
-            "event_key": "Aqara-2026-10-12-绿米智能家居怎么样？全屋智能行业现状品牌实力全面",
-            "images": [
-              {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fx0.ifengimg.com%2Fres%2F2026%2FDE84479DC814A6CD08EA0AE67197F4B8E6190748_size100_w647_h327.png&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Aqara文章主视觉；图片来源原文",
-                "source": "https://tech.ifeng.com/c/8xAJIFLj0ch"
-              }
-            ]
-          },
-          {
             "brand": "小米",
             "title": "小米澎湃OS 4超级小爱交互焕新：动效实时反馈、任务上岛运行",
-            "overview": "小米澎湃OS 4超级小爱交互焕新：动效实时反馈、任务上岛运行",
-            "type": "UX / 使用体验",
-            "focus": "UX",
-            "insight": "设计关注点：家庭多人、远场语音与大屏场景中，检查信息层级、操作路径和反馈是否清晰，并评估儿童与老人的理解成本。",
+            "overview": "超级小爱以轻盈动效反馈执行状态，把进行中的任务收进超级岛，并自动展开思考结果，让等待、执行和完成的界面状态更容易辨认。",
+            "type": "UI / 动效反馈",
+            "focus": "UI",
+            "insight": "设计解读：用连续动效串联唤起、思考、执行与结果展开；小度可借鉴状态过渡与信息显隐节奏，避免只靠文字提示任务进度。",
             "published": "2026-09-01",
             "url": "https://tech.ifeng.com/c/8w43H0glaHo",
             "event_key": "小米-2026-09-01-小米澎湃OS 4超级小爱交互焕新：动效实时反馈、",
@@ -86,29 +68,11 @@
                 "source": "https://tech.ifeng.com/c/8w43H0glaHo"
               }
             ]
-          },
-          {
-            "brand": "Apple",
-            "title": "Siri AI联动，苹果押注智能家居新入口！首款显示屏“大脑”HomeView登场，家居配件出“全家桶”",
-            "overview": "Siri AI联动，苹果押注智能家居新入口！首款显示屏“大脑”HomeView登场，家居配件出“全家桶”",
-            "type": "UI / 视觉设计",
-            "focus": "UI",
-            "insight": "设计关注点：色彩、字体、图形、动效与品牌资产如何延展到智能屏、IoT 设备和运营活动，并保持远距离可读性。",
-            "published": "2026-10-13",
-            "url": "https://wallstreetcn.com/articles/3783561",
-            "event_key": "Apple-2026-10-13-Siri AI联动，苹果押注智能家居新入口！首款",
-            "images": [
-              {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwpimg-wscn.awtmt.com%2F71d82fde-c5e0-4dc6-b64b-7995062c6afa.jpeg&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Apple文章主视觉；图片来源原文",
-                "source": "https://wallstreetcn.com/articles/3783561"
-              }
-            ]
           }
         ]
       },
       "competitors": {
-        "summary": "华为智慧屏、Samsung 寻物标签、Aqara 智能灯具、eufy 门铃与 Amazon 平板，覆盖家庭显示、设备联动与语音入口。",
+        "summary": "本期关注苹果 HomeView 家庭中控、华为智慧屏、Aqara 全屋智能与 Matter 灯具，以及三星寻物设备、eufy 门铃和内置 Alexa+ 的亚马逊平板。",
         "notice": "从最近60天内筛选小米、天猫精灵、华为、豆包硬件、Amazon、Google、Samsung 与 Apple 的新硬件或重大体验升级，跨期去重并优先不同品牌。",
         "delivery": "published",
         "items": [
@@ -202,6 +166,44 @@
               }
             ],
             "original_title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in"
+          },
+          {
+            "brand": "Aqara",
+            "title": "绿米智能家居怎么样？全屋智能行业现状品牌实力全面解析",
+            "overview": "绿米智能家居怎么样？全屋智能行业现状品牌实力全面解析",
+            "type": "IoT / 全屋智能",
+            "focus": "UX",
+            "insight": "设计解读：对照小度全屋智能，关注设备覆盖、场景联动与安装服务如何影响家庭用户的使用路径。",
+            "published": "2026-10-12",
+            "url": "https://tech.ifeng.com/c/8xAJIFLj0ch",
+            "event_key": "Aqara-2026-10-12-绿米智能家居怎么样？全屋智能行业现状品牌实力全面",
+            "images": [
+              {
+                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fx0.ifengimg.com%2Fres%2F2026%2FDE84479DC814A6CD08EA0AE67197F4B8E6190748_size100_w647_h327.png&w=1200&h=675&fit=cover&output=webp",
+                "caption": "Aqara文章主视觉；图片来源原文",
+                "source": "https://tech.ifeng.com/c/8xAJIFLj0ch"
+              }
+            ],
+            "classification_reason": "正文重点为家庭硬件、设备联动与产品能力，归入竞品追踪。"
+          },
+          {
+            "brand": "Apple",
+            "title": "Siri AI联动，苹果押注智能家居新入口！首款显示屏“大脑”HomeView登场，家居配件出“全家桶”",
+            "overview": "Siri AI联动，苹果押注智能家居新入口！首款显示屏“大脑”HomeView登场，家居配件出“全家桶”",
+            "type": "硬件 / 家庭中控",
+            "focus": "UX",
+            "insight": "设计解读：对照小度的家庭入口，关注屏幕形态、摆放方式、语音与触控协同，以及设备控制状态是否清晰。",
+            "published": "2026-10-13",
+            "url": "https://wallstreetcn.com/articles/3783561",
+            "event_key": "Apple-2026-10-13-Siri AI联动，苹果押注智能家居新入口！首款",
+            "images": [
+              {
+                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwpimg-wscn.awtmt.com%2F71d82fde-c5e0-4dc6-b64b-7995062c6afa.jpeg&w=1200&h=675&fit=cover&output=webp",
+                "caption": "Apple文章主视觉；图片来源原文",
+                "source": "https://wallstreetcn.com/articles/3783561"
+              }
+            ],
+            "classification_reason": "正文重点为家庭硬件、设备联动与产品能力，归入竞品追踪。"
           }
         ]
       }
