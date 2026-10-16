@@ -5,211 +5,273 @@
     "generated_at": "2026-10-16",
     "sections": {
       "trends": {
-        "summary": "SmartThings 以卡片与分组梳理家庭首页；超级小爱用动效和任务上岛呈现状态变化；Figma 探索设计画布、上下文与实现流程的衔接。",
-        "notice": "聚焦互联网视觉设计师可实践的 UI、平面、品牌、字体与动效案例，补充设计工具与方法；以硬件配置和功能发布为主的文章归入竞品追踪。",
+        "summary": "从 Google 的设计判断、苹果的布局规范，到小爱的状态动效、淘宝的设计系统与 ISUX 的品牌精选：本期关注设计师如何把智能能力转成清楚、统一且有辨识度的表达。",
+        "notice": "样刊：筛选近60天的设计文章，按原文、编译与精选注明来源。硬件功能新闻归入竞品追踪；关注点为设计解读。",
         "delivery": "published",
         "items": [
           {
-            "brand": "Samsung",
-            "title": "三星 SmartThings 更新界面，家庭控制与自动化场景更清晰",
-            "overview": "三星重新设计 SmartThings 的界面与交互，优化家庭首页和自动化场景的组织方式，让设备控制与日常操作更清晰。",
-            "type": "UI / 信息层级",
-            "focus": "UI",
-            "insight": "设计解读：观察家庭首页卡片、设备分组与自动化入口如何形成清晰层级；小度可借鉴界面组织方式，减少同屏信息争抢。",
-            "published": "2026-10-06",
-            "url": "https://www.sammobile.com/news/major-smartthings-app-redesign-finally-hits-galaxy-phones/",
-            "event_key": "Samsung-2026-10-06-Samsung SmartThings UI /",
-            "images": [
-              {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.sammobile.com%2Fwp-content%2Fuploads%2F2026%2F07%2FSamsung-SmartThings-1200x674.jpg&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Samsung文章主视觉；图片来源原文",
-                "source": "https://www.sammobile.com/news/major-smartthings-app-redesign-finally-hits-galaxy-phones/"
-              }
-            ],
-            "original_title": "Samsung SmartThings UI / UX redesign brings a clearer Home and Routines experience"
-          },
-          {
-            "brand": "Figma",
-            "title": "Build by design：让设计、代码与上下文在同一画布协作",
-            "original_title": "Build by design: New workflows for new ways of building",
-            "overview": "Figma 介绍代码图层、Specs 与 MCP 工作流，讨论如何从快速探索走向团队共同评审和产品交付。",
-            "type": "UX / 设计协作",
+            "brand": "Google Gemini",
+            "title": "Google Gemini：把设计判断力变成 AI 产品的护城河",
+            "original_title": "Google Gemini 设计副总裁：模型终将趋同，设计才是护城河！",
+            "overview": "觉之设计整理 Google UX 副总裁的访谈观点，讨论输入入口的取舍、回答的视觉层级，以及设计师如何定义 AI 输出的质量。",
+            "type": "UX / AI设计方法",
+            "display_type": "UX / AI设计方法",
             "focus": "UX",
-            "insight": "设计解读：小度跨端设计可把组件、规范与可运行原型关联起来，让交互意图在协作中持续可见。",
+            "insight": "设计解读：小度可先减少重复入口，再把回答拆成摘要、要点与图示；建立内容质量和响应速度的共同标准，避免界面更丰富却更难读。",
             "published": "2026-10-15",
-            "url": "https://www.figma.com/blog/build-by-design/",
-            "event_key": "verified-e8e487dda131d6c5",
+            "url": "https://www.uisdc.com/design-as-moat",
+            "event_key": "sample35-google-design",
+            "source_label": "优设 · 觉之设计",
+            "source_kind": "设计媒体访谈整理",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "./cover-c28b67df27882a96.webp",
-                "caption": "Figma原文案例配图；图片来源原文",
-                "source": "https://www.figma.com/blog/build-by-design/",
-                "original_url": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?rect=0,1,3840,2159&w=804&h=452&q=75&fit=max&auto=format",
+                "url": "./cover-d278addc81ae12e2.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/9e66347665795ba025bbecb8bc57b976.webp",
+                "source": "https://www.uisdc.com/design-as-moat",
+                "caption": "Google Gemini文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ],
-            "cover_status": "verified-article-image",
-            "source_verified_at": "2026-10-16"
+            ]
+          },
+          {
+            "brand": "Apple",
+            "title": "苹果侧边工具栏规范：屏幕形态变化时，如何保留清晰的操作层级",
+            "original_title": "重磅出品！iPhone Duo 侧边工具栏官方设计指南",
+            "overview": "文章编译苹果 iPhone Duo 的侧边工具栏讲解，梳理导航、页面操作与栏目切换的分组，并说明空间不足时的收纳顺序。",
+            "type": "UI / 多端布局",
+            "display_type": "UI / 多端布局",
+            "focus": "UI",
+            "insight": "设计解读：小度横竖屏适配应保留操作的用途和分组，而非只缩放画布；提前定义图标、文字、角标及溢出菜单在不同宽度下的表现。",
+            "published": "2026-10-09",
+            "url": "https://www.uisdc.com/raise-the-bar-with-iphone-duo",
+            "event_key": "sample35-apple-design",
+            "source_label": "优设 · 官方指南编译",
+            "source_kind": "官方设计讲解的中文编译",
+            "source_verified_at": "2026-10-16",
+            "images": [
+              {
+                "url": "./cover-ec9992a0171d3fb4.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/DuoImage5-uisdc.webp",
+                "source": "https://www.uisdc.com/raise-the-bar-with-iphone-duo",
+                "caption": "Apple文章内案例图；图片来源原文",
+                "kind": "article-body"
+              }
+            ]
           },
           {
             "brand": "小米",
-            "title": "小米澎湃OS 4超级小爱交互焕新：动效实时反馈、任务上岛运行",
-            "overview": "超级小爱以轻盈动效反馈执行状态，把进行中的任务收进超级岛，并自动展开思考结果，让等待、执行和完成的界面状态更容易辨认。",
+            "title": "超级小爱交互焕新：用动效、任务上岛与结果展开表达执行状态",
+            "original_title": "小米澎湃OS 4超级小爱交互焕新：动效实时反馈、任务上岛运行_凤凰网",
+            "overview": "超级小爱通过轻盈动效反馈处理状态，让任务在超级岛持续运行，并自动展开思考结果。这篇重点观察状态呈现与信息显隐。",
             "type": "UI / 动效反馈",
+            "display_type": "UI / 动效反馈",
             "focus": "UI",
-            "insight": "设计解读：用连续动效串联唤起、思考、执行与结果展开；小度可借鉴状态过渡与信息显隐节奏，避免只靠文字提示任务进度。",
+            "insight": "设计解读：为小度梳理唤起、思考、执行和完成的连续视觉状态；让动效告诉用户正在发生什么，并保留可继续操作的空间。",
             "published": "2026-09-01",
             "url": "https://tech.ifeng.com/c/8w43H0glaHo",
-            "event_key": "小米-2026-09-01-小米澎湃OS 4超级小爱交互焕新：动效实时反馈、",
+            "event_key": "sample35-xiaomi-design",
+            "source_label": "IT之家 · 小米更新",
+            "source_kind": "官方更新的媒体报道",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fx0.ifengimg.com%2Fres%2F2026%2FB866E52B10CB578C030D800ACC12CE39F01773D0_size20_w720_h380.webp&w=1200&h=675&fit=cover&output=webp",
-                "caption": "小米文章主视觉；图片来源原文",
-                "source": "https://tech.ifeng.com/c/8w43H0glaHo"
+                "url": "./cover-10e676014dcee47c.webp",
+                "original_url": "https://x0.ifengimg.com/res/2026/41051A4D833C2F5153F7F6E04965C613AC6A15F1_size3727_w1500_h2000.gif",
+                "source": "https://tech.ifeng.com/c/8w43H0glaHo",
+                "caption": "小米文章内案例图；图片来源原文",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "阿里巴巴 · 淘宝设计",
+            "title": "淘宝设计复盘：用组件、布局和样式规范约束 AI 页面生成",
+            "original_title": "提高51%效率！B端AI设计的工程化提效实战复盘",
+            "overview": "淘宝设计以商家 B 端推广业务为例，把业务流程、页面框架、组件使用和全局样式整理成可复用规则，并保留设计师的质量检查。",
+            "type": "设计系统 / AI工作流",
+            "display_type": "设计系统 / AI工作流",
+            "focus": "UI",
+            "insight": "设计解读：小度可先在标准化运营页面试验，将组件、间距、字体与状态规范一起交给 AI；创意方向和视觉质量仍由设计师把关。",
+            "published": "2026-09-22",
+            "url": "https://www.uisdc.com/b2b-design-engineering",
+            "event_key": "sample35-taobao-design",
+            "source_label": "淘宝设计 · 优设",
+            "source_kind": "设计团队发布的实战复盘",
+            "source_verified_at": "2026-10-16",
+            "images": [
+              {
+                "url": "./cover-54f2106600420741.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/09/a27bd0b92897b6db15485afc30e02941.webp",
+                "source": "https://www.uisdc.com/b2b-design-engineering",
+                "caption": "阿里巴巴 · 淘宝设计文章内案例图；图片来源原文",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "腾讯 ISUX",
+            "title": "腾讯 ISUX 品牌精选：让字标成为图像与声音的叙事容器",
+            "original_title": "资讯/灵感全都有！2026年8月AI设计资讯周刊",
+            "overview": "聚焦 ISUX 精选中的 Rumble 品牌案例：Bear Meets Eagle on Fire 将字标、插画与声景组合成叙事系统。这里收录品牌章节，不重复其科技资讯。",
+            "type": "品牌 / 字标与插画",
+            "display_type": "品牌 / 字标与插画",
+            "focus": "UI",
+            "insight": "设计解读：小度可尝试将品牌图形、开机动效、提示音与运营 KV 联动；保留一致的识别骨架，再围绕不同场景延展内容。",
+            "published": "2026-08-21",
+            "url": "https://www.uisdc.com/design-ai-weekly",
+            "event_key": "sample35-tencent-design",
+            "source_label": "腾讯 ISUX · 品牌精选",
+            "source_kind": "设计团队精选，案例由外部工作室设计",
+            "source_verified_at": "2026-10-16",
+            "images": [
+              {
+                "url": "./cover-0a553ba6402e542a.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/08/6c05327dcb1200b9de2a54665268bf28.webp",
+                "source": "https://www.uisdc.com/design-ai-weekly",
+                "caption": "腾讯 ISUX文章内案例图；图片来源原文",
+                "kind": "article-body"
               }
             ]
           }
         ]
       },
       "competitors": {
-        "summary": "本期关注苹果 HomeView 家庭中控、华为智慧屏、Aqara 全屋智能与 Matter 灯具，以及三星寻物设备、eufy 门铃和内置 Alexa+ 的亚马逊平板。",
-        "notice": "从最近60天内筛选小米、天猫精灵、华为、豆包硬件、Amazon、Google、Samsung 与 Apple 的新硬件或重大体验升级，跨期去重并优先不同品牌。",
+        "summary": "家庭入口正在从单一控制扩展为多用户、多设备和多模态协同。本期对照 Apple、华为、Aqara、安克与 Amazon，重点看身份权限、跨端接续和跨生态能力边界。",
+        "notice": "样刊：智能屏与家庭入口优先，补充相关 IoT。区分发布、预订和发货时间；未实际体验的能力仅按公开报道概述。",
         "delivery": "published",
         "items": [
           {
-            "brand": "华为",
-            "title": "华为 Vision 智慧屏 6 悦享版发布，覆盖 65 至 98 英寸",
-            "overview": "华为 Vision 智慧屏 6 悦享版发布，覆盖 65 至 98 英寸",
-            "type": "UI / 产品界面",
+            "brand": "Apple",
+            "title": "HomeView 家庭中控：多用户识别、语音协同与共享权限",
+            "original_title": "Siri AI联动，苹果押注智能家居新入口！首款显示屏“大脑”HomeView登场，家居配件出“全家桶” - 华尔街见闻",
+            "overview": "据报道，HomeView 采用 7 英寸屏，提供桌面与壁挂形态，可识别最多六名家庭成员并连接 Siri AI。10 月 13 日开启预订，计划 11 月 13 日发货。",
+            "type": "智能屏 / 家庭中控",
+            "display_type": "智能屏 / 家庭中控",
             "focus": "UI",
-            "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
-            "published": "2026-09-08",
-            "url": "https://m.ithome.com/html/999497.htm",
-            "event_key": "华为-2026-09-08-华为 Vision 智慧屏 6 悦享版发",
+            "insight": "设计解读：对照小度的家庭共享场景，关注识别失败时的默认权限、个人与家庭内容的切换，以及语音、触控和设备控制反馈能否一致。",
+            "published": "2026-10-14",
+            "url": "https://wallstreetcn.com/articles/3783561",
+            "event_key": "sample35-apple-hardware",
+            "source_label": "华尔街见闻",
+            "source_kind": "产品发布报道",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimg.ithome.com%2Fnewsuploadfiles%2F2026%2F9%2F7852b82d-2bf6-42a4-a288-d723534d12c9.jpg&w=1200&h=675&fit=cover&output=webp",
-                "caption": "华为新品或更新的产品主视觉；图片来源原文",
-                "source": "https://m.ithome.com/html/999497.htm"
+                "url": "./cover-b23afff367915137.webp",
+                "original_url": "https://wpimg-wscn.awtmt.com/88f82121-3f93-415d-965f-201daaf6fd19.jpeg",
+                "source": "https://wallstreetcn.com/articles/3783561",
+                "caption": "Apple文章内案例图；图片来源原文",
+                "kind": "article-body"
               }
             ]
           },
           {
-            "brand": "Samsung",
-            "title": "Samsung Galaxy SmartTag3 全球发布，强化 SmartThings Find 寻物体验",
-            "overview": "Samsung Galaxy SmartTag3 全球发布，强化 SmartThings Find 寻物体验",
-            "type": "UX / 硬件体验",
-            "focus": "UX",
-            "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
-            "published": "2026-09-30",
-            "url": "https://prtimes.jp/main/html/rd/p/000000989.000030942.html",
-            "event_key": "Samsung-2026-09-30-Samsung Galaxy Smart",
+            "brand": "华为",
+            "title": "华为 Vision 智慧屏 6 悦享版：指向遥控与投屏反控",
+            "original_title": "华为 Vision 智慧屏 6 悦享版发布：65 英寸至 98 英寸 4699~13499 元，Super MiniLED 鸿鹄画质 - IT之家",
+            "overview": "新品覆盖 65 至 98 英寸，支持灵犀指向遥控、手机投屏反控、远程看家和畅连通话；报道标注 9 月 16 日开售。",
+            "type": "智能屏 / 大屏交互",
+            "display_type": "智能屏 / 大屏交互",
+            "focus": "UI",
+            "insight": "设计解读：对照小度大屏场景，关注指向光标的目标大小、焦点反馈和误操作恢复，以及手机与大屏交接时是否保留任务上下文。",
+            "published": "2026-09-08",
+            "url": "https://m.ithome.com/html/999497.htm",
+            "event_key": "sample35-huawei-hardware",
+            "source_label": "IT之家",
+            "source_kind": "产品发布报道",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fprcdn.freetls.fastly.net%2Frelease_image%2F30942%2F989%2F30942-989-35450cda64fd803712b84e4b896e38ec-3900x2829.jpg%3Fformat%3Djpeg%26auto%3Dwebp%26fit%3Dbounds%26width%3D2400%26height%3D1260&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Samsung新品或更新的产品主视觉；图片来源原文",
-                "source": "https://prtimes.jp/main/html/rd/p/000000989.000030942.html"
+                "url": "./cover-faf3a6f4b0d0846c.webp",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/9/7852b82d-2bf6-42a4-a288-d723534d12c9.jpg?x-bce-process=image/auto-orient,o_1/format,f_avif",
+                "source": "https://m.ithome.com/html/999497.htm",
+                "caption": "华为文章内案例图；图片来源原文",
+                "kind": "article-body"
               }
             ]
           },
           {
             "brand": "Aqara",
-            "title": "Aqara 发布五款 Matter 智能灯具，支持 Apple Home 与多平台联动",
-            "overview": "Aqara 发布五款 Matter 智能灯具，支持 Apple Home 与多平台联动",
-            "type": "UI / 产品界面",
+            "title": "Aqara 展示五款 Matter 灯具：跨平台与分区灯光控制",
+            "original_title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support - MacRumors",
+            "overview": "Aqara 展示落地灯、筒灯、灯带及户外灯等五款 Matter 产品，可与传感器和开关联动。报道时价格和上市时间尚未公布。",
+            "type": "IoT / 灯光联动",
+            "display_type": "IoT / 灯光联动",
             "focus": "UI",
-            "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
+            "insight": "设计解读：小度家庭中控可关注分区灯光、色温与场景预览如何表达；跨生态控制要明确哪些能力可用，哪些仍依赖品牌自己的应用。",
             "published": "2026-09-04",
             "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
-            "event_key": "Aqara-2026-09-04-Aqara 发布五款 Matter 智能",
+            "event_key": "sample35-aqara-hardware",
+            "source_label": "MacRumors · 中文概述",
+            "source_kind": "IFA 新品报道",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.macrumors.com%2Ft%2FRm-0dyX-7nwfzmXXyUAi8HXrMVU%3D%2F2000x%2Farticle-new%2F2026%2F09%2Faqara-floor-lamp.jpg&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Aqara新品或更新的产品主视觉；图片来源原文",
-                "source": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/"
+                "url": "./cover-647f5082709ed667.webp",
+                "original_url": "https://images.macrumors.com/t/5OKYEnfD5ONv60urtwyfZ6Os2Os=/400x0/article-new/2026/09/aqara-floor-lamp.jpg?lossy",
+                "source": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
+                "caption": "Aqara文章内案例图；图片来源原文",
+                "kind": "article-body"
               }
             ]
           },
           {
-            "brand": "eufy",
-            "title": "eufy 发布 Edge 5.0 智能家居系列与 Video Doorbell S4",
-            "overview": "eufy 发布 Edge 5.0 智能家居系列与 Video Doorbell S4",
-            "type": "UI / 产品界面",
+            "brand": "eufy · 安克",
+            "title": "eufy S4 可视门铃：全景查看、人物追踪与跨生态边界",
+            "original_title": "Anker launches world's first video doorbell with VR viewing — fortunately it has other smart features to justify its giant price tag (and is subscription-free) | TechRadar",
+            "overview": "S4 提供 180° 视野、人物追踪和本地存储，报道预计 10 月底发货。全景查看及追踪依赖 eufy 应用，第三方平台仅显示固定实时画面。",
+            "type": "IoT / 可视门铃",
+            "display_type": "IoT / 可视门铃",
             "focus": "UI",
-            "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
-            "published": "2026-09-28",
+            "insight": "设计解读：小度接入门铃时，应区分实时画面与智能追踪能力；把来访通知、全景切换和隐私状态做清楚，避免让用户误以为所有平台体验相同。",
+            "published": "2026-09-29",
             "url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-            "event_key": "eufy-2026-09-28-eufy 发布 Edge 5.0 智能家",
+            "event_key": "sample35-eufy-hardware",
+            "source_label": "TechRadar · 中文概述",
+            "source_kind": "海外新品报道",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FwwC6ffF39gHuESyvznR274-2000-80.jpg&w=1200&h=675&fit=cover&output=webp",
-                "caption": "eufy新品或更新的产品主视觉；图片来源原文",
-                "source": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free"
+                "url": "./cover-a4b0b4c95564c589.webp",
+                "original_url": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-1200-80.jpg.webp",
+                "source": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
+                "caption": "eufy · 安克文章内案例图；图片来源原文",
+                "kind": "article-body"
               }
             ]
           },
           {
             "brand": "Amazon",
-            "title": "亚马逊发布内置 Alexa+ 的新款平板",
-            "overview": "亚马逊推出内置 Alexa+ 的新款平板，将智能助理能力整合到平板使用体验中。",
-            "type": "UI / 产品界面",
+            "title": "亚马逊 Alexa 平板：把连续对话和家庭控制带进屏幕",
+            "original_title": "New Amazon Alexa Tablets with Alexa+ built in: details, availability, and pricing",
+            "overview": "亚马逊发布三个尺寸的 Alexa 平板，内置 Alexa+，支持连续对话、屏幕内容理解与家庭控制。北美首批 10 月 14 日发货，欧洲部分地区为 10 月 19 日。",
+            "type": "AI硬件 / 家庭平板",
+            "display_type": "AI硬件 / 家庭平板",
             "focus": "UI",
-            "insight": "体验关注点：重点检查新硬件的屏幕形态、语音与触控协同、设备联动、家庭账号和隐私反馈；评估哪些能力可迁移到小度智能屏与 IoT 产品。",
+            "insight": "设计解读：对照小度带屏助手，关注触控与免唤醒对话如何衔接；屏幕共享需主动开启，并持续显示助手何时能够查看屏幕。",
             "published": "2026-10-08",
             "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
-            "event_key": "Amazon-2026-10-08-Introducing all-new ",
+            "event_key": "sample35-amazon-hardware",
+            "source_label": "Amazon 官方 · 中文概述",
+            "source_kind": "官方新品发布",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fdims4%2Fdefault%2F11a0bdb%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1600x800%2B0%2B50%2Fresize%2F1200x600%21%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fassets.aboutamazon.com%252Fad%252Fdc%252Fa7f630ec4671960c964ff943c481%252Famazonalexatablet-inline-amazonnews-ck10826.jpg&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Amazon新品或更新的产品主视觉；图片来源原文",
-                "source": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus"
+                "url": "./cover-418bc9743868ff1d.webp",
+                "original_url": "https://assets.aboutamazon.com/dims4/default/924d7ed/2147483647/strip/true/crop/2550x1429+0+2/resize/1920x1076!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fad%2F13%2Fd5df01dc4dc7916815e964d079f1%2Famazonalexatablets-inline-amazonnews-ck10726.png",
+                "source": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
+                "caption": "Amazon文章内案例图；图片来源原文",
+                "kind": "article-body"
               }
-            ],
-            "original_title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in"
-          },
-          {
-            "brand": "Aqara",
-            "title": "绿米智能家居怎么样？全屋智能行业现状品牌实力全面解析",
-            "overview": "绿米智能家居怎么样？全屋智能行业现状品牌实力全面解析",
-            "type": "IoT / 全屋智能",
-            "focus": "UX",
-            "insight": "设计解读：对照小度全屋智能，关注设备覆盖、场景联动与安装服务如何影响家庭用户的使用路径。",
-            "published": "2026-10-12",
-            "url": "https://tech.ifeng.com/c/8xAJIFLj0ch",
-            "event_key": "Aqara-2026-10-12-绿米智能家居怎么样？全屋智能行业现状品牌实力全面",
-            "images": [
-              {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fx0.ifengimg.com%2Fres%2F2026%2FDE84479DC814A6CD08EA0AE67197F4B8E6190748_size100_w647_h327.png&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Aqara文章主视觉；图片来源原文",
-                "source": "https://tech.ifeng.com/c/8xAJIFLj0ch"
-              }
-            ],
-            "classification_reason": "正文重点为家庭硬件、设备联动与产品能力，归入竞品追踪。"
-          },
-          {
-            "brand": "Apple",
-            "title": "Siri AI联动，苹果押注智能家居新入口！首款显示屏“大脑”HomeView登场，家居配件出“全家桶”",
-            "overview": "Siri AI联动，苹果押注智能家居新入口！首款显示屏“大脑”HomeView登场，家居配件出“全家桶”",
-            "type": "硬件 / 家庭中控",
-            "focus": "UX",
-            "insight": "设计解读：对照小度的家庭入口，关注屏幕形态、摆放方式、语音与触控协同，以及设备控制状态是否清晰。",
-            "published": "2026-10-13",
-            "url": "https://wallstreetcn.com/articles/3783561",
-            "event_key": "Apple-2026-10-13-Siri AI联动，苹果押注智能家居新入口！首款",
-            "images": [
-              {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwpimg-wscn.awtmt.com%2F71d82fde-c5e0-4dc6-b64b-7995062c6afa.jpeg&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Apple文章主视觉；图片来源原文",
-                "source": "https://wallstreetcn.com/articles/3783561"
-              }
-            ],
-            "classification_reason": "正文重点为家庭硬件、设备联动与产品能力，归入竞品追踪。"
+            ]
           }
         ]
       }
     },
     "display_start": "2026-10-12",
-    "display_end": "2026-10-16"
+    "display_end": "2026-10-16",
+    "sample_review_status": "awaiting-user-review"
   },
   {
     "start": "2026-09-21",
