@@ -508,7 +508,7 @@
     "generated_at": "2026-10-14",
     "sections": {
       "trends": {
-        "summary": "AI 设计工具如何进入团队流程，以及设计师如何修正同质化视觉，是本期两条线索：效率提升也需要审美判断。",
+        "summary": "发布《Best AI Design Tools for Product Teams in 2026》，从产品团队角度重新评估 AI 原型、设计和工程工具；设计灵感工作流：从整体方向到界面与组件。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
@@ -533,22 +533,29 @@
             ]
           },
           {
-            "brand": "Brainstorm Projects",
-            "title": "本周 Graphic Design Buzz 关注“设计师正在修复 AI 生成的千篇一律视觉”，强调 specificity 与 design judgement",
-            "overview": "本周 Graphic Design Buzz 关注“设计师正在修复 AI 生成的千篇一律视觉”，强调 specificity 与 design judgement",
-            "type": "平面 / Brand / AIGC",
+            "brand": "优设 · Ricoui",
+            "title": "设计灵感工作流：从整体方向到界面与组件",
+            "original_title": "设计灵感怎么找？这16个网站涵盖一套完整工作流！",
+            "overview": "按找灵感、拆界面、找组件和实验探索四个阶段组织参考网站，帮助设计师带着具体问题筛选案例。",
+            "type": "设计方法 / 灵感研究",
+            "display_type": "设计方法 / 灵感研究",
             "focus": "UI",
-            "insight": "反 AI 同质化成为视觉趋势：更具体的品牌符号、更独特的字体、更真实的材质和人为痕迹",
-            "published": "2026-08-26",
-            "url": "https://brainstormprojects.studio/graphic-design-update-2-september-2026/?utm_source=chatgpt.com",
-            "event_key": "history-trends-2026-08-26-Brainstorm Projects-1",
+            "insight": "按问题选择参考：先定整体气质，再拆界面结构与组件细节。",
+            "insight_headline": "按问题选择参考",
+            "insight_detail": "先定整体气质，再拆界面结构与组件细节。",
+            "insight_emphasis": "界面结构与组件细节",
+            "published": "2026-09-02",
+            "url": "https://www.uisdc.com/inspiration-workflow",
+            "event_key": "review-fix-76e5a5e8f5db3731",
+            "source_label": "优设 · Ricoui",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fbrainstormprojects.studio%2Fwp-content%2Fuploads%2F2026%2F09%2Fgraphic-design-update-2026-09-02-featured.webp&w=1200&h=675&fit=cover&output=webp",
-                "caption": "Brainstorm Projects文章主视觉；图片来源原文",
-                "source": "https://brainstormprojects.studio/graphic-design-update-2-september-2026/?utm_source=chatgpt.com",
-                "original_url": "https://brainstormprojects.studio/wp-content/uploads/2026/09/graphic-design-update-2026-09-02-featured.webp",
-                "kind": "original-local"
+                "url": "./cover-bc78afa264260e66.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/09/ysbanner-20260902-3.webp",
+                "source": "https://www.uisdc.com/inspiration-workflow",
+                "caption": "优设 · Ricoui文章案例主视觉；图片来源原文",
+                "kind": "article-body"
               }
             ]
           }
@@ -1392,7 +1399,7 @@
     "generated_at": "2026-10-16",
     "sections": {
       "trends": {
-        "summary": "Figma Make 接入 GPT-5.6：从草图到可评审原型；Adobe 发布《Design Trends for 2026》，认为未来视觉设计将更加注重真实感、手工感、本地文化表达以及故事化排版。",
+        "summary": "Figma Make 接入 GPT-5.6：从草图到可评审原型；AE 流动渐变：用形状、模糊与运动丰富界面层次。",
         "notice": "文章入口已于2026-10-16核验；替换内容采用对应期刊时间区间的公开文章。设计关注点为编辑解读。",
         "delivery": "published",
         "items": [
@@ -1420,18 +1427,31 @@
             "source_verified_at": "2026-10-16"
           },
           {
-            "brand": "Adobe Express",
-            "title": "Adobe 发布《Design Trends for 2026》，认为未来视觉设计将更加注重真实感、手工感、本地文化表达以及故事化排版。",
-            "overview": "Adobe 发布《Design Trends for 2026》，认为未来视觉设计将更加注重真实感、手工感、本地文化表达以及故事化排版。",
-            "type": "平面设计趋势",
+            "brand": "优设 · 菜心",
+            "title": "AE 流动渐变：用形状、模糊与运动丰富界面层次",
+            "original_title": "别说你不会做了！教你用AE快速做出流动渐变动效！",
+            "overview": "教程通过椭圆、波形变形、预合成与高斯模糊，制作具有自然层次的流动渐变背景。",
+            "type": "UI / 渐变动效",
+            "display_type": "UI / 渐变动效",
             "focus": "UI",
-            "insight": "强化\"人性化\"视觉表达。 从高度统一的 AI 风格转向更具真实感、情绪价值和文化辨识度的设计语言，提升品牌内容的情感连接。",
+            "insight": "用运动建立层次：组合形状与模糊，让渐变流动更自然。",
+            "insight_headline": "用运动建立层次",
+            "insight_detail": "组合形状与模糊，让渐变流动更自然。",
+            "insight_emphasis": "形状与模糊",
             "published": "2026-07-10",
-            "url": "https://www.adobe.com/express/learn/blog/design-trends-2026?utm_source=chatgpt.com",
-            "event_key": "history-trends-2026-07-10-Adobe Express-1",
-            "images": [],
-            "cover_status": "pending-source-image",
-            "cover_note": "原文配图待补充"
+            "url": "https://www.uisdc.com/ae",
+            "event_key": "review-fix-ac807369a0bfe312",
+            "source_label": "优设 · 菜心",
+            "source_verified_at": "2026-10-16",
+            "images": [
+              {
+                "url": "./cover-4ea7e30070f77660.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/07/ysbanner-20260710-1.webp",
+                "source": "https://www.uisdc.com/ae",
+                "caption": "优设 · 菜心文章案例主视觉；图片来源原文",
+                "kind": "article-body"
+              }
+            ]
           }
         ]
       },
@@ -1493,7 +1513,7 @@
     "generated_at": "2026-10-16",
     "sections": {
       "trends": {
-        "summary": "《UN/SEEN》：用网格与字体重读女性设计师档案；戛纳创意节观察：从广泛触达到社群共鸣。",
+        "summary": "《UN/SEEN》：用网格与字体重读女性设计师档案；快手三农 IP 复盘：让品牌符号进入日常触点。",
         "notice": "文章入口已于2026-10-16核验；替换内容采用对应期刊时间区间的公开文章。设计关注点为编辑解读。",
         "delivery": "published",
         "items": [
@@ -1521,27 +1541,31 @@
             "source_verified_at": "2026-10-16"
           },
           {
-            "brand": "Creative Boom",
-            "title": "戛纳创意节观察：从广泛触达到社群共鸣",
-            "original_title": "Cannes Lions 2026: why resonance, niche and analogue are the future of creativity",
-            "overview": "Lucy Werner 复盘 Cannes Lions 2026，观察社群信任、细分文化与触觉式线下体验如何影响品牌创意。",
-            "type": "品牌 / 创意观察",
+            "brand": "快手运营设计",
+            "title": "快手三农 IP 复盘：让品牌符号进入日常触点",
+            "original_title": "大厂设计实战复盘！快手三农人气IP诞生记",
+            "overview": "快手运营设计复盘“春芬&秋芬”的角色设定，并将 IP 延展到互动图标、线下活动、实用周边与表情包。",
+            "type": "品牌 / IP设计",
+            "display_type": "品牌 / IP设计",
             "focus": "UI",
-            "insight": "设计解读：小度运营活动可先明确服务的人群与真实生活场景，再选择能引发参与的内容形式。",
-            "published": "2026-06-30",
-            "url": "https://www.creativeboom.com/insight/cannes-lions-2026-why-resonance-niche-and-analogue-are-the-future-of-creativity/",
-            "event_key": "verified-31ae65f4ca46de1a",
+            "insight": "让 IP 渗透日常触点：统一角色特征，连接线上互动与线下周边。",
+            "insight_headline": "让 IP 渗透日常触点",
+            "insight_detail": "统一角色特征，连接线上互动与线下周边。",
+            "insight_emphasis": "线上互动与线下周边",
+            "published": "2026-07-02",
+            "url": "https://www.uisdc.com/kuaishou-15",
+            "event_key": "review-fix-611f9f9541f5908f",
+            "source_label": "快手运营设计",
+            "source_verified_at": "2026-10-16",
             "images": [
               {
-                "url": "./cover-5714d30930292780.webp",
-                "caption": "Creative Boom原文案例配图；图片来源原文",
-                "source": "https://www.creativeboom.com/insight/cannes-lions-2026-why-resonance-niche-and-analogue-are-the-future-of-creativity/",
-                "original_url": "https://media.creativeboom.com/e5a4bf73-4a80-4758-952f-94acf11f77c9/conversions/7c74383ee675c565a50a5bca3686d8344ec2bb36-small.webp",
+                "url": "./cover-26209cd5068472cc.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/07/ysbanner-20260702-2.webp",
+                "source": "https://www.uisdc.com/kuaishou-15",
+                "caption": "快手运营设计文章案例主视觉；图片来源原文",
                 "kind": "article-body"
               }
-            ],
-            "cover_status": "verified-article-image",
-            "source_verified_at": "2026-10-16"
+            ]
           }
         ]
       },
@@ -1974,29 +1998,29 @@
         ]
       },
       "competitors": {
-        "summary": "Nest 宠物识别与 Homey 接入 ChatGPT，关注家庭对象识别和自然语言控制的实际使用路径。",
+        "summary": "Google Home 宠物记忆：摄像头从识别物种到识别名字；Homey 于本周宣布其 2026 款智能家居中枢新增 ChatGPT 原生应用，基于此前发布的 MCP Server 构建——用户现在可以直接用 ChatGPT（以及 Claude）通过自然语言指令进行设备重命名、状态查询与硬件控制，无需。",
         "notice": "根据用户提供的往期资料整理；原始图片未随粘贴文本提供，卡片使用品牌占位封面。",
         "delivery": "published",
         "items": [
           {
-            "brand": "谷歌",
-            "title": "谷歌的新宠物记忆功能让支持的Nest摄像头能够通过宠物名称识别宠物，而不仅仅是物种",
-            "overview": "谷歌的新宠物记忆功能让支持的Nest摄像头能够通过宠物名称识别宠物，而不仅仅是物种",
-            "type": "AI智能硬件",
+            "brand": "Google Nest",
+            "title": "Google Home 宠物记忆：摄像头从识别物种到识别名字",
+            "overview": "Google 官方更新说明：支持的室内 Nest 摄像头可记住宠物名字和种类，并用于个性化提醒；需要 Google Home Premium Advanced 订阅。",
+            "type": "IoT / 家庭摄像头",
             "focus": "UX",
-            "insight": "Google Home为其摄像头提供了更具体的动物记忆。宠物记忆是Gemini for Home的一项新功能，支持的摄像头在主人添加宠物名字并在“问家”中输入后，通过该宠物的名字识别该宠物。 此次更新支持室内Nest摄像头和部分内置Gemini摄像头的摄像头。一旦设置好，Google Home可以发送定制的提醒，当已知宠物走进房间或出现在摄像头历史中时。",
+            "insight": "把识别结果变成具体提醒：用宠物名字降低理解成本，同时说明订阅条件。",
             "published": "2026-06-03",
-            "url": "https://www.digitaltrends.com/home/google-says-nest-cameras-can-now-identify-and-track-your-furry-friends-at-home/",
+            "url": "https://support.google.com/googlehome/blog/438529913/google-home-release-notes-june-2nd?hl=en",
             "event_key": "history-competitors-2026-06-03-谷歌-0",
-            "images": [
-              {
-                "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.digitaltrends.com%2Ftachyon%2F2026%2F06%2Fio26-blog-06-hardware-prog4x.original-1.jpg%3Fresize%3D1200%252C630&w=1200&h=675&fit=cover&output=webp",
-                "caption": "谷歌文章主视觉；图片来源原文",
-                "source": "https://www.digitaltrends.com/home/google-says-nest-cameras-can-now-identify-and-track-your-furry-friends-at-home/",
-                "original_url": "https://www.digitaltrends.com/tachyon/2026/06/io26-blog-06-hardware-prog4x.original-1.jpg?resize=1200%2C630",
-                "kind": "original-local"
-              }
-            ]
+            "images": [],
+            "original_title": "Google Home Release Notes: June 2nd",
+            "display_type": "IoT / 家庭摄像头",
+            "insight_headline": "把识别结果变成具体提醒",
+            "insight_detail": "用宠物名字降低理解成本，同时说明订阅条件。",
+            "insight_emphasis": "宠物名字",
+            "source_label": "Google Home · 官方更新",
+            "source_verified_at": "2026-10-16",
+            "cover_status": "no-article-image"
           },
           {
             "brand": "Homey",
@@ -2860,17 +2884,17 @@
     "generated_at": "2026-10-16",
     "sections": {
       "trends": {
-        "summary": "UI；Make kits 与附件：让 AI 原型从真实组件和数据开始；1.情境感知的“液态”体验。",
+        "summary": "2026 视觉设计趋势：用人工判断约束 AI 与视觉表达；Make kits 与附件：让 AI 原型从真实组件和数据开始；1.情境感知的“液态”体验。",
         "notice": "文章入口已于2026-10-16核验；替换内容采用对应期刊时间区间的公开文章。设计关注点为编辑解读。",
         "delivery": "published",
         "items": [
           {
-            "brand": "2026 年真正重要的 7 个设计趋势",
-            "title": "UI",
-            "overview": "UI",
-            "type": "2.反极简主义：表达品牌个性",
+            "brand": "Think Design",
+            "title": "2026 视觉设计趋势：用人工判断约束 AI 与视觉表达",
+            "overview": "Think Design 讨论 AI 视觉系统、品牌个性、色彩可读性和跨设备表达，强调用具体用户问题判断趋势是否适用。",
+            "type": "设计方法 / 视觉趋势",
             "focus": "UX",
-            "insight": "1.功能性的高对比度色彩 具体说明：高对比度调色盘的普及不再仅仅为了视觉冲击，而是为了应对多任务处理和复杂物理环境下的可读性。关键操作区域必须使用高对比度 具体说明：2026 年的设计更强调独特性。这表现为大胆的英雄图区域、非标准的字体排版和富有表达力的微交互",
+            "insight": "趋势服务问题，不能替代判断：先验证可读性与品牌识别，再决定视觉表达。",
             "published": "2026-02-01",
             "url": "https://think.design/blog/design-trends-2026-that-actually-matter/",
             "event_key": "history-trends-2026-02-01-2026 年真正重要的 7 个设计趋势-0",
@@ -2882,7 +2906,11 @@
                 "original_url": "https://think.design/wp-content/uploads/2026/02/7-Design-Trends-in-2026-That-Actually-Matter.jpg",
                 "kind": "original-local"
               }
-            ]
+            ],
+            "display_type": "设计方法 / 视觉趋势",
+            "insight_headline": "趋势服务问题，不能替代判断",
+            "insight_detail": "先验证可读性与品牌识别，再决定视觉表达。",
+            "insight_emphasis": "可读性与品牌识别"
           },
           {
             "brand": "Figma",
