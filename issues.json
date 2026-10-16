@@ -17,7 +17,7 @@
             "type": "UX / AI设计方法",
             "display_type": "UX / AI设计方法",
             "focus": "UX",
-            "insight": "设计解读：小度可先减少重复入口，再把回答拆成摘要、要点与图示；建立内容质量和响应速度的共同标准，避免界面更丰富却更难读。",
+            "insight": "体验编排成为 AI 产品的差异化：Gemini 的案例把注意力从功能堆叠转向输入入口取舍与回答层级：界面需要帮助用户理解内容，而不只是展示模型能力。",
             "published": "2026-10-15",
             "url": "https://www.uisdc.com/design-as-moat",
             "event_key": "sample35-google-design",
@@ -32,7 +32,9 @@
                 "caption": "Google Gemini文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "体验编排成为 AI 产品的差异化",
+            "insight_detail": "Gemini 的案例把注意力从功能堆叠转向输入入口取舍与回答层级：界面需要帮助用户理解内容，而不只是展示模型能力。"
           },
           {
             "brand": "Apple",
@@ -42,7 +44,7 @@
             "type": "UI / 多端布局",
             "display_type": "UI / 多端布局",
             "focus": "UI",
-            "insight": "设计解读：小度横竖屏适配应保留操作的用途和分组，而非只缩放画布；提前定义图标、文字、角标及溢出菜单在不同宽度下的表现。",
+            "insight": "多端适配从缩放转向重组：控件随屏幕形态在水平与侧边布局间切换，但导航、页面操作和栏目切换仍各有分组；变化的是位置，稳定的是操作逻辑。",
             "published": "2026-10-09",
             "url": "https://www.uisdc.com/raise-the-bar-with-iphone-duo",
             "event_key": "sample35-apple-design",
@@ -57,7 +59,9 @@
                 "caption": "Apple文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "多端适配从缩放转向重组",
+            "insight_detail": "控件随屏幕形态在水平与侧边布局间切换，但导航、页面操作和栏目切换仍各有分组；变化的是位置，稳定的是操作逻辑。"
           },
           {
             "brand": "小米",
@@ -67,7 +71,7 @@
             "type": "UI / 动效反馈",
             "display_type": "UI / 动效反馈",
             "focus": "UI",
-            "insight": "设计解读：为小度梳理唤起、思考、执行和完成的连续视觉状态；让动效告诉用户正在发生什么，并保留可继续操作的空间。",
+            "insight": "动效成为任务状态的语言：任务上岛、持续反馈与结果展开，把思考和执行过程转成可感知的视觉变化，让用户在等待中仍能理解进度并继续操作。",
             "published": "2026-09-01",
             "url": "https://tech.ifeng.com/c/8w43H0glaHo",
             "event_key": "sample35-xiaomi-design",
@@ -82,7 +86,9 @@
                 "caption": "小米文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "动效成为任务状态的语言",
+            "insight_detail": "任务上岛、持续反馈与结果展开，把思考和执行过程转成可感知的视觉变化，让用户在等待中仍能理解进度并继续操作。"
           },
           {
             "brand": "阿里巴巴 · 淘宝设计",
@@ -92,7 +98,7 @@
             "type": "设计系统 / AI工作流",
             "display_type": "设计系统 / AI工作流",
             "focus": "UI",
-            "insight": "设计解读：小度可先在标准化运营页面试验，将组件、间距、字体与状态规范一起交给 AI；创意方向和视觉质量仍由设计师把关。",
+            "insight": "设计规范从交付附件变成生成规则：业务流程、页面框架、组件和全局样式共同约束 AI 输出；设计师的价值进一步落在规则定义、视觉一致性与质量判断上。",
             "published": "2026-09-22",
             "url": "https://www.uisdc.com/b2b-design-engineering",
             "event_key": "sample35-taobao-design",
@@ -107,7 +113,9 @@
                 "caption": "阿里巴巴 · 淘宝设计文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "设计规范从交付附件变成生成规则",
+            "insight_detail": "业务流程、页面框架、组件和全局样式共同约束 AI 输出；设计师的价值进一步落在规则定义、视觉一致性与质量判断上。"
           },
           {
             "brand": "腾讯 ISUX",
@@ -117,7 +125,7 @@
             "type": "品牌 / 字标与插画",
             "display_type": "品牌 / 字标与插画",
             "focus": "UI",
-            "insight": "设计解读：小度可尝试将品牌图形、开机动效、提示音与运营 KV 联动；保留一致的识别骨架，再围绕不同场景延展内容。",
+            "insight": "字标从品牌标识走向叙事系统：Rumble 把插画与声景装进字母，让静态标识延展为可组合的视觉和听觉内容；品牌识别由一个图形扩展为一套表达方式。",
             "published": "2026-08-21",
             "url": "https://www.uisdc.com/design-ai-weekly",
             "event_key": "sample35-tencent-design",
@@ -132,7 +140,9 @@
                 "caption": "腾讯 ISUX文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "字标从品牌标识走向叙事系统",
+            "insight_detail": "Rumble 把插画与声景装进字母，让静态标识延展为可组合的视觉和听觉内容；品牌识别由一个图形扩展为一套表达方式。"
           }
         ]
       },
@@ -149,7 +159,7 @@
             "type": "智能屏 / 家庭中控",
             "display_type": "智能屏 / 家庭中控",
             "focus": "UI",
-            "insight": "设计解读：对照小度的家庭共享场景，关注识别失败时的默认权限、个人与家庭内容的切换，以及语音、触控和设备控制反馈能否一致。",
+            "insight": "家庭中控围绕人组织体验：HomeView 以家庭成员识别连接个人内容与共享设备。中控界面的关键由设备列表，延伸到身份切换和个人、家庭权限的区分。",
             "published": "2026-10-14",
             "url": "https://wallstreetcn.com/articles/3783561",
             "event_key": "sample35-apple-hardware",
@@ -164,7 +174,9 @@
                 "caption": "Apple文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "家庭中控围绕人组织体验",
+            "insight_detail": "HomeView 以家庭成员识别连接个人内容与共享设备。中控界面的关键由设备列表，延伸到身份切换和个人、家庭权限的区分。"
           },
           {
             "brand": "华为",
@@ -174,7 +186,7 @@
             "type": "智能屏 / 大屏交互",
             "display_type": "智能屏 / 大屏交互",
             "focus": "UI",
-            "insight": "设计解读：对照小度大屏场景，关注指向光标的目标大小、焦点反馈和误操作恢复，以及手机与大屏交接时是否保留任务上下文。",
+            "insight": "大屏操作向直接操控靠近：指向遥控与投屏反控缩短了遥控器、手机和大屏之间的操作距离；焦点、目标范围及操作反馈成为这类交互的重要设计细节。",
             "published": "2026-09-08",
             "url": "https://m.ithome.com/html/999497.htm",
             "event_key": "sample35-huawei-hardware",
@@ -189,7 +201,9 @@
                 "caption": "华为文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "大屏操作向直接操控靠近",
+            "insight_detail": "指向遥控与投屏反控缩短了遥控器、手机和大屏之间的操作距离；焦点、目标范围及操作反馈成为这类交互的重要设计细节。"
           },
           {
             "brand": "Aqara",
@@ -199,7 +213,7 @@
             "type": "IoT / 灯光联动",
             "display_type": "IoT / 灯光联动",
             "focus": "UI",
-            "insight": "设计解读：小度家庭中控可关注分区灯光、色温与场景预览如何表达；跨生态控制要明确哪些能力可用，哪些仍依赖品牌自己的应用。",
+            "insight": "统一入口需要清楚表达控制层级：Matter 灯具把跨平台控制与分区灯光、传感器联动放在一起。界面需要区分单灯、分区和场景，避免把不同控制范围混成同一层。",
             "published": "2026-09-04",
             "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
             "event_key": "sample35-aqara-hardware",
@@ -214,7 +228,9 @@
                 "caption": "Aqara文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "统一入口需要清楚表达控制层级",
+            "insight_detail": "Matter 灯具把跨平台控制与分区灯光、传感器联动放在一起。界面需要区分单灯、分区和场景，避免把不同控制范围混成同一层。"
           },
           {
             "brand": "eufy · 安克",
@@ -224,7 +240,7 @@
             "type": "IoT / 可视门铃",
             "display_type": "IoT / 可视门铃",
             "focus": "UI",
-            "insight": "设计解读：小度接入门铃时，应区分实时画面与智能追踪能力；把来访通知、全景切换和隐私状态做清楚，避免让用户误以为所有平台体验相同。",
+            "insight": "全景监控从看见走向主动取景：人物追踪与自动构图把宽视野转成可读画面；原生应用和第三方平台的能力不同，入口与状态反馈也应明确呈现这些边界。",
             "published": "2026-09-29",
             "url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
             "event_key": "sample35-eufy-hardware",
@@ -239,7 +255,9 @@
                 "caption": "eufy · 安克文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "全景监控从看见走向主动取景",
+            "insight_detail": "人物追踪与自动构图把宽视野转成可读画面；原生应用和第三方平台的能力不同，入口与状态反馈也应明确呈现这些边界。"
           },
           {
             "brand": "Amazon",
@@ -249,7 +267,7 @@
             "type": "AI硬件 / 家庭平板",
             "display_type": "AI硬件 / 家庭平板",
             "focus": "UI",
-            "insight": "设计解读：对照小度带屏助手，关注触控与免唤醒对话如何衔接；屏幕共享需主动开启，并持续显示助手何时能够查看屏幕。",
+            "insight": "AI 从独立入口融入当前任务：Alexa 平板把连续对话、屏幕理解和家庭控制融入正在进行的操作；助手的可见状态与屏幕共享授权成为体验的一部分。",
             "published": "2026-10-08",
             "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
             "event_key": "sample35-amazon-hardware",
@@ -264,7 +282,9 @@
                 "caption": "Amazon文章内案例图；图片来源原文",
                 "kind": "article-body"
               }
-            ]
+            ],
+            "insight_headline": "AI 从独立入口融入当前任务",
+            "insight_detail": "Alexa 平板把连续对话、屏幕理解和家庭控制融入正在进行的操作；助手的可见状态与屏幕共享授权成为体验的一部分。"
           }
         ]
       }
