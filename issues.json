@@ -1,5 +1,370 @@
 [
   {
+    "start": "2026-10-12",
+    "end": "2026-10-18",
+    "display_start": "2026-10-19",
+    "display_end": "2026-10-23",
+    "generated_at": "2026-10-19",
+    "sections": {
+      "trends": {
+        "summary": "从书城的视觉减法、Charis 的字形可读性，到 Muse 的状态显隐：本期关注清晰表达，并用权限边界与具体风格规则约束 AI 设计。",
+        "notice": "精选近60天且正文已核实的文章；区分团队成员原文、媒体案例与访谈整理。设计关注点为编辑提炼，不是原文引语。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "蚂蚁 · Ant Design 元尧",
+            "title": "ToA 产品设计：让 AI 的权限、过程与交接更清楚",
+            "original_title": "从 ToC 到 ToA！一篇讲清 AI Agent 时代的产品设计方法",
+            "overview": "蚂蚁体验设计师元尧讨论人和 Agent 共用产品的设计方法，围绕分级授权、过程可控、结果可逆与责任可追溯组织协作。",
+            "type": "UX / AI协作设计",
+            "display_type": "UX / AI协作设计",
+            "focus": "UX",
+            "insight_headline": "把行动权限变成可见规则",
+            "insight_detail": "用分级授权和可接管状态，降低用户监督任务的成本。",
+            "insight_emphasis": "分级授权和可接管状态",
+            "insight": "把行动权限变成可见规则：用分级授权和可接管状态，降低用户监督任务的成本。",
+            "published": "2026-10-13",
+            "url": "https://www.uisdc.com/designing-for-agents",
+            "event_key": "ant-yuanyao-toa-delegation-20261013",
+            "source_label": "Ant Design 元尧 · 优设",
+            "source_kind": "设计团队成员署名原文",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-becde2c5e8f38454.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/3441410a81e9b6a3497a20a0bd485e98.webp",
+                "source": "https://www.uisdc.com/designing-for-agents",
+                "caption": "原文的人类界面与 Agent 能力接口对照图",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/ant.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-13",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image"
+          },
+          {
+            "brand": "酸梅干超人",
+            "title": "书城 UI 优化：让色彩、组件与配图保持统一",
+            "original_title": "配图花+用色多+看着乱，界面怎么做视觉统一？",
+            "overview": "作者以网文书城为例，保留原有页面框架，减少辅助色与装饰效果，结合内容题材挑选主体清楚的配图，演示视觉优化前后的变化。",
+            "type": "UI / 视觉层级",
+            "display_type": "UI / 视觉层级",
+            "focus": "UI",
+            "insight_headline": "用视觉减法突出阅读入口",
+            "insight_detail": "减少辅助色与复杂配图，让封面和操作各有主次。",
+            "insight_emphasis": "封面和操作各有主次",
+            "insight": "用视觉减法突出阅读入口：减少辅助色与复杂配图，让封面和操作各有主次。",
+            "published": "2026-10-14",
+            "url": "https://www.uisdc.com/bookstore-visual-unity",
+            "event_key": "bookstore-ui-visual-unity-20261014",
+            "source_label": "优设 · 酸梅干超人",
+            "source_kind": "设计媒体实操案例",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-2b99cfe01c67d33c.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/e7327e1c553d713374054aa0c61389ac.webp",
+                "source": "https://www.uisdc.com/bookstore-visual-unity",
+                "caption": "原文书城界面优化前后对照；保留完整案例比例",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/ui.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-14",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image"
+          },
+          {
+            "brand": "SIL · Charis",
+            "title": "Charis 字体案例：以清晰字形兼顾阅读与品牌表达",
+            "original_title": "兼顾优雅与易读！这款免费衬线字体特别适合书籍和品牌设计！",
+            "overview": "Befour 介绍 SIL 的 Charis 衬线字体，拆解开放字怀、字形细节与多语言排版，并展示书籍及品牌应用；这是字体应用介绍，并非新品发布。",
+            "type": "字体 / 品牌排版",
+            "display_type": "字体 / 品牌排版",
+            "focus": "UI",
+            "insight_headline": "让可读性成为字体气质",
+            "insight_detail": "以开放字怀和清晰衬线，兼顾长文排版与品牌亲和感。",
+            "insight_emphasis": "开放字怀和清晰衬线",
+            "insight": "让可读性成为字体气质：以开放字怀和清晰衬线，兼顾长文排版与品牌亲和感。",
+            "published": "2026-10-13",
+            "url": "https://www.uisdc.com/free-serif-charis",
+            "event_key": "charis-typeface-design-case-20261013",
+            "source_label": "优设 · Befour",
+            "source_kind": "字体应用与视觉案例介绍",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-cca63f25a4edcfd6.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/4fad9e017895fccbe1fe41eb69a7b3a4.webp",
+                "source": "https://www.uisdc.com/free-serif-charis",
+                "caption": "原文 Charis 字形与可读性展示图",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/font.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-13",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image"
+          },
+          {
+            "brand": "Meta Muse",
+            "title": "Muse 界面设计：用简短状态和按需详情呈现任务",
+            "original_title": "Meta Muse设计总监专访：做好AI产品设计的5个关键思路",
+            "overview": "觉之设计整理 Alex Cornell 的访谈，观察 Muse 如何用动态角色和简短状态反馈任务，再由用户展开步骤；消息气泡与独立面板帮助组织信息。",
+            "type": "UI / 状态与信息显隐",
+            "display_type": "UI / 状态与信息显隐",
+            "focus": "UI",
+            "insight_headline": "让任务过程按需展开",
+            "insight_detail": "用简短状态与分层详情，传达进度而不过度占用对话。",
+            "insight_emphasis": "简短状态与分层详情",
+            "insight": "让任务过程按需展开：用简短状态与分层详情，传达进度而不过度占用对话。",
+            "published": "2026-10-19",
+            "url": "https://www.uisdc.com/ai-as-colleague",
+            "event_key": "meta-muse-alex-cornell-progress-ui-interview-20261019",
+            "source_label": "优设 · 觉之设计访谈整理",
+            "source_kind": "设计媒体对访谈的中文整理",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-1f126e754735ed89.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/c10d8e0a28c6a67eaf507343ab746b7e.webp",
+                "source": "https://www.uisdc.com/ai-as-colleague",
+                "caption": "原文 Muse 顶部角色与 researching courses 状态案例",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/meta.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-19",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image"
+          },
+          {
+            "brand": "Clip设计夹",
+            "title": "AI 网页视觉：用具体语境摆脱默认模板",
+            "original_title": "AI 做网页总是蓝紫渐变？教你 3 招摆脱千篇一律的模板感！",
+            "overview": "文章分析蓝紫渐变、玻璃效果与同质卡片为何反复出现，提出明确目标受众、品牌气质与视觉禁区，让设计师保留对生成结果的判断。",
+            "type": "UI / AI视觉工作流",
+            "display_type": "UI / AI视觉工作流",
+            "focus": "UI",
+            "insight_headline": "先定义风格，再生成界面",
+            "insight_detail": "用受众与视觉禁区约束输出，减少蓝紫渐变式的模板感。",
+            "insight_emphasis": "受众与视觉禁区",
+            "insight": "先定义风格，再生成界面：用受众与视觉禁区约束输出，减少蓝紫渐变式的模板感。",
+            "published": "2026-10-14",
+            "url": "https://www.uisdc.com/escape-ai-templates",
+            "event_key": "clip-ai-web-visual-template-constraints-20261014",
+            "source_label": "优设 · Clip设计夹",
+            "source_kind": "设计媒体方法文章",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-7ddff6a459ddf7e4.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/69eed3f9c22e1bbc616c8c1c0b359f9c.webp",
+                "source": "https://www.uisdc.com/escape-ai-templates",
+                "caption": "原文 AI 页面与设计效果案例合集",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/escape.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-14",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image"
+          }
+        ]
+      },
+      "competitors": {
+        "summary": "本期聚焦家庭体验的连续性：语音与屏幕同步、音箱声光反馈、开门后的场景联动，以及手机、电视和中枢之间的接续与本地控制。",
+        "notice": "区分报道、预订、上市与分批更新日期。未核实到小米/小爱、天猫精灵及华为满足时效与跨期去重要求的新条目，故未重复旧事件。Google 正文无配图；三星原图不可取得，使用简约备用封面。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Google Home",
+            "title": "Google 家庭更新：语音收尾、智能屏文字与本地控制",
+            "original_title": "Google Home Release Notes: October 14th",
+            "overview": "10 月 14 日官方更新调整 Gemini for Home 早期体验的结束对话和停止指令，并加快智能屏文字滚动；Hue 网桥可后台转为 Matter 本地控制，无需重新配对。",
+            "type": "家庭设备 / 语音与本地控制",
+            "display_type": "家庭设备 / 语音与本地控制",
+            "focus": "UI",
+            "insight_headline": "让语音和画面一起收尾",
+            "insight_detail": "区分礼貌结束与立即停止，保持麦克风和屏幕状态一致。",
+            "insight_emphasis": "礼貌结束与立即停止",
+            "insight": "让语音和画面一起收尾：区分礼貌结束与立即停止，保持麦克风和屏幕状态一致。",
+            "published": "2026-10-14",
+            "url": "https://support.google.com/googlehome/blog/472912231/google-home-release-notes-october-14th?hl=en-AU",
+            "event_key": "google-home-oct14-conversation-and-local-matter-2026",
+            "source_label": "Google 官方更新 · 中文概述",
+            "source_kind": "官方功能更新说明",
+            "source_verified_at": "2026-10-19",
+            "images": [],
+            "evidence": {
+              "file": "evidence/google.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-14",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "minimal-fallback",
+            "cover_reason": "官方正文无案例图片，采用现有简约备用封面；Gemini 相关变化仅面向早期体验，不能推定所有地区及设备已全量开放。",
+            "verification_notes": "官方正文无案例图片，采用现有简约备用封面；Gemini 相关变化仅面向早期体验，不能推定所有地区及设备已全量开放。"
+          },
+          {
+            "brand": "Apple",
+            "title": "HomePod mini 2：音乐灯效与四音箱协同",
+            "original_title": "Apple announces the next generation of HomePod mini with support for Siri AI, beautiful new colours, and rich sound",
+            "overview": "苹果 10 月 13 日发布第二代 mini，Sound Glow 灯效随音乐与专辑色彩变化，并可配合新 Apple TV 4K 组成四音箱环绕声。英国等市场已预订，10 月 30 日上市；Siri AI 需等待后续更新。",
+            "type": "智能音箱 / 声光反馈",
+            "display_type": "智能音箱 / 声光反馈",
+            "focus": "UI",
+            "insight_headline": "让声音拥有可感知的状态",
+            "insight_detail": "灯光呼应音乐节奏与封面色彩，强化无屏设备的反馈。",
+            "insight_emphasis": "音乐节奏与封面色彩",
+            "insight": "让声音拥有可感知的状态：灯光呼应音乐节奏与封面色彩，强化无屏设备的反馈。",
+            "published": "2026-10-13",
+            "url": "https://www.apple.com/uk/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+            "event_key": "apple-homepod-mini2-sound-glow-20261013",
+            "source_label": "Apple 英国官网 · 中文概述",
+            "source_kind": "官方新品发布",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-923d9f135a13782d.webp",
+                "original_url": "https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/article/Apple-HomePod-mini-2-color-lineup-261013_big.jpg.large_2x.jpg",
+                "source": "https://www.apple.com/uk/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+                "caption": "苹果官方正文的 HomePod mini 2 五色产品图",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/apple.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-13",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "与第35期 HomeView 家庭中控为不同硬件事件；本条聚焦 mini 2 的音乐灯效与多音箱协同，不重复 HomeView 身份识别内容。Siri AI 尚未随硬件首发，后续先提供部分地区英语支持。"
+          },
+          {
+            "brand": "Aqara",
+            "title": "U600 英国上市：碰触解锁连接回家场景",
+            "original_title": "Aqara News",
+            "overview": "10 月 14 日英国发布 U600，面向当地多点锁门型，支持 Apple Home Key、指纹和密码；Matter over Thread 可接入多种家庭平台，解锁后联动灯光等设备需兼容控制器。",
+            "type": "IoT / 门锁与家庭联动",
+            "display_type": "IoT / 门锁与家庭联动",
+            "focus": "UI",
+            "insight_headline": "把开门动作接入家庭场景",
+            "insight_detail": "以碰触解锁连接灯光等联动，减少回家后的多步操作。",
+            "insight_emphasis": "碰触解锁连接灯光",
+            "insight": "把开门动作接入家庭场景：以碰触解锁连接灯光等联动，减少回家后的多步操作。",
+            "published": "2026-10-14",
+            "url": "https://www.aqara-shop.co.uk/blog/press-release/aqara-launches-smart-lock-u600-bringing-apple-home-key-to-a-slim-lock-designed-for-uk-doors/",
+            "event_key": "aqara-u600-uk-launch-20261014",
+            "source_label": "Aqara 英国渠道发布 · 中文概述",
+            "source_kind": "英国授权销售渠道的发布稿",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-c9fd450e42784b2a.webp",
+                "original_url": "https://www.aqara-shop.co.uk/wp-content/uploads/2026/10/46rtwm8jxdvh1.png",
+                "source": "https://www.aqara-shop.co.uk/blog/press-release/aqara-launches-smart-lock-u600-bringing-apple-home-key-to-a-slim-lock-designed-for-uk-doors/",
+                "caption": "英国渠道发布稿内的 U600 产品与门把手图",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/aqara.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-14",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "地区为英国，不能作为中国市场上市消息。渠道发布稿与 Aqara 全球产品页功能交叉核对；Home Key 与各平台接入有家庭中枢/Thread 控制器条件。"
+          },
+          {
+            "brand": "Amazon",
+            "title": "Fire TV 的 Alexa+ 更新：从手机发现到客厅接着看",
+            "original_title": "Alexa+ is making Fire TV smarter, from your TV to your phone",
+            "overview": "亚马逊预告可追问的电视内容搜索、Alexa+ 推荐入口及手机片单接续。相关电视功能计划 11 月起先在美国部分机型推出，手机应用今年起逐步上线，其他地区后续扩展。",
+            "type": "家庭屏幕 / 跨端内容接续",
+            "display_type": "家庭屏幕 / 跨端内容接续",
+            "focus": "UI",
+            "insight_headline": "让内容发现跨屏接续",
+            "insight_detail": "保留对话与片单上下文，减少从手机到电视的重复查找。",
+            "insight_emphasis": "对话与片单上下文",
+            "insight": "让内容发现跨屏接续：保留对话与片单上下文，减少从手机到电视的重复查找。",
+            "published": "2026-09-30",
+            "url": "https://www.aboutamazon.com/news/devices/alexa-plus-fire-tv-hub-mobile-app-updates",
+            "event_key": "amazon-firetv-alexaplus-hub-continuity-20260930",
+            "source_label": "Amazon 官方 · 中文概述",
+            "source_kind": "官方家庭设备体验更新预告",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-6f22aee3b4fa6b59.webp",
+                "original_url": "https://assets.aboutamazon.com/dims4/default/a19bb42/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F6d%2F47%2F143c513b4b94962dfd4d2cc89417%2Ffire-tv-alexa-response-1600x900.jpg",
+                "source": "https://www.aboutamazon.com/news/devices/alexa-plus-fire-tv-hub-mobile-app-updates",
+                "caption": "官方正文的 Fire TV Alexa+ 对话式选片界面",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/amazon.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-30",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "报道日为9月30日，分批推出时间为11月起，不写成已全量上线；不同于第35期 Alexa 平板硬件发布。"
+          },
+          {
+            "brand": "Samsung SmartThings",
+            "title": "SmartThings Now：情境卡片与家庭设备本地控制",
+            "original_title": "Samsung Introduces ‘SmartThings Now’ in New Platform Update That Brings More Intuitive User Experiences",
+            "overview": "三星 10 月 5 日介绍 Now 情境入口，把关怀提醒、回家操作与常用场景建议组合呈现；手机与兼容中枢处于同一 Wi-Fi 时，可直接本地控制设备，并支持联网方式自动切换。",
+            "type": "家庭中控 / 情境与离线控制",
+            "display_type": "家庭中控 / 情境与离线控制",
+            "focus": "UI",
+            "insight_headline": "从设备列表转向情境入口",
+            "insight_detail": "把关怀提醒与即时操作放在一起，降低家庭控制的查找成本。",
+            "insight_emphasis": "关怀提醒与即时操作",
+            "insight": "从设备列表转向情境入口：把关怀提醒与即时操作放在一起，降低家庭控制的查找成本。",
+            "published": "2026-10-05",
+            "url": "https://news.samsung.com/us/samsung-introduces-smartthings-now-platform-update-brings-intuitive-user-experiences/",
+            "event_key": "samsung-smartthings-now-local-control-20261005",
+            "source_label": "Samsung 美国官网 · 中文概述",
+            "source_kind": "官方家庭控制平台更新",
+            "source_verified_at": "2026-10-19",
+            "images": [],
+            "evidence": {
+              "file": "evidence/samsung.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-05",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "minimal-fallback",
+            "cover_reason": "正文图片域名的证书链校验失败；正常下载与浏览器资产导出均失败，未绕过证书校验，采用现有简约备用封面。本地控制依赖兼容中枢及同一Wi-Fi；不将其描述为任意离线设备均可使用。",
+            "verification_notes": "正文图片域名的证书链校验失败；正常下载与浏览器资产导出均失败，未绕过证书校验，采用现有简约备用封面。本地控制依赖兼容中枢及同一Wi-Fi；不将其描述为任意离线设备均可使用。"
+          }
+        ]
+      }
+    },
+    "editorial_policy": "第35期最终样刊标准；仅公开网站交付；本期新增并保留全部往期。"
+  },
+  {
     "start": "2026-10-05",
     "end": "2026-10-11",
     "generated_at": "2026-10-16",
