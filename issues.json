@@ -7,8 +7,8 @@
     "generated_at": "2026-10-19",
     "sections": {
       "trends": {
-        "summary": "本期关注设计表达的两条变化：字体反差、繁复视觉与地域手工感回应同质化；委托式交互与共享画布重塑人与 AI 的协作边界。",
-        "notice": "5篇来自5个独立来源，优设1篇。趋势观察与步骤教程分开；评委观点及区域观察均保留适用边界。D&AD 正文无可独立使用的案例图，采用简约封面。观点为编辑提炼。",
+        "summary": "本期从委托式交互、可变字体与共享画布，延伸到跨行业的材质、色彩和地域品牌表达，关注设计如何在差异中建立一致感。",
+        "notice": "精选5个独立来源，跨数字设计、时尚、家具、艺术与生活方式；优设1篇。官方趋势报告与区域观察均标明适用范围，素材图取自原文。观点为编辑提炼。",
         "delivery": "published",
         "items": [
           {
@@ -84,33 +84,40 @@
             "cover_status": "verified-article-image"
           },
           {
-            "brand": "D&AD",
-            "title": "评委观察：品牌视觉更敢于繁复与张扬",
-            "original_title": "Maximalism is back in design, and it’s needed more than ever",
-            "overview": "D&AD 评委从今年品牌参赛作品中观察到更大胆的繁复表达；同时提醒复古迷幻字形也会趋同，差异仍需来自品牌自身的故事。",
-            "type": "品牌 / 表现性视觉",
-            "display_type": "品牌 / 表现性视觉",
+            "brand": "Ambiente · Messe Frankfurt",
+            "title": "跨界趋势：让不同风格在材质与生活方式中共存",
+            "original_title": "Ambiente Trends 27+: Coexistence celebrates the energising power of coming together",
+            "overview": "法兰克福展览集团与趋势机构提出2027三组生活方式方向：柔和诗意、结构与感官平衡、历史工艺与华丽表达。报告从设计、艺术、时尚和生活方式取材，并以家具、织物、器物和色彩呈现。",
+            "type": "跨界趋势 / 家居·时尚·艺术",
+            "display_type": "跨界趋势 / 家居·时尚·艺术",
             "focus": "UI",
-            "published": "2026-10-01",
-            "url": "https://www.dandad.org/work/annual-2026/trends-from-the-jury-rooms/maximalism-is-back-in-design-and-its-needed-more-than-ever",
-            "event_key": "dandad-2026-jury-maximalism-observation-20261001",
-            "source_label": "D&AD · 评委趋势观察",
-            "source_kind": "官方评委观点，中文概述",
+            "insight_headline": "让对比风格在同一空间共存",
+            "insight_detail": "以材质、色彩与工艺建立张力，形成可迁移的品牌视觉线索。",
+            "insight_emphasis": "材质、色彩与工艺",
+            "insight": "让对比风格在同一空间共存：以材质、色彩与工艺建立张力，形成可迁移的品牌视觉线索。",
+            "published": "2026-09-02",
+            "url": "https://ambiente.messefrankfurt.com/frankfurt/en/press/press-releases/ambiente/trends-27.html",
+            "event_key": "ambiente-trends27-coexistence-fashion-art-lifestyle-20260902",
+            "source_label": "Ambiente · Messe Frankfurt 官方趋势观察",
+            "source_kind": "官方跨领域趋势发布（设计、艺术、时尚与生活方式）",
             "source_verified_at": "2026-10-19",
-            "insight_headline": "繁复表达需要独特的出发点",
-            "insight_detail": "让字体与插画呼应品牌故事，避免只追随复古外观。",
-            "insight_emphasis": "呼应品牌故事",
-            "insight": "繁复表达需要独特的出发点：让字体与插画呼应品牌故事，避免只追随复古外观。",
-            "images": [],
+            "images": [
+              {
+                "url": "./cover-3a042d3479368374.webp",
+                "original_url": "https://ambiente.messefrankfurt.com/content/dam/messefrankfurt-redaktion/ambiente/2027/press/press-releases/amb-trends27-clear-lovely-16-9.jpg",
+                "source": "https://ambiente.messefrankfurt.com/frankfurt/en/press/press-releases/ambiente/trends-27.html",
+                "caption": "Ambiente Trends 27+ 清晰与诗意风格世界：以色彩、纺织、家具与生活用品呈现设计、艺术和时尚的交汇。",
+                "kind": "article-body"
+              }
+            ],
             "evidence": {
-              "file": "evidence/trend-revision/dandad.json",
+              "file": "evidence/trend-revision/ambiente.json",
               "verified_body": true,
-              "verified_publication_date": "2026-10-01",
+              "verified_publication_date": "2026-09-02",
               "checked_at": "2026-10-19"
             },
-            "verification_notes": "正文可见发布日期为2026-10-01，与搜索摘要9月30日存在差异，采用正文日期。观察范围为D&AD参赛作品，非全行业统计。",
-            "cover_status": "minimal-fallback",
-            "cover_reason": "原文以评委视频及文字为主，无独立案例图片；预览图为评委人像，未用作封面。"
+            "cover_status": "verified-article-image",
+            "verification_notes": "Messe Frankfurt 官方趋势稿，分析由Stilbüro bora.herke.palmisano与艺术、手工艺、设计创作者交流及展访研究形成。三组是2027趋势方向；素材拼贴展示家具、器物和生活用品。以跨行业观察替换缺少可用案例图的D&AD评委人物稿。"
           },
           {
             "brand": "It’s Nice That",
