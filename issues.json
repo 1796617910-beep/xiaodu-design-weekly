@@ -195,37 +195,44 @@
       },
       "competitors": {
         "summary": "本期聚焦家庭体验的连续性：语音与屏幕同步、音箱声光反馈、开门后的场景联动，以及手机、电视和中枢之间的接续与本地控制。",
-        "notice": "区分报道、预订、上市与分批更新日期。未核实到小米/小爱、天猫精灵及华为满足时效与跨期去重要求的新条目，故未重复旧事件。Google 正文无配图；三星原图不可取得，使用简约备用封面。",
+        "notice": "本期竞品均取自品牌官方新闻稿、官方账号发布或官方更新，并配有对应原图；新品信息注明适用地区、上市时间或逐步推送范围。",
         "delivery": "published",
         "items": [
           {
-            "brand": "Google Home",
-            "title": "Google 家庭更新：语音收尾、智能屏文字与本地控制",
-            "original_title": "Google Home Release Notes: October 14th",
-            "overview": "10 月 14 日官方更新调整 Gemini for Home 早期体验的结束对话和停止指令，并加快智能屏文字滚动；Hue 网桥可后台转为 Matter 本地控制，无需重新配对。",
-            "type": "家庭设备 / 语音与本地控制",
-            "display_type": "家庭设备 / 语音与本地控制",
-            "focus": "UI",
-            "insight_headline": "让语音和画面一起收尾",
-            "insight_detail": "区分礼貌结束与立即停止，保持麦克风和屏幕状态一致。",
-            "insight_emphasis": "礼貌结束与立即停止",
-            "insight": "让语音和画面一起收尾：区分礼貌结束与立即停止，保持麦克风和屏幕状态一致。",
-            "published": "2026-10-14",
-            "url": "https://support.google.com/googlehome/blog/472912231/google-home-release-notes-october-14th?hl=en-AU",
-            "event_key": "google-home-oct14-conversation-and-local-matter-2026",
-            "source_label": "Google 官方更新 · 中文概述",
-            "source_kind": "官方功能更新说明",
+            "brand": "Apple Home Collection",
+            "title": "Apple 家庭配件：一触配对，多设备协同",
+            "original_title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
+            "overview": "苹果与 LG、施耐德电气合作推出摄像头、门锁与温控器，统一在家庭 App 中配对和管理；官方称产品将于 12 月起陆续推出。",
+            "type": "家庭设备 / 一体化控制",
+            "display_type": "家庭设备 / 一体化控制",
+            "focus": "UX",
+            "insight_headline": "把多类设备纳入一处管理",
+            "insight_detail": "免装独立应用，让门锁、摄像头与温控器进入同一家庭场景。",
+            "insight_emphasis": "门锁、摄像头与温控器",
+            "insight": "把多类设备纳入一处管理：免装独立应用，让门锁、摄像头与温控器进入同一家庭场景。",
+            "published": "2026-10-13",
+            "url": "https://www.apple.com/uk/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+            "event_key": "apple-home-collection-smart-home-accessories-20261013",
+            "source_label": "Apple 英国官网 · 中文概述",
+            "source_kind": "Apple 官方新闻稿",
             "source_verified_at": "2026-10-19",
-            "images": [],
+            "images": [
+              {
+                "url": "./cover-e7eb0785804b21b8.jpg",
+                "original_url": "https://www.apple.com/newsroom/images/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/article/Apple-Home-Collection-lineup-261013_big.jpg.large_2x.jpg",
+                "source": "https://www.apple.com/uk/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+                "caption": "苹果官方正文配图：LG 门锁、摄像头与施耐德温控器组成的智能家居配件阵容",
+                "kind": "article-body"
+              }
+            ],
             "evidence": {
-              "file": "evidence/google.json",
+              "file": "evidence/apple-home-collection.json",
               "verified_body": true,
-              "verified_publication_date": "2026-10-14",
+              "verified_publication_date": "2026-10-13",
               "checked_at": "2026-10-19"
             },
-            "cover_status": "minimal-fallback",
-            "cover_reason": "官方正文无案例图片，采用现有简约备用封面；Gemini 相关变化仅面向早期体验，不能推定所有地区及设备已全量开放。",
-            "verification_notes": "官方正文无案例图片，采用现有简约备用封面；Gemini 相关变化仅面向早期体验，不能推定所有地区及设备已全量开放。"
+            "cover_status": "verified-article-image",
+            "verification_notes": "Apple Newsroom 正式新闻稿；正文展示多款 Home Collection 配件。产品预计 2026 年 12 月起上市，部分配件于 2027 年初推出。"
           },
           {
             "brand": "Apple",
@@ -276,28 +283,28 @@
             "insight_emphasis": "碰触解锁连接灯光",
             "insight": "把开门动作接入家庭场景：以碰触解锁连接灯光等联动，减少回家后的多步操作。",
             "published": "2026-10-14",
-            "url": "https://www.aqara-shop.co.uk/blog/press-release/aqara-launches-smart-lock-u600-bringing-apple-home-key-to-a-slim-lock-designed-for-uk-doors/",
+            "url": "https://forum.aqara.com/t/meet-smart-lock-u600-seamless-keyless-entry/346095",
             "event_key": "aqara-u600-uk-launch-20261014",
-            "source_label": "Aqara 英国渠道发布 · 中文概述",
-            "source_kind": "英国授权销售渠道的发布稿",
+            "source_label": "Aqara 官方论坛 · 中文概述",
+            "source_kind": "Aqara 官方账号新品发布",
             "source_verified_at": "2026-10-19",
             "images": [
               {
-                "url": "./cover-c9fd450e42784b2a.webp",
-                "original_url": "https://www.aqara-shop.co.uk/wp-content/uploads/2026/10/46rtwm8jxdvh1.png",
-                "source": "https://www.aqara-shop.co.uk/blog/press-release/aqara-launches-smart-lock-u600-bringing-apple-home-key-to-a-slim-lock-designed-for-uk-doors/",
-                "caption": "英国渠道发布稿内的 U600 产品与门把手图",
+                "url": "./cover-f841cdff06a9690e.jpg",
+                "original_url": "https://forum-static.aqara.com/optimized/3X/6/5/65f3466617409f9f270823000a9b96840bc0ad4c_2_1380x642.jpeg",
+                "source": "https://forum.aqara.com/t/meet-smart-lock-u600-seamless-keyless-entry/346095",
+                "caption": "Aqara 官方发布正文中的 Smart Lock U600 产品图",
                 "kind": "article-body"
               }
             ],
             "evidence": {
-              "file": "evidence/aqara.json",
+              "file": "evidence/aqara-official.json",
               "verified_body": true,
               "verified_publication_date": "2026-10-14",
               "checked_at": "2026-10-19"
             },
             "cover_status": "verified-article-image",
-            "verification_notes": "地区为英国，不能作为中国市场上市消息。渠道发布稿与 Aqara 全球产品页功能交叉核对；Home Key 与各平台接入有家庭中枢/Thread 控制器条件。"
+            "verification_notes": "发布者为 AqaraOfficial，10 月 14 日公告 UK 款 U600 已上市；仅适配英国多点锁门型，标注英国地区信息。官方正文含产品原图。"
           },
           {
             "brand": "Amazon",
@@ -353,16 +360,23 @@
             "source_label": "Samsung 美国官网 · 中文概述",
             "source_kind": "官方家庭控制平台更新",
             "source_verified_at": "2026-10-19",
-            "images": [],
+            "images": [
+              {
+                "url": "./cover-5d407504b3f0e5a8.png",
+                "original_url": "https://snr-2019-presskits-production.s3.amazonaws.com/samsung_introduces_smartthings_now_in_new_platform_update_that_brings_intuitive_user_experiences/images/2609-SmartThings-Now-ENG.png",
+                "source": "https://news.samsung.com/us/samsung-introduces-smartthings-now-platform-update-brings-intuitive-user-experiences/",
+                "caption": "Samsung Newsroom 官方新闻稿随附 Press Kit 中的 SmartThings Now 家庭控制界面图",
+                "kind": "press-kit"
+              }
+            ],
             "evidence": {
               "file": "evidence/samsung.json",
               "verified_body": true,
               "verified_publication_date": "2026-10-05",
               "checked_at": "2026-10-19"
             },
-            "cover_status": "minimal-fallback",
-            "cover_reason": "正文图片域名的证书链校验失败；正常下载与浏览器资产导出均失败，未绕过证书校验，采用现有简约备用封面。本地控制依赖兼容中枢及同一Wi-Fi；不将其描述为任意离线设备均可使用。",
-            "verification_notes": "正文图片域名的证书链校验失败；正常下载与浏览器资产导出均失败，未绕过证书校验，采用现有简约备用封面。本地控制依赖兼容中枢及同一Wi-Fi；不将其描述为任意离线设备均可使用。"
+            "cover_status": "verified-article-image",
+            "verification_notes": "Samsung 美国官方 Newsroom 新闻稿，10 月 5 日发布；官方 Press Kit 提供 SmartThings Now 界面原图。"
           }
         ]
       }
