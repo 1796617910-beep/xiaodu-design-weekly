@@ -9,81 +9,165 @@
     "test_note": "测试发布 · 本期文章均为真实检索与核验内容，仅临时使用第37期编号验证采集和页面标准。",
     "sections": {
       "trends": {
-        "summary": "跨行业设计观察：从创意评审样本到住宅空间需求，关注设计如何回应更丰富的生活方式。",
-        "notice": "测试期号，不代表正式编号；文章为真实来源核验内容。",
+        "summary": "互联网设计：AI时代更重判断与差异化，设计团队转向可运行原型和协同工作流；室内设计：以对比色材与耐久使用回应当代居住。",
+        "notice": "测试期号，不代表正式编号；所有来源均已打开正文核实，图片取自原文并保存为本地封面。互联网设计为主，补充1篇室内设计观察。",
         "delivery": "published",
         "items": [
           {
-            "brand": "D&AD",
-            "title": "D&AD 2026 创意趋势报告发布",
-            "original_title": "D&AD Trend Report 2026",
-            "overview": "D&AD 官方报告汇总来自89个国家的5万件参赛作品与评审观察，梳理广告和设计领域正在形成的变化。官网公开介绍未列出具体趋势结论，本期仅按其公开说明呈现，不延伸推断。",
-            "type": "跨行业趋势 / 创意与视觉",
-            "display_type": "跨行业趋势 / 创意与视觉",
-            "focus": "UI",
-            "insight_headline": "让趋势判断建立在跨地区样本上",
-            "insight_detail": "报告汇集89个国家的创意作品与评审观察，适合观察行业信号。",
-            "insight_emphasis": "跨地区样本",
-            "insight": "让趋势判断建立在跨地区样本上：报告汇集89个国家的创意作品与评审观察，适合观察行业信号。",
-            "published": "2026-09-30",
-            "url": "https://www.dandad.org/work/annual-2026/d-ad-in-2026/trend-report",
-            "event_key": "dandad-trend-report-2026-0930",
-            "source_label": "D&AD 官方趋势报告 · 中文概述",
-            "source_kind": "国际设计与创意机构官方趋势报告",
-            "source_verified_at": "2026-10-19",
+            "brand": "Figma",
+            "title": "生成式 AI 加速原型后，设计判断与差异化更重要",
+            "original_title": "What it takes to build great products now",
+            "overview": "Figma 产品副总裁指出，AI 让可点击原型更快出现，团队的难点转向持续打磨、比较多种方向，并以设计系统和细节建立产品辨识度。",
+            "type": "互联网设计 / AI协作与产品差异化",
+            "display_type": "互联网设计 / AI协作与产品差异化",
+            "focus": "UX",
+            "insight_headline": "速度变快后，设计判断更稀缺",
+            "insight_detail": "先比较多种方向，再用系统和细节守住产品辨识度。",
+            "insight_emphasis": "产品辨识度",
+            "published": "2026-09-24",
+            "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+            "event_key": "figma-great-products-design-judgment-20260924",
+            "source_label": "Figma 官方博客 · 中文概述",
+            "source_kind": "Figma 官方设计观点文章",
+            "verification_notes": "Figma官方博客正文可直接阅读，页面显示2026-09-24。文章讨论原型生成变快后，设计团队在速度、方向和差异化上的工作重心变化。 原文主视觉保存为本地封面（HTTP 200，55210字节）。",
             "images": [
               {
-                "url": "./cover-test37-dandad.jpg",
-                "original_url": "https://cms.dandad.org/images/VUVO75uCnk-rRbD2fng-FK7Rtbg=/139146/width-500/ANNUAL-26-TREND-REPORT-THUMBNAIL.jpg",
-                "source": "https://www.dandad.org/work/annual-2026/d-ad-in-2026/trend-report",
-                "caption": "D&AD Trend Report 2026 官方封面",
+                "url": "./cover-test37-figma-products.jpg",
+                "caption": "Figma 原文主视觉：AI时代产品设计流程与差异化",
+                "source": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+                "original_url": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
                 "kind": "article-body"
               }
             ],
-            "evidence": {
-              "file": "evidence/dandad.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-09-30",
-              "checked_at": "2026-10-19"
-            },
             "cover_status": "verified-article-image",
-            "verification_notes": "D&AD 页面标注2026-09-30发布；公开介绍说明报告由D&AD与The Thought Partnership共同制作，观察5万件、89个国家的参赛作品及评审讨论。网站可见简介未公开具体趋势章节，因此概述不声称某个具体视觉风格成为主流。"
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/figma-products.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-24",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200,
+              "body_excerpt": "Getting to a prototype is easier than ever. The harder work is sustaining speed all the way to launch, choosing the right direction, and creating products that stand out. The article discusses speed, direction and differentiation."
+            },
+            "insight": "速度变快后，设计判断更稀缺：先比较多种方向，再用系统和细节守住产品辨识度。"
           },
           {
-            "brand": "American Institute of Architects · AIA",
-            "title": "AIA 2026 居住空间趋势调查",
-            "original_title": "AIA Home Design Trends Survey — Q3 2026",
-            "overview": "美国建筑师学会在9月11日发布2026年第三季度住宅设计趋势调查页面。本条图表展示的是Q2 2026受访者数据：户外生活区占20%，多用途空间16%，家庭办公与玄关收纳各15%，显示住宅空间需要兼顾多种日常用途。",
-            "type": "建筑 / 居住空间趋势",
-            "display_type": "建筑 / 居住空间趋势",
-            "focus": "UI",
-            "insight_headline": "住宅空间更重视复合使用",
-            "insight_detail": "图表中户外生活区占20%、多用途空间占16%，布局需兼顾多种日常场景。",
-            "insight_emphasis": "户外生活区占20%",
-            "insight": "住宅空间更重视复合使用：图表中户外生活区占20%、多用途空间占16%，布局需兼顾多种日常场景。",
-            "published": "2026-09-11",
-            "url": "https://hdts.aia.org/2026/0911/aia-interactive/index.html",
-            "event_key": "aia-home-design-trends-q3-2026",
-            "source_label": "AIA 官方调查 · 中文概述",
-            "source_kind": "美国建筑师学会季度趋势调查",
-            "source_verified_at": "2026-10-19",
+            "brand": "Opera",
+            "title": "交互原型前移：设计与开发的边界正在移动",
+            "original_title": "Inside Opera’s Evolving Design Loop",
+            "overview": "Opera 采访四个移动产品设计团队，展示工作流从静态设计稿转向可运行原型：设计师更早验证交互、技术限制和用户反馈，再进入工程交付。",
+            "type": "互联网设计 / 原型与设计研发协作",
+            "display_type": "互联网设计 / 原型与设计研发协作",
+            "focus": "UX",
+            "insight_headline": "原型进入设计早期循环",
+            "insight_detail": "更早验证交互与技术边界，缩短反馈和迭代周期。",
+            "insight_emphasis": "反馈和迭代周期",
+            "published": "2026-09-18",
+            "url": "https://blogs.opera.com/mobile/2026/09/inside-operas-evolving-design-loop/",
+            "event_key": "opera-evolving-design-loop-20260918",
+            "source_label": "Opera Mobile 官方博客 · 中文概述",
+            "source_kind": "Opera 官方设计团队访谈文章",
+            "verification_notes": "Opera Mobile官方博客正文可直接阅读，页面日期为2026-09-18。文章采访四位移动产品设计负责人，正文明确对比静态概念与可运行原型的设计循环。 原文主视觉保存为本地封面（HTTP 200，165105字节）。",
             "images": [
               {
-                "url": "./cover-test37-aia.jpg",
-                "original_url": "https://hdts.aia.org/2026/reports/2026-q3/Slide02.jpg",
-                "source": "https://hdts.aia.org/2026/0911/aia-interactive/index.html",
-                "caption": "AIA 官方调查图表：住宅特色与空间需求",
+                "url": "./cover-test37-opera-loop.jpg",
+                "caption": "Opera 原文配图：设计工作流的变化",
+                "source": "https://blogs.opera.com/mobile/2026/09/inside-operas-evolving-design-loop/",
+                "original_url": "https://www-static-blogs.operacdn.com/mobile/wp-content/uploads/sites/4/2026/09/How-AI-has-Rewired-Design-1.jpg",
                 "kind": "article-body"
               }
             ],
-            "evidence": {
-              "file": "evidence/aia.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-09-11",
-              "checked_at": "2026-10-19"
-            },
             "cover_status": "verified-article-image",
-            "verification_notes": "AIA官网注明由美国建筑师学会制作，并于2026-09-11首发于AIA Architect。所选官方图表标注数据来自Q2 2026；因此明确区分报告页面季度与图表样本季度。"
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/opera-loop.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-18",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200,
+              "body_excerpt": "Across Opera’s mobile products, designers are increasingly moving from static concepts to working prototypes, testing interactions, exploring technical constraints, and iterating before engineering gets involved."
+            },
+            "insight": "原型进入设计早期循环：更早验证交互与技术边界，缩短反馈和迭代周期。"
+          },
+          {
+            "brand": "Figma",
+            "title": "AI 设计从个人试用走向团队协作",
+            "original_title": "4 team rituals that drive AI adoption",
+            "overview": "Figma 汇总自身及 Sephora、Mercari、Atlassian 的团队实践：同伴学习、公开试错、跨职能共学和原型优先评审，让 AI 从个人提效进入团队工作流程。",
+            "type": "互联网设计 / AI团队协作",
+            "display_type": "互联网设计 / AI团队协作",
+            "focus": "UX",
+            "insight_headline": "AI协作进入团队日常",
+            "insight_detail": "共同学习与原型先行，让工具价值从个人提效扩展到团队流程。",
+            "insight_emphasis": "团队流程",
+            "published": "2026-10-10",
+            "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+            "event_key": "figma-team-ai-adoption-rituals-20261010",
+            "source_label": "Figma 官方博客 · 中文概述",
+            "source_kind": "Figma 官方设计团队实践文章",
+            "verification_notes": "Figma官方博客正文可直接阅读，页面显示2026-10-10。正文覆盖四家团队的协作实践；此条概述为对团队级 AI 设计协作趋势的归纳，并非单一案例的行业结论。 原文主视觉保存为本地封面（HTTP 200，355553字节）。",
+            "images": [
+              {
+                "url": "./cover-test37-figma-ai-teams.png",
+                "caption": "Figma 原文主视觉：团队协作与 AI 工作流",
+                "source": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+                "original_url": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/figma-ai-teams.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-10",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200,
+              "body_excerpt": "For AI to meaningfully change how a team works, individual fluency isn’t enough; the bigger gains only show up once the whole team adopts AI tools together. The article describes peer study groups, sharing failed experiments, cross-training, and prototype-first reviews."
+            },
+            "insight": "AI协作进入团队日常：共同学习与原型先行，让工具价值从个人提效扩展到团队流程。"
+          },
+          {
+            "brand": "Archi & Interiors",
+            "title": "2026秋季室内趋势：对比色材与可持续空间",
+            "original_title": "Autumn 2026 Interior Design Trends: Design, Architecture and Living Spaces",
+            "overview": "Archi & Interiors 从纺织趋势研究与设计周案例观察秋季室内方向：以大地色搭配亮色、不同材质形成层次，并重视沿用既有家具与空间。",
+            "type": "室内设计 / 色彩与材料趋势",
+            "display_type": "室内设计 / 色彩与材料趋势",
+            "focus": "UI",
+            "insight_headline": "色彩与材质强调对比组合",
+            "insight_detail": "大地色搭配亮色、木材与织物叠加，关注空间的长期使用。",
+            "insight_emphasis": "对比组合",
+            "published": "2026-10-15",
+            "url": "https://www.archieinteriors.com/en/autumn-2026-interior-design-trends/",
+            "event_key": "archie-interiors-autumn-2026-interior-trends-20261015",
+            "source_label": "Archi & Interiors 设计媒体 · 中文概述",
+            "source_kind": "室内设计媒体趋势观察",
+            "verification_notes": "Archi & Interiors正文可直接阅读，页面标注发表于2026-10-15，正文约15分钟并有多张项目图。媒体明确将其内容定位为编辑观察，而非普遍适用的官方标准。 原文主视觉保存为本地封面（HTTP 200，189286字节）。",
+            "images": [
+              {
+                "url": "./cover-test37-archi-interiors.jpg",
+                "caption": "Archi & Interiors 原文配图：模块沙发与室内色材",
+                "source": "https://www.archieinteriors.com/en/autumn-2026-interior-design-trends/",
+                "original_url": "https://www.archieinteriors.com/wp-content/uploads/2026/10/roche-mahjong-wide.jpg",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/archi-interiors.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-15",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200,
+              "body_excerpt": "Autumn 2026 interior design trends are best read through combinations. The season’s directions encompass colour and material, but also privacy, the work of care and the possibility of living without starting again from scratch."
+            },
+            "insight": "色彩与材质强调对比组合：大地色搭配亮色、木材与织物叠加，关注空间的长期使用。"
           }
         ]
       },
