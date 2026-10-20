@@ -1,5 +1,211 @@
 [
   {
+    "start": "2026-10-19",
+    "end": "2026-10-25",
+    "display_start": "2026-10-19",
+    "display_end": "2026-10-23",
+    "generated_at": "2026-10-20",
+    "test_mode": true,
+    "test_note": "测试发布 · 本期文章均为真实检索与核验内容，仅临时使用第37期编号验证采集和页面标准。",
+    "sections": {
+      "trends": {
+        "summary": "跨行业设计观察：从创意评审样本到住宅空间需求，关注设计如何回应更丰富的生活方式。",
+        "notice": "测试期号，不代表正式编号；文章为真实来源核验内容。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "D&AD",
+            "title": "D&AD 2026 创意趋势报告发布",
+            "original_title": "D&AD Trend Report 2026",
+            "overview": "D&AD 官方报告汇总来自89个国家的5万件参赛作品与评审观察，梳理广告和设计领域正在形成的变化。官网公开介绍未列出具体趋势结论，本期仅按其公开说明呈现，不延伸推断。",
+            "type": "跨行业趋势 / 创意与视觉",
+            "display_type": "跨行业趋势 / 创意与视觉",
+            "focus": "UI",
+            "insight_headline": "让趋势判断建立在跨地区样本上",
+            "insight_detail": "报告汇集89个国家的创意作品与评审观察，适合观察行业信号。",
+            "insight_emphasis": "跨地区样本",
+            "insight": "让趋势判断建立在跨地区样本上：报告汇集89个国家的创意作品与评审观察，适合观察行业信号。",
+            "published": "2026-09-30",
+            "url": "https://www.dandad.org/work/annual-2026/d-ad-in-2026/trend-report",
+            "event_key": "dandad-trend-report-2026-0930",
+            "source_label": "D&AD 官方趋势报告 · 中文概述",
+            "source_kind": "国际设计与创意机构官方趋势报告",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-test37-dandad.jpg",
+                "original_url": "https://cms.dandad.org/images/VUVO75uCnk-rRbD2fng-FK7Rtbg=/139146/width-500/ANNUAL-26-TREND-REPORT-THUMBNAIL.jpg",
+                "source": "https://www.dandad.org/work/annual-2026/d-ad-in-2026/trend-report",
+                "caption": "D&AD Trend Report 2026 官方封面",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/dandad.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-30",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "D&AD 页面标注2026-09-30发布；公开介绍说明报告由D&AD与The Thought Partnership共同制作，观察5万件、89个国家的参赛作品及评审讨论。网站可见简介未公开具体趋势章节，因此概述不声称某个具体视觉风格成为主流。"
+          },
+          {
+            "brand": "American Institute of Architects · AIA",
+            "title": "AIA 2026 居住空间趋势调查",
+            "original_title": "AIA Home Design Trends Survey — Q3 2026",
+            "overview": "美国建筑师学会在9月11日发布2026年第三季度住宅设计趋势调查页面。本条图表展示的是Q2 2026受访者数据：户外生活区占20%，多用途空间16%，家庭办公与玄关收纳各15%，显示住宅空间需要兼顾多种日常用途。",
+            "type": "建筑 / 居住空间趋势",
+            "display_type": "建筑 / 居住空间趋势",
+            "focus": "UI",
+            "insight_headline": "住宅空间更重视复合使用",
+            "insight_detail": "图表中户外生活区占20%、多用途空间占16%，布局需兼顾多种日常场景。",
+            "insight_emphasis": "户外生活区占20%",
+            "insight": "住宅空间更重视复合使用：图表中户外生活区占20%、多用途空间占16%，布局需兼顾多种日常场景。",
+            "published": "2026-09-11",
+            "url": "https://hdts.aia.org/2026/0911/aia-interactive/index.html",
+            "event_key": "aia-home-design-trends-q3-2026",
+            "source_label": "AIA 官方调查 · 中文概述",
+            "source_kind": "美国建筑师学会季度趋势调查",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-test37-aia.jpg",
+                "original_url": "https://hdts.aia.org/2026/reports/2026-q3/Slide02.jpg",
+                "source": "https://hdts.aia.org/2026/0911/aia-interactive/index.html",
+                "caption": "AIA 官方调查图表：住宅特色与空间需求",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/aia.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-11",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "AIA官网注明由美国建筑师学会制作，并于2026-09-11首发于AIA Architect。所选官方图表标注数据来自Q2 2026；因此明确区分报告页面季度与图表样本季度。"
+          }
+        ]
+      },
+      "competitors": {
+        "summary": "聚焦智能家居硬件与家电体验：应急交互、空间感知，以及设备界面的长期更新。",
+        "notice": "测试期号，不代表正式编号；仅收录权威原文及对应图片。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Ring · Amazon",
+            "title": "Ring 智能门锁：断电时可手动补能",
+            "original_title": "Ring ends smart lock anxiety with a lock you can recharge by hand",
+            "overview": "亚马逊10月7日宣布 Ring 首款智能门锁，支持指纹、触屏密码、App 和 Alexa 四种开门方式；电池耗尽时可转动机身旋钮手动补能，并可接入 Ring、Echo 设备。计划于2027年初在美国开售。",
+            "type": "IoT / 智能门锁与应急交互",
+            "display_type": "IoT / 智能门锁与应急交互",
+            "focus": "UI",
+            "insight_headline": "把断电退路设计进门锁",
+            "insight_detail": "手动补能与多种开门方式并列，减少电量耗尽时的被锁门焦虑。",
+            "insight_emphasis": "手动补能与多种开门方式",
+            "insight": "把断电退路设计进门锁：手动补能与多种开门方式并列，减少电量耗尽时的被锁门焦虑。",
+            "published": "2026-10-07",
+            "url": "https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge",
+            "event_key": "ring-smart-lock-manual-recharge-20261007",
+            "source_label": "Amazon 官方发布 · 中文概述",
+            "source_kind": "Amazon 官方新品发布",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-test37-ring.jpg",
+                "original_url": "https://assets.aboutamazon.com/04/e8/467af05c4b43accf78a07e26553a/ring-smart-lock-hero-amazonnews-ck10626.jpg",
+                "source": "https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge",
+                "caption": "Amazon 官方正文配图：Ring 智能门锁及门铃",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/amazon-ring.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-07",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "Amazon Devices 官方新闻列表标注2026-10-07；正文说明手动转动 power dial 可应急补能，包含指纹、触屏键盘、Ring App、Alexa四种入口。官方计划2027年初在美国上市，当前为发布信息而非已开售。"
+          },
+          {
+            "brand": "Aqara",
+            "title": "Aqara FP400 空间多传感器发布",
+            "original_title": "Introducing the Spatial Multi-Sensor FP400 — Automations That Know Where You Are",
+            "overview": "Aqara 官方账号9月16日发布 FP400，采用60GHz毫米波雷达识别多人位置和空间分区，不使用摄像头；支持 Zigbee 与 Matter over Thread，官方称已在除俄罗斯、日本外的全球市场开售。",
+            "type": "IoT / 空间感知与场景联动",
+            "display_type": "IoT / 空间感知与场景联动",
+            "focus": "UI",
+            "insight_headline": "从“有人”升级到“人在何处”",
+            "insight_detail": "分区感知可驱动更精确的灯光与房间自动化，同时保留无摄像头边界。",
+            "insight_emphasis": "分区感知",
+            "insight": "从“有人”升级到“人在何处”：分区感知可驱动更精确的灯光与房间自动化，同时保留无摄像头边界。",
+            "published": "2026-09-16",
+            "url": "https://forum.aqara.com/t/introducing-the-spatial-multi-sensor-fp400-automations-that-know-where-you-are/335567",
+            "event_key": "aqara-fp400-spatial-sensor-20260916",
+            "source_label": "Aqara 官方账号 · 中文概述",
+            "source_kind": "Aqara 官方产品发布",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-test37-aqara.jpg",
+                "original_url": "https://forum-static.aqara.com/optimized/3X/5/e/5e77f057f945ca55560958135e3747ef5327ef71_2_1380x642.jpeg",
+                "source": "https://forum.aqara.com/t/introducing-the-spatial-multi-sensor-fp400-automations-that-know-where-you-are/335567",
+                "caption": "Aqara 官方发布配图：FP400 空间多传感器场景",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/aqara-fp400.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-16",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "AqaraOfficial于官方社区2026-09-16发布；正文明确60GHz毫米波、多人追踪、分区自动化、无摄像头及Zigbee/Matter over Thread。发售范围按官方原文说明，不泛化为所有地区。"
+          },
+          {
+            "brand": "Samsung",
+            "title": "三星为部分家电推送界面与AI功能更新",
+            "original_title": "Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates",
+            "overview": "三星全球新闻室9月7日宣布，为部分冰箱和洗衣设备更新 Tizen 10.0：Family Hub 增强食材识别和日常信息体验，部分7英寸洗衣屏加入简化布局的 Easy Mode。适用型号、地区和推送时间各有差异。",
+            "type": "IoT / 家电屏幕与持续服务",
+            "display_type": "IoT / 家电屏幕与持续服务",
+            "focus": "UI",
+            "insight_headline": "让家电界面随使用周期持续进化",
+            "insight_detail": "在既有设备上简化信息层级，并补充语音与日常服务体验。",
+            "insight_emphasis": "简化信息层级",
+            "insight": "让家电界面随使用周期持续进化：在既有设备上简化信息层级，并补充语音与日常服务体验。",
+            "published": "2026-09-07",
+            "url": "https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates",
+            "event_key": "samsung-appliance-tizen10-interface-update-20260907",
+            "source_label": "Samsung 全球新闻室 · 中文概述",
+            "source_kind": "Samsung 官方软件更新公告",
+            "source_verified_at": "2026-10-19",
+            "images": [
+              {
+                "url": "./cover-test37-samsung.jpg",
+                "original_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/09/04103543/Samsung-Digital-Appliances-Long-Term-Value-Software-Updates_main1.jpg",
+                "source": "https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates",
+                "caption": "Samsung 官方新闻配图：智能家电家庭场景",
+                "kind": "article-body"
+              }
+            ],
+            "evidence": {
+              "file": "evidence/samsung-appliance-update.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-07",
+              "checked_at": "2026-10-19"
+            },
+            "cover_status": "verified-article-image",
+            "verification_notes": "Samsung Global Newsroom标注韩国2026-09-07发布。正文称分批更新自2026年9月开始，具体功能、型号、时间和市场可能不同；7英寸屏幕Easy Mode与冰箱AI Vision分别按适用型号描述。"
+          }
+        ]
+      }
+    },
+    "editorial_policy": "第35期最终样刊标准；仅公开网站交付；本期新增并保留全部往期。"
+  },
+  {
     "start": "2026-10-12",
     "end": "2026-10-18",
     "display_start": "2026-10-19",
