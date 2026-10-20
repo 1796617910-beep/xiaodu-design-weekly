@@ -1,5 +1,147 @@
 [
   {
+    "start": "2026-10-20",
+    "end": "2026-10-25",
+    "display_start": "2026-10-19",
+    "display_end": "2026-10-23",
+    "generated_at": "2026-10-20",
+    "test_mode": true,
+    "test_note": "测试发布·本期为真实文章内容，仅第38期期号用于规则验证。",
+    "sections": {
+      "trends": {
+        "summary": "本期设计观察：品牌视觉从繁复表达中寻找差异，跨行业色彩趋势以主题化组合传递情绪。",
+        "notice": "测试期号，仅2篇通过核验：D&AD评审趋势与Pantone跨行业色彩观察；原文可读，封面取自原文配图。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "D&AD",
+            "title": "繁复视觉回潮：品牌识别需要更鲜明的差异",
+            "original_title": "Maximalism is back in design, and it’s needed more than ever",
+            "overview": "D&AD 2026 新品牌识别评审观察到复古、夸张字体和繁复表达增多；评委认为这股风格已趋拥挤，品牌需要用独特字体与插画系统建立区分。",
+            "type": "跨行业设计 / 品牌视觉趋势",
+            "display_type": "跨行业设计 / 品牌视觉趋势",
+            "focus": "UI",
+            "insight_headline": "繁复表达要有清晰的品牌理由",
+            "insight_detail": "大胆表达可以打破同质化，但要回到品牌自身的识别线索。",
+            "insight_emphasis": "品牌自身的识别线索",
+            "published": "2026-09-30",
+            "url": "https://www.dandad.org/work/annual-2026/trends-from-the-jury-rooms/maximalism-is-back-in-design-and-its-needed-more-than-ever",
+            "event_key": "dad-maximalism-20260930",
+            "source_label": "D&AD 官方评委观察 · 中文概述",
+            "source_kind": "D&AD Awards评委趋势短文",
+            "verification_notes": "D&AD 页面直接显示发布日期 2026-09-30，正文可直接阅读，说明 2026 新品牌识别中繁复字体和大胆表现增加，同时指出趋势饱和、需要差异化。原文配图保存为本地封面。",
+            "images": [
+              {
+                "url": "./cover-test38-dad.jpg",
+                "caption": "D&AD 原文配图：评审趋势主题视觉",
+                "source": "https://www.dandad.org/work/annual-2026/trends-from-the-jury-rooms/maximalism-is-back-in-design-and-its-needed-more-than-ever",
+                "original_url": "https://cms.dandad.org/images/zgJxQs8_OrxqwzNDyZiPHL3uzfg=/139116/format-webp%7Cwidth-1000/JUDGES_TRENDS-04.jpg",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/dad-maximalism-20260930.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-30",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200,
+              "body_excerpt": "D&AD评委称新品牌识别中复古、流动、迷幻字体成为常见表达，但趋势趋于饱和；案例通过定制字体与插画工具建立鲜明识别。"
+            },
+            "insight": "繁复表达要有清晰的品牌理由：大胆表达可以打破同质化，但要回到品牌自身的识别线索。"
+          },
+          {
+            "brand": "Pantone",
+            "title": "Pantone 发布224种新色：用主题配色表达情绪",
+            "original_title": "Pantone Just Launched 200+ Bold New Graphics Colors — See the Palettes!",
+            "overview": "Pantone 为色彩系统新增224种颜色，并以四组配色展示更丰富、情绪驱动的色彩组合；趋势覆盖平面、时尚与室内等设计应用。",
+            "type": "跨行业设计 / 色彩趋势",
+            "display_type": "跨行业设计 / 色彩趋势",
+            "focus": "UI",
+            "insight_headline": "多色组合需要明确的情绪主题",
+            "insight_detail": "用色彩关系组织丰富层次，让“更多”仍有方向。",
+            "insight_emphasis": "明确的情绪主题",
+            "published": "2026-09-16",
+            "url": "https://www.pantone.com/articles/color-palettes/new-pantone-pms-colors-2026-color-palettes",
+            "event_key": "pantone-new-colors-palettes-20260916",
+            "source_label": "Pantone 官方文章 · 中文概述",
+            "source_kind": "Pantone 官方色彩趋势文章",
+            "verification_notes": "Pantone页面正文及结构化内容可直接读取，发布日期为2026-09-16；文章介绍新增224种PMS颜色与四组主题配色，并展示多张色彩应用图片。原文主视觉保存为本地封面。",
+            "images": [
+              {
+                "url": "./cover-test38-pantone.jpg",
+                "caption": "Pantone原文主视觉：新色彩趋势与视觉表达",
+                "source": "https://www.pantone.com/articles/color-palettes/new-pantone-pms-colors-2026-color-palettes",
+                "original_url": "https://images.ctfassets.net/svmwj4tfnwbc/4LKlZhBbcEO8aHUNFc7bZ3/f3965c4d2f076994720dc2437ddd4499/hero_new_c.jpg?w=1200%26q=85%26fm=jpg",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/pantone-new-colors-palettes-20260916.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-16",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200,
+              "body_excerpt": "Pantone称新增颜色体现当下对繁复主义的诠释，丰富用色应围绕色彩带来的感受与视觉世界展开，并提供四组主题配色。"
+            },
+            "insight": "多色组合需要明确的情绪主题：用色彩关系组织丰富层次，让“更多”仍有方向。"
+          }
+        ]
+      },
+      "competitors": {
+        "summary": "本期竞品观察：Ring 扩展室内外家庭安防摄像头，兼顾画质、视野覆盖与安装方式。",
+        "notice": "测试期号，仅收录1篇：官方原文可读、含相关产品图且未与往期事件重复；其他候选因重复或缺少相关图片剔除。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Ring · Amazon",
+            "title": "Ring 推出4K室外/室内摄像头与可转向室内摄像头",
+            "original_title": "Ring introduces four new 4K cameras and a pan-tilt indoor cam",
+            "overview": "Ring 官方发布五款家庭安防摄像头：四款4K机型覆盖室内外与多种供电方式，另有支持360度转动的2K室内摄像头；不同地区上市情况有别。",
+            "type": "智能家居 / 摄像头与家庭安防",
+            "display_type": "智能家居 / 摄像头与家庭安防",
+            "focus": "UI",
+            "insight_headline": "摄像头覆盖要适配居家动线",
+            "insight_detail": "室内以转向追踪扩大视野，室外提供多种供电与安装选择。",
+            "insight_emphasis": "适配居家动线",
+            "published": "2026-10-07",
+            "url": "https://www.aboutamazon.com/news/devices/ring-4k-cameras-pan-tilt-cam",
+            "event_key": "ring-4k-camera-family-20261007",
+            "source_label": "Amazon News / Ring 官方发布 · 中文概述",
+            "source_kind": "Amazon News官方产品发布",
+            "verification_notes": "Amazon News正文可直接阅读并显示五款新品信息，发布日期为2026-10-07；报道注明不同产品在美国、加拿大、欧洲部分地区等地的销售/预售时间不同。主视觉来自原文并保存本地。",
+            "images": [
+              {
+                "url": "./cover-test38-ring.jpg",
+                "caption": "Ring 原文主视觉：家庭室内外安防摄像头系列",
+                "source": "https://www.aboutamazon.com/news/devices/ring-4k-cameras-pan-tilt-cam",
+                "original_url": "https://assets.aboutamazon.com/da/01/499bedff40f989fc37e1cece41ad/freya-pr-ring-family-1-2000x1126.jpg",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/ring-4k-camera-family-20261007.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-07",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200,
+              "body_excerpt": "Ring发布四款新的4K摄像头与一款支持转向的2K室内摄像头。室内机支持360度水平覆盖、175度俯仰；官方列出各型号地区可购买及预售状态。"
+            },
+            "insight": "摄像头覆盖要适配居家动线：室内以转向追踪扩大视野，室外提供多种供电与安装选择。"
+          }
+        ]
+      }
+    }
+  },
+  {
     "start": "2026-10-19",
     "end": "2026-10-25",
     "display_start": "2026-10-19",
