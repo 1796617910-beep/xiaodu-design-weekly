@@ -9,288 +9,242 @@
     "test_note": "测试发布·本期为真实文章内容，仅第38期期号用于规则验证。",
     "sections": {
       "trends": {
-        "summary": "本期关注小度品牌识别、家庭服务的场景配色、AI素材生产与软硬件视觉统一，从跨行业趋势中提炼可借鉴的设计方法。",
-        "notice": "本期收录4篇：聚焦品牌视觉、跨行业色彩、AI时代创作判断与时尚色彩趋势；各条均核对原文正文与配图。",
+        "summary": "本期关注AI视觉趋同下的人工判断、面向阅读任务的信息密度，以及数字艺术与实体边框共同塑造的多元表达。",
+        "notice": "本期3篇：以数字设计观察为主，搭配1篇跨行业内容；中文优先，优设1篇，英文图文已提供中文概述。",
         "delivery": "published",
         "items": [
           {
-            "brand": "D&AD",
-            "title": "繁复视觉回潮：品牌识别需要更鲜明的差异",
-            "original_title": "Maximalism is back in design, and it’s needed more than ever",
-            "overview": "D&AD 2026 新品牌识别评审观察到复古、夸张字体和繁复表达增多；评委认为这股风格已趋拥挤，品牌需要用独特字体与插画系统建立区分。",
-            "type": "跨行业设计 / 品牌视觉趋势",
-            "display_type": "跨行业设计 / 品牌视觉趋势",
+            "brand": "远麦刘斌 · 优设",
+            "title": "AI视觉趋同观察：模板化布局与通用符号更需要设计判断",
+            "overview": "远麦刘斌从文字、图像与UI案例讨论“AI味”：包括模板布局、常见配色、字体与通用图形等倾向。文章是作者阶段性观察，强调人机结合与人工审美判断。",
+            "type": "数字设计 / AI视觉判断",
+            "display_type": "数字设计 / AI视觉判断",
             "focus": "UI",
-            "insight_headline": "小度品牌焕新保留统一识别",
-            "insight_detail": "节日KV可大胆变化，以小度IP和品牌色串联各类触点。",
-            "insight_emphasis": "小度IP和品牌色",
-            "published": "2026-09-30",
-            "url": "https://www.dandad.org/work/annual-2026/trends-from-the-jury-rooms/maximalism-is-back-in-design-and-its-needed-more-than-ever",
-            "event_key": "dad-maximalism-20260930",
-            "source_label": "D&AD 官方评委观察 · 中文概述",
-            "source_kind": "D&AD Awards评委趋势短文",
-            "verification_notes": "D&AD 页面直接显示发布日期 2026-09-30，正文可直接阅读，说明 2026 新品牌识别中繁复字体和大胆表现增加，同时指出趋势饱和、需要差异化。原文配图保存为本地封面。",
+            "published": "2026-10-20",
+            "url": "https://www.uisdc.com/ai-flavor",
+            "event_key": "reselected-t38-ai-20261020",
+            "source_label": "优设 · 远麦刘斌原创观点",
+            "insight_headline": "AI量产更值得保留人工判断",
+            "insight_detail": "小度运营KV可试验生成延展，再核对品牌辨识与细节。",
+            "insight_emphasis": "品牌辨识与细节",
+            "insight": "AI量产更值得保留人工判断。小度运营KV可试验生成延展，再核对品牌辨识与细节。",
             "images": [
               {
-                "url": "./cover-test38-dad.jpg",
-                "caption": "D&AD 原文配图：评审趋势主题视觉",
-                "source": "https://www.dandad.org/work/annual-2026/trends-from-the-jury-rooms/maximalism-is-back-in-design-and-its-needed-more-than-ever",
-                "original_url": "https://cms.dandad.org/images/zgJxQs8_OrxqwzNDyZiPHL3uzfg=/139116/format-webp%7Cwidth-1000/JUDGES_TRENDS-04.jpg",
+                "url": "./cover-reselect-t38-ai.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/uisdc-yj-20261019-18.webp",
+                "caption": "原文对比案例：用于分析AI生成网页视觉特征的示例，并非已上线产品",
+                "source": "https://www.uisdc.com/ai-flavor",
                 "kind": "article-body"
               }
             ],
             "cover_status": "verified-article-image",
             "source_verified_at": "2026-10-20",
+            "verification_notes": "浏览器正文、作者和2026-10-20 01:21:59发布时间可见。选正文网页案例而非头像或广告，明确示例为AI生成视觉的分析对象，不作为真实产品上线证据。",
             "evidence": {
-              "file": "evidence/dad-maximalism-20260930.json",
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
               "verified_body": true,
-              "verified_publication_date": "2026-09-30",
+              "verified_publication_date": "2026-10-20",
               "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200,
-              "body_excerpt": "D&AD评委称新品牌识别中复古、流动、迷幻字体成为常见表达，但趋势趋于饱和；案例通过定制字体与插画工具建立鲜明识别。"
-            },
-            "insight": "小度品牌焕新保留统一识别。节日KV可大胆变化，以小度IP和品牌色串联各类触点。"
+              "language": "zh",
+              "original_image_local": true
+            }
           },
           {
-            "brand": "Pantone",
-            "title": "Pantone 发布224种新色：用主题配色表达情绪",
-            "original_title": "Pantone Just Launched 200+ Bold New Graphics Colors — See the Palettes!",
-            "overview": "Pantone 为色彩系统新增224种颜色，并以四组配色展示更丰富、情绪驱动的色彩组合；趋势覆盖平面、时尚与室内等设计应用。",
-            "type": "跨行业设计 / 色彩趋势",
-            "display_type": "跨行业设计 / 色彩趋势",
+            "brand": "Smashing Magazine",
+            "title": "数据界面设计观察：从堆叠图表转向支持阅读与决策",
+            "overview": "Meriem Benhabiles讨论数据可视化与UX融合：同一组数据应根据读者、任务和行动目标组织不同的信息密度。文章结合案例说明设计思路，不宣称所有界面都应极简。",
+            "type": "UI / 信息可视化",
+            "display_type": "UI / 信息可视化",
             "focus": "UI",
-            "insight_headline": "小度家庭服务用配色区分场景",
-            "insight_detail": "儿童陪伴与助眠各有情绪主色，关键状态色保持一致。",
-            "insight_emphasis": "关键状态色保持一致",
-            "published": "2026-09-16",
-            "url": "https://www.pantone.com/articles/color-palettes/new-pantone-pms-colors-2026-color-palettes",
-            "event_key": "pantone-new-colors-palettes-20260916",
-            "source_label": "Pantone 官方文章 · 中文概述",
-            "source_kind": "Pantone 官方色彩趋势文章",
-            "verification_notes": "Pantone页面正文及结构化内容可直接读取，发布日期为2026-09-16；文章介绍新增224种PMS颜色与四组主题配色，并展示多张色彩应用图片。原文主视觉保存为本地封面。",
+            "published": "2026-08-26",
+            "url": "https://www.smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+            "event_key": "reselected-t38-data-20261020",
+            "source_label": "Smashing · 设计方法观察 · 中文概述",
+            "insight_headline": "信息密度可随阅读任务调整",
+            "insight_detail": "概览适合先突出异常与下一步，再按需展开解释。",
+            "insight_emphasis": "异常与下一步",
+            "insight": "信息密度可随阅读任务调整。概览适合先突出异常与下一步，再按需展开解释。",
             "images": [
               {
-                "url": "./cover-test38-pantone.jpg",
-                "caption": "Pantone原文主视觉：新色彩趋势与视觉表达",
-                "source": "https://www.pantone.com/articles/color-palettes/new-pantone-pms-colors-2026-color-palettes",
-                "original_url": "https://images.ctfassets.net/svmwj4tfnwbc/4LKlZhBbcEO8aHUNFc7bZ3/f3965c4d2f076994720dc2437ddd4499/hero_new_c.jpg?w=1200%26q=85%26fm=jpg",
+                "url": "./cover-reselect-t38-data.webp",
+                "original_url": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/density-as-a-variable.png",
+                "caption": "原文示意：分析视图与概览视图采用不同的信息密度",
+                "source": "https://www.smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
                 "kind": "article-body"
               }
             ],
             "cover_status": "verified-article-image",
             "source_verified_at": "2026-10-20",
+            "verification_notes": "页面Aug 26, 2026，距核实日55天。正文完整可读，有多张可视化示意；封面取信息密度对照图，避免无关疫情图或作者照片。",
             "evidence": {
-              "file": "evidence/pantone-new-colors-palettes-20260916.json",
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
               "verified_body": true,
-              "verified_publication_date": "2026-09-16",
+              "verified_publication_date": "2026-08-26",
               "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200,
-              "body_excerpt": "Pantone称新增颜色体现当下对繁复主义的诠释，丰富用色应围绕色彩带来的感受与视觉世界展开，并提供四组主题配色。"
-            },
-            "insight": "小度家庭服务用配色区分场景。儿童陪伴与助眠各有情绪主色，关键状态色保持一致。"
+              "language": "en",
+              "original_image_local": true
+            }
           },
           {
-            "brand": "It’s Nice That × Adobe 99U",
-            "title": "AI 让创作更快，设计判断与手艺更显价值",
-            "original_title": "When anyone can make anything, personal taste and craftsmanship matters more than ever",
-            "overview": "Adobe 99U 会议讨论认为，AI降低制作门槛后，创意差异更多来自选题、审美判断、迭代与个人表达；文章为 It’s Nice That 的品牌赞助报道。",
-            "type": "数字设计 / AI创作趋势",
-            "display_type": "数字设计 / AI创作趋势",
+            "brand": "Samsung Design",
+            "title": "表现性设计观察：让数字艺术与实体边框共同表达个性",
+            "overview": "三星在首尔设计周以14位艺术家的作品，展示数字视觉、色彩与定制边框的多元组合。官方将其视为表现性设计理念的展览实践，而非全行业风格结论。",
+            "type": "跨行业 / 艺术与视觉表达",
+            "display_type": "跨行业 / 艺术与视觉表达",
             "focus": "UI",
-            "insight_headline": "让AI提效服务小度设计判断",
-            "insight_detail": "运营素材交给AI适配，把关品牌一致与屏幕可读性。",
-            "insight_emphasis": "品牌一致与屏幕可读性",
             "published": "2026-10-19",
-            "url": "https://www.itsnicethat.com/articles/adobe-99u-creative-industry-sponsored-content-191026",
-            "event_key": "adobe-99u-human-judgment-20261019",
-            "source_label": "It’s Nice That × Adobe 99U 活动报道 · 中文概述",
-            "source_kind": "设计媒体品牌合作报道",
-            "verification_notes": "页面显示标题、日期2026-10-19和完整正文；标注为Sponsored Content。文中综述Adobe 99U多个演讲关于AI、审美判断、手工艺、迭代与创作意图的讨论。原图为文章正文会场照片。",
+            "url": "https://news.samsung.com/tw/三星於2026首爾設計週推出《design-is-an-act-of-love》特展",
+            "event_key": "reselected-t38-expressive-20261020",
+            "source_label": "三星中文新闻中心 · 设计理念观察",
+            "insight_headline": "品牌表达可保留多元创作空间",
+            "insight_detail": "适合主题活动的视觉延展，可用统一轮廓串联不同风格。",
+            "insight_emphasis": "统一轮廓",
+            "insight": "品牌表达可保留多元创作空间。适合主题活动的视觉延展，可用统一轮廓串联不同风格。",
             "images": [
               {
-                "url": "./cover-test38-itsnicethat.jpg",
-                "caption": "It’s Nice That 原文图：Adobe 99U 会场视觉",
-                "source": "https://www.itsnicethat.com/articles/adobe-99u-creative-industry-sponsored-content-191026",
-                "original_url": "https://m.itsnicethat.com/original_images/adobe-99u-creative-industry-news-itsnicethat-6.jpg?class=w1080",
+                "url": "./cover-reselect-t38-expressive.webp",
+                "original_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/15092103/Samsung-Corporate-Seoul-Design-Week-2026-Design-is-an-Act-of-Love_Main1.jpg",
+                "caption": "三星官方原图：首尔设计周中艺术视觉与定制画框的组合",
+                "source": "https://news.samsung.com/tw/三星於2026首爾設計週推出《design-is-an-act-of-love》特展",
                 "kind": "article-body"
               }
             ],
             "cover_status": "verified-article-image",
             "source_verified_at": "2026-10-20",
+            "verification_notes": "官方中文新闻稿日期19.10.2026；正文和展览作品照片直接可读。选题依据艺术语言、色彩与边框的关系，不将显示器硬件配置充作设计趋势。",
             "evidence": {
-              "file": "evidence/adobe-99u-human-judgment-20261019.json",
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
               "verified_body": true,
               "verified_publication_date": "2026-10-19",
               "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200
-            },
-            "insight": "让AI提效服务小度设计判断。运营素材交给AI适配，把关品牌一致与屏幕可读性。"
-          },
-          {
-            "brand": "Wallpaper*",
-            "title": "秋冬时装以黑色回归鲜明轮廓与克制表达",
-            "original_title": "Why did the colour black take over this season’s runways?",
-            "overview": "Wallpaper*观察2026秋冬系列中黑色集中回归；纯色让廓形、质地与穿着者表达更突出，文章比较多个品牌系列，不是单一品牌发布。",
-            "type": "跨行业趋势 / 时尚与色彩",
-            "display_type": "跨行业趋势 / 时尚与色彩",
-            "focus": "UI",
-            "insight_headline": "用材质层次统一小度软硬件气质",
-            "insight_detail": "智能屏主题与产品宣传减少杂色，以轮廓和质感建立辨识度。",
-            "insight_emphasis": "轮廓和质感",
-            "published": "2026-08-24",
-            "url": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
-            "event_key": "wallpaper-black-fashion-aw2026-20260824",
-            "source_label": "Wallpaper* 时尚趋势观察 · 中文概述",
-            "source_kind": "Wallpaper* 时尚专题文章",
-            "verification_notes": "页面显示标题、作者和发布日期2026-08-24，正文直接可读，逐段分析多个品牌2026秋冬系列黑色趋势，并含多张时装照片；非单一作品教程。原图来自文章主图。",
-            "images": [
-              {
-                "url": "./cover-test38-wallpaper.jpg",
-                "caption": "Wallpaper* 原文配图：2026秋冬黑色造型趋势",
-                "source": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
-                "original_url": "https://cdn.mos.cms.futurecdn.net/knWPu84CCrSWqTqzDiyeS3.jpg",
-                "kind": "article-body"
-              }
-            ],
-            "cover_status": "verified-article-image",
-            "source_verified_at": "2026-10-20",
-            "evidence": {
-              "file": "evidence/wallpaper-black-fashion-aw2026-20260824.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-08-24",
-              "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200
-            },
-            "insight": "用材质层次统一小度软硬件气质。智能屏主题与产品宣传减少杂色，以轮廓和质感建立辨识度。"
+              "language": "zh",
+              "original_image_local": true
+            }
           }
         ]
       },
       "competitors": {
-        "summary": "围绕小度家庭看护与全屋控制，关注摄像头视角组织、地域场景配置，以及本地能力和联网状态的清晰呈现。",
-        "notice": "本期收录3篇：Ring、Samsung 与 UGREEN 的家庭硬件/生态动态；均核对官方或品牌原文、发布日期及相关图片。",
+        "summary": "本期关注家庭设备如何融入日常：桌面旋钮与动作控制、客厅屏幕的内容策展，以及面向不同家庭成员的看护共享。",
+        "notice": "本期3篇：均为可直接阅读的中文图文，分别标明品牌官方发布与权威媒体报道。",
         "delivery": "published",
         "items": [
           {
-            "brand": "Ring · Amazon",
-            "title": "Ring 推出4K室外/室内摄像头与可转向室内摄像头",
-            "original_title": "Ring introduces four new 4K cameras and a pan-tilt indoor cam",
-            "overview": "Ring 官方发布五款家庭安防摄像头：四款4K机型覆盖室内外与多种供电方式，另有支持360度转动的2K室内摄像头；不同地区上市情况有别。",
-            "type": "智能家居 / 摄像头与家庭安防",
-            "display_type": "智能家居 / 摄像头与家庭安防",
+            "brand": "Aqara",
+            "title": "桌面妙控旋钮V1与玻璃版魔方开售：控制入口走向床头与茶几",
+            "overview": "Aqara于9月4日推出桌面版V1旋钮与AG玻璃版T1 Pro魔方。前者结合触屏、旋钮与靠近唤醒，后者通过翻转等动作触发场景，让控制入口脱离墙装位置。",
+            "type": "家庭中控 / 桌面与动作交互",
+            "display_type": "家庭中控 / 桌面与动作交互",
             "focus": "UI",
-            "insight_headline": "小度家庭看护应突出关键画面",
-            "insight_detail": "按门口、客厅组织视角，清楚呈现转向状态与隐私提示。",
-            "insight_emphasis": "转向状态与隐私提示",
-            "published": "2026-10-07",
-            "url": "https://www.aboutamazon.com/news/devices/ring-4k-cameras-pan-tilt-cam",
-            "event_key": "ring-4k-camera-family-20261007",
-            "source_label": "Amazon News / Ring 官方发布 · 中文概述",
-            "source_kind": "Amazon News官方产品发布",
-            "verification_notes": "Amazon News正文可直接阅读并显示五款新品信息，发布日期为2026-10-07；报道注明不同产品在美国、加拿大、欧洲部分地区等地的销售/预售时间不同。主视觉来自原文并保存本地。",
+            "published": "2026-09-04",
+            "url": "https://www.aqara.cn/cn/2095818917353144321",
+            "event_key": "reselected-c38-v1-20261020",
+            "source_label": "Aqara中国官网 · 中文新品发布",
+            "insight_headline": "桌面中控可探索轻触与旋转分工",
+            "insight_detail": "精细调节适合配合刻度反馈，夜间可减少待机亮光。",
+            "insight_emphasis": "刻度反馈",
+            "insight": "桌面中控可探索轻触与旋转分工。精细调节适合配合刻度反馈，夜间可减少待机亮光。",
             "images": [
               {
-                "url": "./cover-test38-ring.jpg",
-                "caption": "Ring 原文主视觉：家庭室内外安防摄像头系列",
-                "source": "https://www.aboutamazon.com/news/devices/ring-4k-cameras-pan-tilt-cam",
-                "original_url": "https://assets.aboutamazon.com/da/01/499bedff40f989fc37e1cece41ad/freya-pr-ring-family-1-2000x1126.jpg",
+                "url": "./cover-reselect-c38-v1.webp",
+                "original_url": "https://static-resource.aqara.com/jeditor/图片16_1788517002784.png",
+                "caption": "Aqara官方原图：桌面版V1旋钮与AG玻璃版T1 Pro魔方",
+                "source": "https://www.aqara.cn/cn/2095818917353144321",
                 "kind": "article-body"
               }
             ],
             "cover_status": "verified-article-image",
             "source_verified_at": "2026-10-20",
+            "verification_notes": "官方新闻日期2026年09月04日；V1是桌面新形态、USB-C供电；T1 Pro是材质升级，非重新发明全部动作能力。正文含触控、接近唤醒和全黑息屏说明。",
             "evidence": {
-              "file": "evidence/ring-4k-camera-family-20261007.json",
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
               "verified_body": true,
-              "verified_publication_date": "2026-10-07",
+              "verified_publication_date": "2026-09-04",
               "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200,
-              "body_excerpt": "Ring发布四款新的4K摄像头与一款支持转向的2K室内摄像头。室内机支持360度水平覆盖、175度俯仰；官方列出各型号地区可购买及预售状态。"
-            },
-            "insight": "小度家庭看护应突出关键画面。按门口、客厅组织视角，清楚呈现转向状态与隐私提示。"
+              "language": "zh",
+              "original_image_local": true
+            }
           },
           {
             "brand": "Samsung",
-            "title": "三星在多地展示因地制宜的 AI 家居方案",
-            "original_title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
-            "overview": "三星10月20日汇总五大区域家居体验：从 SmartThings 互联到节能家电与家庭关怀，并于10月14日在河内展示家用及商用场景。",
-            "type": "智能家居 / 家电与家庭生态",
-            "display_type": "智能家居 / 家电与家庭生态",
+            "title": "三星艺术市集新增大英博物馆馆藏：让客厅屏幕成为艺术展示入口",
+            "overview": "三星10月8日中文新闻稿宣布，艺术市集新增30件大英博物馆作品，订阅用户可在支持的智慧显示器上切换展示。它是屏幕内容服务更新，并非新硬件发布。",
+            "type": "家庭大屏 / 艺术内容服务",
+            "display_type": "家庭大屏 / 艺术内容服务",
             "focus": "UI",
-            "insight_headline": "小度家庭场景需适配地域习惯",
-            "insight_detail": "围绕当地作息与家电组合安排入口，减少重复配置。",
-            "insight_emphasis": "当地作息与家电组合",
-            "published": "2026-10-20",
-            "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
-            "event_key": "samsung-the-brief-regional-ai-home-20261020",
-            "source_label": "Samsung Global Newsroom 官方报道 · 中文概述",
-            "source_kind": "Samsung 官方家居体验报道",
-            "verification_notes": "Samsung Global Newsroom 页面显示2026-10-20，正文按区域介绍家电和SmartThings体验，含原图及图注。准确区分：页面发布日为10月20日，河内活动日为10月14日；其他区域活动日期各异。",
+            "published": "2026-10-08",
+            "url": "https://news.samsung.com/tw/三星藝術市集擴充陣容　獨家呈獻大英博物館30件經",
+            "event_key": "reselected-c38-art-20261020",
+            "source_label": "三星中文新闻中心 · 内容服务更新",
+            "insight_headline": "闲置屏幕可尝试场景化内容策展",
+            "insight_detail": "展示艺术内容时，适合保留作品来源与订阅提示。",
+            "insight_emphasis": "作品来源与订阅提示",
+            "insight": "闲置屏幕可尝试场景化内容策展。展示艺术内容时，适合保留作品来源与订阅提示。",
             "images": [
               {
-                "url": "./cover-test38-samsung.jpg",
-                "caption": "Samsung 原文配图：AI Vision 与 AI Pro Cooking 家庭演示",
-                "source": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
-                "original_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/19160856/Samsung-Corporate-The-Brief-Global-with-AI-Powered-Home-Appliances_Main1.jpg",
+                "url": "./cover-reselect-c38-art.webp",
+                "original_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/01160619/Samsung-TVs-and-Displays-Samsung-Art-Store-British-Museum_main1.jpg",
+                "caption": "三星官方原图：The Frame Pro在客厅展示馆藏作品",
+                "source": "https://news.samsung.com/tw/三星藝術市集擴充陣容　獨家呈獻大英博物館30件經",
                 "kind": "article-body"
               }
             ],
             "cover_status": "verified-article-image",
             "source_verified_at": "2026-10-20",
+            "verification_notes": "官方中文日期08.10.2026，正文直接可读，明确需要艺术市集订阅及支持设备；配图为官方客厅屏幕场景。",
             "evidence": {
-              "file": "evidence/samsung-the-brief-regional-ai-home-20261020.json",
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
               "verified_body": true,
-              "verified_publication_date": "2026-10-20",
+              "verified_publication_date": "2026-10-08",
               "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200
-            },
-            "insight": "小度家庭场景需适配地域习惯。围绕当地作息与家电组合安排入口，减少重复配置。"
+              "language": "zh",
+              "original_image_local": true
+            }
           },
           {
-            "brand": "UGREEN / 安克生态",
-            "title": "UGREEN 推出 HomeAgent 本地 AI 家庭中枢",
-            "original_title": "Smarter Living Starts Here: We Unveiled HomeAgent at Gillette Stadium",
-            "overview": "UGREEN公布 HomeAgent 本地 AI 中枢及摄像头、智能音箱、电子相框生态，可在本地识别家庭事件，并通过 Matter 管理兼容设备。",
-            "type": "智能家居 / 家庭中枢与本地控制",
-            "display_type": "智能家居 / 家庭中枢与本地控制",
+            "brand": "小米",
+            "title": "智能摄像机3开售：按家庭看护场景检测并共享查看",
+            "overview": "10月9日小米智能摄像机3开售，提供居家、幼儿与宠物等场景的6类AI检测、双向语音与家人共享，并支持手机、平板和电视等设备查看。",
+            "type": "家庭看护 / 检测与共享",
+            "display_type": "家庭看护 / 检测与共享",
             "focus": "UI",
-            "insight_headline": "小度全屋控制应让本地状态可见",
-            "insight_detail": "中控界面区分本地与联网能力，让离线可用范围清楚可查。",
-            "insight_emphasis": "离线可用范围",
-            "published": "2026-09-09",
-            "url": "https://ai.ugreen.com/blogs/news/ugreen-smart-living-launch-event-homeagent",
-            "event_key": "ugreen-homeagent-local-ai-hub-20260909",
-            "source_label": "UGREEN 官方发布 · 中文概述",
-            "source_kind": "UGREEN 官方智能家居发布",
-            "verification_notes": "UGREEN 官方文章显示2026-09-09，正文直接介绍9月1日发布活动、HomeAgent中枢及关联产品，9月4日开启预订；日期按官网文章发布日期记。原文含产品图、演示图及功能说明。",
+            "published": "2026-10-09",
+            "url": "https://m.ithome.com/html/1010994.htm",
+            "event_key": "reselected-c38-camera3-20261020",
+            "source_label": "IT之家 · 官方商品信息图文报道",
+            "insight_headline": "看护提醒可围绕家庭角色分层",
+            "insight_detail": "共享设备时，适合先区分通知对象与查看范围。",
+            "insight_emphasis": "通知对象与查看范围",
+            "insight": "看护提醒可围绕家庭角色分层。共享设备时，适合先区分通知对象与查看范围。",
             "images": [
               {
-                "url": "./cover-test38-ugreen.png",
-                "caption": "UGREEN 原文配图：HomeAgent 家庭中枢及设备生态",
-                "source": "https://ai.ugreen.com/blogs/news/ugreen-smart-living-launch-event-homeagent",
-                "original_url": "https://cdn.shopify.com/s/files/1/0630/9416/1602/files/UGREEN_HomeAgent.png?v=1788916953",
+                "url": "./cover-reselect-c38-camera3.webp",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/10/3ef195ce-f789-467d-9558-943da38a12b6.png",
+                "caption": "正文所附小米产品图：智能摄像机3",
+                "source": "https://m.ithome.com/html/1010994.htm",
                 "kind": "article-body"
               }
             ],
             "cover_status": "verified-article-image",
             "source_verified_at": "2026-10-20",
+            "verification_notes": "IT之家日期2026-10-09 15:39，正文说明从商品页面获悉并附产品图；不是独立实测。与4 Pro的实体/微信主动呼叫事件分开核验，不能混写型号或新增功能。",
             "evidence": {
-              "file": "evidence/ugreen-homeagent-local-ai-hub-20260909.json",
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
               "verified_body": true,
-              "verified_publication_date": "2026-09-09",
+              "verified_publication_date": "2026-10-09",
               "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200
-            },
-            "insight": "小度全屋控制应让本地状态可见。中控界面区分本地与联网能力，让离线可用范围清楚可查。"
+              "language": "zh",
+              "original_image_local": true
+            }
           }
         ]
       }
+    },
+    "editorial_policy": {
+      "revised_at": "2026-10-20",
+      "chinese_first": true,
+      "uisdc_max": 1,
+      "insight": "有适用条件的建议；仅关联自然时提及小度；不作绝对结论",
+      "scope": "只重选测试第37、38期，原始日期键与其他往期保持一致"
     }
   },
   {
@@ -303,285 +257,243 @@
     "test_note": "测试发布 · 本期文章均为真实检索与核验内容，仅临时使用第37期编号验证采集和页面标准。",
     "sections": {
       "trends": {
-        "summary": "互联网设计：AI时代更重判断与差异化，设计团队转向可运行原型和协同工作流；室内设计：以对比色材与耐久使用回应当代居住。",
-        "notice": "测试期号，不代表正式编号；所有来源均已打开正文核实，图片取自原文并保存为本地封面。互联网设计为主，补充1篇室内设计观察。",
+        "summary": "本期关注数字设计从静态画稿走向真实原型、从逐步点击转向任务意图，并从巴黎设计周观察在地工艺与材料的表达。",
+        "notice": "本期3篇：以数字设计观察为主，搭配1篇跨行业内容；中文优先，优设1篇，英文图文已提供中文概述。",
         "delivery": "published",
         "items": [
           {
-            "brand": "Figma",
-            "title": "生成式 AI 加速原型后，设计判断与差异化更重要",
-            "original_title": "What it takes to build great products now",
-            "overview": "Figma 产品副总裁指出，AI 让可点击原型更快出现，团队的难点转向持续打磨、比较多种方向，并以设计系统和细节建立产品辨识度。",
-            "type": "互联网设计 / AI协作与产品差异化",
-            "display_type": "互联网设计 / AI协作与产品差异化",
-            "focus": "UX",
-            "insight_headline": "速度变快后，设计判断更稀缺",
-            "insight_detail": "先比较多种方向，再用系统和细节守住产品辨识度。",
-            "insight_emphasis": "产品辨识度",
-            "published": "2026-09-24",
-            "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
-            "event_key": "figma-great-products-design-judgment-20260924",
-            "source_label": "Figma 官方博客 · 中文概述",
-            "source_kind": "Figma 官方设计观点文章",
-            "verification_notes": "Figma官方博客正文可直接阅读，页面显示2026-09-24。文章讨论原型生成变快后，设计团队在速度、方向和差异化上的工作重心变化。 原文主视觉保存为本地封面（HTTP 200，55210字节）。",
-            "images": [
-              {
-                "url": "./cover-test37-figma-products.jpg",
-                "caption": "Figma 原文主视觉：AI时代产品设计流程与差异化",
-                "source": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
-                "original_url": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
-                "kind": "article-body"
-              }
-            ],
-            "cover_status": "verified-article-image",
-            "source_verified_at": "2026-10-20",
-            "evidence": {
-              "file": "evidence/figma-products.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-09-24",
-              "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200,
-              "body_excerpt": "Getting to a prototype is easier than ever. The harder work is sustaining speed all the way to launch, choosing the right direction, and creating products that stand out. The article discusses speed, direction and differentiation."
-            },
-            "insight": "速度变快后，设计判断更稀缺：先比较多种方向，再用系统和细节守住产品辨识度。"
-          },
-          {
-            "brand": "Opera",
-            "title": "交互原型前移：设计与开发的边界正在移动",
-            "original_title": "Inside Opera’s Evolving Design Loop",
-            "overview": "Opera 采访四个移动产品设计团队，展示工作流从静态设计稿转向可运行原型：设计师更早验证交互、技术限制和用户反馈，再进入工程交付。",
-            "type": "互联网设计 / 原型与设计研发协作",
-            "display_type": "互联网设计 / 原型与设计研发协作",
-            "focus": "UX",
-            "insight_headline": "原型进入设计早期循环",
-            "insight_detail": "更早验证交互与技术边界，缩短反馈和迭代周期。",
-            "insight_emphasis": "反馈和迭代周期",
-            "published": "2026-09-18",
-            "url": "https://blogs.opera.com/mobile/2026/09/inside-operas-evolving-design-loop/",
-            "event_key": "opera-evolving-design-loop-20260918",
-            "source_label": "Opera Mobile 官方博客 · 中文概述",
-            "source_kind": "Opera 官方设计团队访谈文章",
-            "verification_notes": "Opera Mobile官方博客正文可直接阅读，页面日期为2026-09-18。文章采访四位移动产品设计负责人，正文明确对比静态概念与可运行原型的设计循环。 原文主视觉保存为本地封面（HTTP 200，165105字节）。",
-            "images": [
-              {
-                "url": "./cover-test37-opera-loop.jpg",
-                "caption": "Opera 原文配图：设计工作流的变化",
-                "source": "https://blogs.opera.com/mobile/2026/09/inside-operas-evolving-design-loop/",
-                "original_url": "https://www-static-blogs.operacdn.com/mobile/wp-content/uploads/sites/4/2026/09/How-AI-has-Rewired-Design-1.jpg",
-                "kind": "article-body"
-              }
-            ],
-            "cover_status": "verified-article-image",
-            "source_verified_at": "2026-10-20",
-            "evidence": {
-              "file": "evidence/opera-loop.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-09-18",
-              "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200,
-              "body_excerpt": "Across Opera’s mobile products, designers are increasingly moving from static concepts to working prototypes, testing interactions, exploring technical constraints, and iterating before engineering gets involved."
-            },
-            "insight": "原型进入设计早期循环：更早验证交互与技术边界，缩短反馈和迭代周期。"
-          },
-          {
-            "brand": "Figma",
-            "title": "AI 设计从个人试用走向团队协作",
-            "original_title": "4 team rituals that drive AI adoption",
-            "overview": "Figma 汇总自身及 Sephora、Mercari、Atlassian 的团队实践：同伴学习、公开试错、跨职能共学和原型优先评审，让 AI 从个人提效进入团队工作流程。",
-            "type": "互联网设计 / AI团队协作",
-            "display_type": "互联网设计 / AI团队协作",
-            "focus": "UX",
-            "insight_headline": "AI协作进入团队日常",
-            "insight_detail": "共同学习与原型先行，让工具价值从个人提效扩展到团队流程。",
-            "insight_emphasis": "团队流程",
-            "published": "2026-10-10",
-            "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
-            "event_key": "figma-team-ai-adoption-rituals-20261010",
-            "source_label": "Figma 官方博客 · 中文概述",
-            "source_kind": "Figma 官方设计团队实践文章",
-            "verification_notes": "Figma官方博客正文可直接阅读，页面显示2026-10-10。正文覆盖四家团队的协作实践；此条概述为对团队级 AI 设计协作趋势的归纳，并非单一案例的行业结论。 原文主视觉保存为本地封面（HTTP 200，355553字节）。",
-            "images": [
-              {
-                "url": "./cover-test37-figma-ai-teams.png",
-                "caption": "Figma 原文主视觉：团队协作与 AI 工作流",
-                "source": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
-                "original_url": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "kind": "article-body"
-              }
-            ],
-            "cover_status": "verified-article-image",
-            "source_verified_at": "2026-10-20",
-            "evidence": {
-              "file": "evidence/figma-ai-teams.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-10-10",
-              "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200,
-              "body_excerpt": "For AI to meaningfully change how a team works, individual fluency isn’t enough; the bigger gains only show up once the whole team adopts AI tools together. The article describes peer study groups, sharing failed experiments, cross-training, and prototype-first reviews."
-            },
-            "insight": "AI协作进入团队日常：共同学习与原型先行，让工具价值从个人提效扩展到团队流程。"
-          },
-          {
-            "brand": "Archi & Interiors",
-            "title": "2026秋季室内趋势：对比色材与可持续空间",
-            "original_title": "Autumn 2026 Interior Design Trends: Design, Architecture and Living Spaces",
-            "overview": "Archi & Interiors 从纺织趋势研究与设计周案例观察秋季室内方向：以大地色搭配亮色、不同材质形成层次，并重视沿用既有家具与空间。",
-            "type": "室内设计 / 色彩与材料趋势",
-            "display_type": "室内设计 / 色彩与材料趋势",
+            "brand": "优设 · AI星踪岛",
+            "title": "AI设计工作方式观察：从静态画稿走向真实原型与协作",
+            "overview": "文章梳理多位产品设计师的工作方式，讨论用可运行原型探索交互、设计师与工程师协作，以及将判断力留在人工环节的变化；并非全行业时间分配统计。",
+            "type": "数字设计 / AI协作趋势",
+            "display_type": "数字设计 / AI协作趋势",
             "focus": "UI",
-            "insight_headline": "色彩与材质强调对比组合",
-            "insight_detail": "大地色搭配亮色、木材与织物叠加，关注空间的长期使用。",
-            "insight_emphasis": "对比组合",
-            "published": "2026-10-15",
-            "url": "https://www.archieinteriors.com/en/autumn-2026-interior-design-trends/",
-            "event_key": "archie-interiors-autumn-2026-interior-trends-20261015",
-            "source_label": "Archi & Interiors 设计媒体 · 中文概述",
-            "source_kind": "室内设计媒体趋势观察",
-            "verification_notes": "Archi & Interiors正文可直接阅读，页面标注发表于2026-10-15，正文约15分钟并有多张项目图。媒体明确将其内容定位为编辑观察，而非普遍适用的官方标准。 原文主视觉保存为本地封面（HTTP 200，189286字节）。",
+            "published": "2026-10-20",
+            "url": "https://www.uisdc.com/cut-drawing-time",
+            "event_key": "reselected-t37-workflow-20261020",
+            "source_label": "优设 · 多位设计师观点整理",
+            "insight_headline": "可把评审前移到可运行原型",
+            "insight_detail": "复杂交互适合边试边改，以真实状态检验视觉方案。",
+            "insight_emphasis": "真实状态",
+            "insight": "可把评审前移到可运行原型。复杂交互适合边试边改，以真实状态检验视觉方案。",
             "images": [
               {
-                "url": "./cover-test37-archi-interiors.jpg",
-                "caption": "Archi & Interiors 原文配图：模块沙发与室内色材",
-                "source": "https://www.archieinteriors.com/en/autumn-2026-interior-design-trends/",
-                "original_url": "https://www.archieinteriors.com/wp-content/uploads/2026/10/roche-mahjong-wide.jpg",
+                "url": "./cover-reselect-t37-workflow.webp",
+                "original_url": "https://image.uisdc.com/wp-content/uploads/2026/10/57e80e15b03981d256c7f7acf2348bd8.webp",
+                "caption": "原文插图：AI时代设计工作方式的变化",
+                "source": "https://www.uisdc.com/cut-drawing-time",
                 "kind": "article-body"
               }
             ],
             "cover_status": "verified-article-image",
             "source_verified_at": "2026-10-20",
+            "verification_notes": "浏览器完整正文可读；标题下明确时间2026-10-20 00:02:02。正文为作者整理的访谈与观点，不将70%与30%泛化为行业调查。封面为正文主题插图。",
             "evidence": {
-              "file": "evidence/archi-interiors.json",
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
               "verified_body": true,
-              "verified_publication_date": "2026-10-15",
+              "verified_publication_date": "2026-10-20",
               "checked_at": "2026-10-20",
-              "article_http_status": 200,
-              "image_http_status": 200,
-              "body_excerpt": "Autumn 2026 interior design trends are best read through combinations. The season’s directions encompass colour and material, but also privacy, the work of care and the possibility of living without starting again from scratch."
-            },
-            "insight": "色彩与材质强调对比组合：大地色搭配亮色、木材与织物叠加，关注空间的长期使用。"
+              "language": "zh",
+              "original_image_local": true
+            }
+          },
+          {
+            "brand": "Smashing Magazine",
+            "title": "交互范式观察：从逐步点击转向表达任务意图",
+            "overview": "Carrie Webster观察搜索、生成式界面等产品，讨论入口如何从菜单与表单转向任务意图；同时提醒设计保留透明反馈、用户控制与关键确认。",
+            "type": "UI / 意图式交互",
+            "display_type": "UI / 意图式交互",
+            "focus": "UI",
+            "published": "2026-09-09",
+            "url": "https://www.smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+            "event_key": "reselected-t37-intent-20261020",
+            "source_label": "Smashing · 作者观察 · 中文概述",
+            "insight_headline": "复杂任务可尝试意图式入口",
+            "insight_detail": "先保留关键确认，再以进度与结果反馈减少盲等。",
+            "insight_emphasis": "进度与结果反馈",
+            "insight": "复杂任务可尝试意图式入口。先保留关键确认，再以进度与结果反馈减少盲等。",
+            "images": [
+              {
+                "url": "./cover-reselect-t37-intent.webp",
+                "original_url": "https://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/2-perplexity.png",
+                "caption": "原文配图：Perplexity将检索结果组织为比较表格的界面示例",
+                "source": "https://www.smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "verification_notes": "页面日期Sep 9, 2026，全文可直接阅读，无需视频。作者趋势观点不是按钮已被全面取代的事实；保留确认与可解释性。原文图片为界面示例。",
+            "evidence": {
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-09",
+              "checked_at": "2026-10-20",
+              "language": "en",
+              "original_image_local": true
+            }
+          },
+          {
+            "brand": "Tatler Asia",
+            "title": "巴黎设计周观察：在地工艺、再生材料与感官体验相互融合",
+            "overview": "Tatler从Maison&Objet与巴黎设计周归纳在地工艺、再生材料和多感官体验的方向，展示织物、纸艺、灯具与展览视觉；观察范围限于所报道的展会。",
+            "type": "跨行业 / 工艺与材料趋势",
+            "display_type": "跨行业 / 工艺与材料趋势",
+            "focus": "UI",
+            "published": "2026-09-17",
+            "url": "https://www.tatlerasia.com/lifestyle/arts/maisonobjet-fair-and-paris-design-week-in-september-zh-hans",
+            "event_key": "reselected-t37-paris-20261020",
+            "source_label": "Tatler Asia · 中文展会趋势观察",
+            "insight_headline": "跨行业视觉可借鉴手工肌理",
+            "insight_detail": "品牌活动适合从在地材料提炼图形，避免直接拼贴风格。",
+            "insight_emphasis": "在地材料",
+            "insight": "跨行业视觉可借鉴手工肌理。品牌活动适合从在地材料提炼图形，避免直接拼贴风格。",
+            "images": [
+              {
+                "url": "./cover-reselect-t37-paris.webp",
+                "original_url": "https://cdn.tatlerasia.com/tatlerasia/i/2026/09/17174702-7_cover_1600x1209.jpeg",
+                "caption": "Tatler原文图：Maison&Objet展会中的材料、纹理与器物陈列",
+                "source": "https://www.tatlerasia.com/lifestyle/arts/maisonobjet-fair-and-paris-design-week-in-september-zh-hans",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "verification_notes": "正文为中文完整图文，published_date元数据为2026-09-17T10:02:39Z，页面日期Sep 17, 2026。正文明确列出三个设计方向；不是付费报告入口。",
+            "evidence": {
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-17",
+              "checked_at": "2026-10-20",
+              "language": "zh",
+              "original_image_local": true
+            }
           }
         ]
       },
       "competitors": {
-        "summary": "聚焦智能家居硬件与家电体验：应急交互、空间感知，以及设备界面的长期更新。",
-        "notice": "测试期号，不代表正式编号；仅收录权威原文及对应图片。",
+        "summary": "本期关注家庭控制与沟通的低门槛入口：墙面开关的双生态、智慧屏的跨端接续，以及摄像机的主动通话。",
+        "notice": "本期3篇：均为可直接阅读的中文图文，分别标明品牌官方发布与权威媒体报道。",
         "delivery": "published",
         "items": [
           {
-            "brand": "Ring · Amazon",
-            "title": "Ring 智能门锁：断电时可手动补能",
-            "original_title": "Ring ends smart lock anxiety with a lock you can recharge by hand",
-            "overview": "亚马逊10月7日宣布 Ring 首款智能门锁，支持指纹、触屏密码、App 和 Alexa 四种开门方式；电池耗尽时可转动机身旋钮手动补能，并可接入 Ring、Echo 设备。计划于2027年初在美国开售。",
-            "type": "IoT / 智能门锁与应急交互",
-            "display_type": "IoT / 智能门锁与应急交互",
-            "focus": "UI",
-            "insight_headline": "把断电退路设计进门锁",
-            "insight_detail": "手动补能与多种开门方式并列，减少电量耗尽时的被锁门焦虑。",
-            "insight_emphasis": "手动补能与多种开门方式",
-            "insight": "把断电退路设计进门锁：手动补能与多种开门方式并列，减少电量耗尽时的被锁门焦虑。",
-            "published": "2026-10-07",
-            "url": "https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge",
-            "event_key": "ring-smart-lock-manual-recharge-20261007",
-            "source_label": "Amazon 官方发布 · 中文概述",
-            "source_kind": "Amazon 官方新品发布",
-            "source_verified_at": "2026-10-19",
-            "images": [
-              {
-                "url": "./cover-test37-ring.jpg",
-                "original_url": "https://assets.aboutamazon.com/04/e8/467af05c4b43accf78a07e26553a/ring-smart-lock-hero-amazonnews-ck10626.jpg",
-                "source": "https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge",
-                "caption": "Amazon 官方正文配图：Ring 智能门锁及门铃",
-                "kind": "article-body"
-              }
-            ],
-            "evidence": {
-              "file": "evidence/amazon-ring.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-10-07",
-              "checked_at": "2026-10-19"
-            },
-            "cover_status": "verified-article-image",
-            "verification_notes": "Amazon Devices 官方新闻列表标注2026-10-07；正文说明手动转动 power dial 可应急补能，包含指纹、触屏键盘、Ring App、Alexa四种入口。官方计划2027年初在美国上市，当前为发布信息而非已开售。"
-          },
-          {
             "brand": "Aqara",
-            "title": "Aqara FP400 空间多传感器发布",
-            "original_title": "Introducing the Spatial Multi-Sensor FP400 — Automations That Know Where You Are",
-            "overview": "Aqara 官方账号9月16日发布 FP400，采用60GHz毫米波雷达识别多人位置和空间分区，不使用摄像头；支持 Zigbee 与 Matter over Thread，官方称已在除俄罗斯、日本外的全球市场开售。",
-            "type": "IoT / 空间感知与场景联动",
-            "display_type": "IoT / 空间感知与场景联动",
+            "title": "L1智能墙壁开关上市：AG玻璃与双生态控制",
+            "overview": "Aqara于9月4日在中国大陆推出L1墙壁开关，采用AG玻璃面板，兼容米家与Apple Home；支持语音、App和场景联动，面向新装与传统开关改造。",
+            "type": "IoT / 墙面控制",
+            "display_type": "IoT / 墙面控制",
             "focus": "UI",
-            "insight_headline": "从“有人”升级到“人在何处”",
-            "insight_detail": "分区感知可驱动更精确的灯光与房间自动化，同时保留无摄像头边界。",
-            "insight_emphasis": "分区感知",
-            "insight": "从“有人”升级到“人在何处”：分区感知可驱动更精确的灯光与房间自动化，同时保留无摄像头边界。",
-            "published": "2026-09-16",
-            "url": "https://forum.aqara.com/t/introducing-the-spatial-multi-sensor-fp400-automations-that-know-where-you-are/335567",
-            "event_key": "aqara-fp400-spatial-sensor-20260916",
-            "source_label": "Aqara 官方账号 · 中文概述",
-            "source_kind": "Aqara 官方产品发布",
-            "source_verified_at": "2026-10-19",
+            "published": "2026-09-04",
+            "url": "https://www.aqara.cn/cn/2095816704408125441",
+            "event_key": "reselected-c37-l1-20261020",
+            "source_label": "Aqara中国官网 · 中文新品发布",
+            "insight_headline": "可尝试统一墙面设备的视觉秩序",
+            "insight_detail": "联排中控与开关时，可用材质和间距保持整体感。",
+            "insight_emphasis": "材质和间距",
+            "insight": "可尝试统一墙面设备的视觉秩序。联排中控与开关时，可用材质和间距保持整体感。",
             "images": [
               {
-                "url": "./cover-test37-aqara.jpg",
-                "original_url": "https://forum-static.aqara.com/optimized/3X/5/e/5e77f057f945ca55560958135e3747ef5327ef71_2_1380x642.jpeg",
-                "source": "https://forum.aqara.com/t/introducing-the-spatial-multi-sensor-fp400-automations-that-know-where-you-are/335567",
-                "caption": "Aqara 官方发布配图：FP400 空间多传感器场景",
+                "url": "./cover-reselect-c37-l1.webp",
+                "original_url": "https://static-resource.aqara.com/jeditor/图片10_1788516462037.png",
+                "caption": "Aqara官方原图：L1智能墙壁开关",
+                "source": "https://www.aqara.cn/cn/2095816704408125441",
                 "kind": "article-body"
               }
             ],
-            "evidence": {
-              "file": "evidence/aqara-fp400.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-09-16",
-              "checked_at": "2026-10-19"
-            },
             "cover_status": "verified-article-image",
-            "verification_notes": "AqaraOfficial于官方社区2026-09-16发布；正文明确60GHz毫米波、多人追踪、分区自动化、无摄像头及Zigbee/Matter over Thread。发售范围按官方原文说明，不泛化为所有地区。"
+            "source_verified_at": "2026-10-20",
+            "verification_notes": "官方中文正文日期2026年09月04日；产品发布与开售同日，中国大陆使用范围见官网说明。原图来自正文，不使用生成图。",
+            "evidence": {
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-04",
+              "checked_at": "2026-10-20",
+              "language": "zh",
+              "original_image_local": true
+            }
           },
           {
-            "brand": "Samsung",
-            "title": "三星为部分家电推送界面与AI功能更新",
-            "original_title": "Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates",
-            "overview": "三星全球新闻室9月7日宣布，为部分冰箱和洗衣设备更新 Tizen 10.0：Family Hub 增强食材识别和日常信息体验，部分7英寸洗衣屏加入简化布局的 Easy Mode。适用型号、地区和推送时间各有差异。",
-            "type": "IoT / 家电屏幕与持续服务",
-            "display_type": "IoT / 家电屏幕与持续服务",
+            "brand": "华为",
+            "title": "智慧屏秋季更新：iOS投屏、一遥两控与定时关机",
+            "overview": "据华为智慧生活10月15日公布的更新信息，智慧屏新增iOS快捷投屏、一遥两控、语音定时关机等能力，并调整相框与艺术边框体验；具体适配机型和推送节奏以官方为准。",
+            "type": "家庭大屏 / 跨端控制",
+            "display_type": "家庭大屏 / 跨端控制",
             "focus": "UI",
-            "insight_headline": "让家电界面随使用周期持续进化",
-            "insight_detail": "在既有设备上简化信息层级，并补充语音与日常服务体验。",
-            "insight_emphasis": "简化信息层级",
-            "insight": "让家电界面随使用周期持续进化：在既有设备上简化信息层级，并补充语音与日常服务体验。",
-            "published": "2026-09-07",
-            "url": "https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates",
-            "event_key": "samsung-appliance-tizen10-interface-update-20260907",
-            "source_label": "Samsung 全球新闻室 · 中文概述",
-            "source_kind": "Samsung 官方软件更新公告",
-            "source_verified_at": "2026-10-19",
+            "published": "2026-10-15",
+            "url": "https://www.ithome.com/1/013/630.htm",
+            "event_key": "reselected-c37-huawei-20261020",
+            "source_label": "IT之家 · 华为官方更新图文报道",
+            "insight_headline": "跨端接续值得保留清晰操作边界",
+            "insight_detail": "小度大屏可参考投屏与遥控的状态提示，减少操作猜测。",
+            "insight_emphasis": "状态提示",
+            "insight": "跨端接续值得保留清晰操作边界。小度大屏可参考投屏与遥控的状态提示，减少操作猜测。",
             "images": [
               {
-                "url": "./cover-test37-samsung.jpg",
-                "original_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/09/04103543/Samsung-Digital-Appliances-Long-Term-Value-Software-Updates_main1.jpg",
-                "source": "https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates",
-                "caption": "Samsung 官方新闻配图：智能家电家庭场景",
+                "url": "./cover-reselect-c37-huawei.webp",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/10/ad31fdb9-b381-4d94-bd77-d77f93907f4d.jpg?x-bce-process=image/format,f_auto",
+                "caption": "正文所附华为官方秋季更新长图局部：智慧屏家庭场景",
+                "source": "https://www.ithome.com/1/013/630.htm",
                 "kind": "article-body"
               }
             ],
-            "evidence": {
-              "file": "evidence/samsung-appliance-update.json",
-              "verified_body": true,
-              "verified_publication_date": "2026-09-07",
-              "checked_at": "2026-10-19"
-            },
             "cover_status": "verified-article-image",
-            "verification_notes": "Samsung Global Newsroom标注韩国2026-09-07发布。正文称分批更新自2026年9月开始，具体功能、型号、时间和市场可能不同；7英寸屏幕Easy Mode与冰箱AI Vision分别按适用型号描述。"
+            "source_verified_at": "2026-10-20",
+            "verification_notes": "IT之家中文正文发布时间2026/10/15，报道明确引用华为智慧生活官方更新；配图为官方更新海报。封面裁取原图家庭大屏部分，完整原图保存在本地报告。报道未给出完整机型清单，不推断全量开放。",
+            "evidence": {
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-15",
+              "checked_at": "2026-10-20",
+              "language": "zh",
+              "original_image_local": true
+            }
+          },
+          {
+            "brand": "小米",
+            "title": "智能摄像机4 Pro开售：实体按键与手势发起微信通话",
+            "overview": "小米10月13日宣布摄像机4 Pro开售，增加实体通话按键与OK手势呼叫，可与微信、米家App双向通话，并支持家人共享和多终端查看。",
+            "type": "家庭看护 / 主动通话",
+            "display_type": "家庭看护 / 主动通话",
+            "focus": "UI",
+            "published": "2026-10-13",
+            "url": "https://www.ithome.com/1/012/452.htm",
+            "event_key": "reselected-c37-camera4-20261020",
+            "source_label": "IT之家 · 小米官方开售图文报道",
+            "insight_headline": "主动呼叫可兼顾实体与手势入口",
+            "insight_detail": "面向儿童或长辈，可用低学习成本动作发起通话。",
+            "insight_emphasis": "低学习成本动作",
+            "insight": "主动呼叫可兼顾实体与手势入口。面向儿童或长辈，可用低学习成本动作发起通话。",
+            "images": [
+              {
+                "url": "./cover-reselect-c37-camera4.webp",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/10/51a1961a-9c7c-441c-bd15-2074c4cf7996.jpg?x-bce-process=image/format,f_auto",
+                "caption": "正文所附小米官方图：智能摄像机4 Pro",
+                "source": "https://www.ithome.com/1/012/452.htm",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "verification_notes": "IT之家正文日期2026/10/13 16:35:21，明确“小米官方今日宣布”并配官方产品图片。记录开售日期，不将此稿冒充品牌官网文章。",
+            "evidence": {
+              "archive": "reports/2026-10-20_reselect_tests_37_38",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-13",
+              "checked_at": "2026-10-20",
+              "language": "zh",
+              "original_image_local": true
+            }
           }
         ]
       }
     },
-    "editorial_policy": "第35期最终样刊标准；仅公开网站交付；本期新增并保留全部往期。"
+    "editorial_policy": {
+      "revised_at": "2026-10-20",
+      "chinese_first": true,
+      "uisdc_max": 1,
+      "insight": "有适用条件的建议；仅关联自然时提及小度；不作绝对结论",
+      "scope": "只重选测试第37、38期，原始日期键与其他往期保持一致"
+    }
   },
   {
     "start": "2026-10-12",
