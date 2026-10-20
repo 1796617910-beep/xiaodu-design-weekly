@@ -9,7 +9,7 @@
     "test_note": "测试发布·本期为真实文章内容，仅第38期期号用于规则验证。",
     "sections": {
       "trends": {
-        "summary": "本期设计观察：大胆品牌表达、情绪化配色与人本创作并行，时尚视觉回归黑色轮廓与材质表达。",
+        "summary": "本期关注小度品牌识别、家庭服务的场景配色、AI素材生产与软硬件视觉统一，从跨行业趋势中提炼可借鉴的设计方法。",
         "notice": "本期收录4篇：聚焦品牌视觉、跨行业色彩、AI时代创作判断与时尚色彩趋势；各条均核对原文正文与配图。",
         "delivery": "published",
         "items": [
@@ -21,9 +21,9 @@
             "type": "跨行业设计 / 品牌视觉趋势",
             "display_type": "跨行业设计 / 品牌视觉趋势",
             "focus": "UI",
-            "insight_headline": "繁复表达要有清晰的品牌理由",
-            "insight_detail": "大胆表达可以打破同质化，但要回到品牌自身的识别线索。",
-            "insight_emphasis": "品牌自身的识别线索",
+            "insight_headline": "小度品牌焕新保留统一识别",
+            "insight_detail": "节日KV可大胆变化，以小度IP和品牌色串联各类触点。",
+            "insight_emphasis": "小度IP和品牌色",
             "published": "2026-09-30",
             "url": "https://www.dandad.org/work/annual-2026/trends-from-the-jury-rooms/maximalism-is-back-in-design-and-its-needed-more-than-ever",
             "event_key": "dad-maximalism-20260930",
@@ -50,7 +50,7 @@
               "image_http_status": 200,
               "body_excerpt": "D&AD评委称新品牌识别中复古、流动、迷幻字体成为常见表达，但趋势趋于饱和；案例通过定制字体与插画工具建立鲜明识别。"
             },
-            "insight": "繁复表达要有清晰的品牌理由：大胆表达可以打破同质化，但要回到品牌自身的识别线索。"
+            "insight": "小度品牌焕新保留统一识别。节日KV可大胆变化，以小度IP和品牌色串联各类触点。"
           },
           {
             "brand": "Pantone",
@@ -60,9 +60,9 @@
             "type": "跨行业设计 / 色彩趋势",
             "display_type": "跨行业设计 / 色彩趋势",
             "focus": "UI",
-            "insight_headline": "多色组合需要明确的情绪主题",
-            "insight_detail": "用色彩关系组织丰富层次，让“更多”仍有方向。",
-            "insight_emphasis": "明确的情绪主题",
+            "insight_headline": "小度家庭服务用配色区分场景",
+            "insight_detail": "儿童陪伴与助眠各有情绪主色，关键状态色保持一致。",
+            "insight_emphasis": "关键状态色保持一致",
             "published": "2026-09-16",
             "url": "https://www.pantone.com/articles/color-palettes/new-pantone-pms-colors-2026-color-palettes",
             "event_key": "pantone-new-colors-palettes-20260916",
@@ -89,7 +89,7 @@
               "image_http_status": 200,
               "body_excerpt": "Pantone称新增颜色体现当下对繁复主义的诠释，丰富用色应围绕色彩带来的感受与视觉世界展开，并提供四组主题配色。"
             },
-            "insight": "多色组合需要明确的情绪主题：用色彩关系组织丰富层次，让“更多”仍有方向。"
+            "insight": "小度家庭服务用配色区分场景。儿童陪伴与助眠各有情绪主色，关键状态色保持一致。"
           },
           {
             "brand": "It’s Nice That × Adobe 99U",
@@ -99,9 +99,9 @@
             "type": "数字设计 / AI创作趋势",
             "display_type": "数字设计 / AI创作趋势",
             "focus": "UI",
-            "insight_headline": "AI普及后，判断力比产出速度更稀缺",
-            "insight_detail": "把时间留给筛选、打磨与表达，让工具服务于创意意图。",
-            "insight_emphasis": "判断力比产出速度更稀缺",
+            "insight_headline": "让AI提效服务小度设计判断",
+            "insight_detail": "运营素材交给AI适配，把关品牌一致与屏幕可读性。",
+            "insight_emphasis": "品牌一致与屏幕可读性",
             "published": "2026-10-19",
             "url": "https://www.itsnicethat.com/articles/adobe-99u-creative-industry-sponsored-content-191026",
             "event_key": "adobe-99u-human-judgment-20261019",
@@ -127,7 +127,7 @@
               "article_http_status": 200,
               "image_http_status": 200
             },
-            "insight": "AI普及后，判断力比产出速度更稀缺: 把时间留给筛选、打磨与表达，让工具服务于创意意图。"
+            "insight": "让AI提效服务小度设计判断。运营素材交给AI适配，把关品牌一致与屏幕可读性。"
           },
           {
             "brand": "Wallpaper*",
@@ -137,9 +137,9 @@
             "type": "跨行业趋势 / 时尚与色彩",
             "display_type": "跨行业趋势 / 时尚与色彩",
             "focus": "UI",
-            "insight_headline": "单一色彩让廓形与材质成为焦点",
-            "insight_detail": "减少色彩干扰，以轮廓、纹理和构造建立视觉张力。",
-            "insight_emphasis": "轮廓、纹理和构造",
+            "insight_headline": "用材质层次统一小度软硬件气质",
+            "insight_detail": "智能屏主题与产品宣传减少杂色，以轮廓和质感建立辨识度。",
+            "insight_emphasis": "轮廓和质感",
             "published": "2026-08-24",
             "url": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
             "event_key": "wallpaper-black-fashion-aw2026-20260824",
@@ -165,12 +165,12 @@
               "article_http_status": 200,
               "image_http_status": 200
             },
-            "insight": "单一色彩让廓形与材质成为焦点: 减少色彩干扰，以轮廓、纹理和构造建立视觉张力。"
+            "insight": "用材质层次统一小度软硬件气质。智能屏主题与产品宣传减少杂色，以轮廓和质感建立辨识度。"
           }
         ]
       },
       "competitors": {
-        "summary": "本期竞品观察：从摄像头覆盖到区域化家电体验与本地家庭中枢，竞品持续整合家庭设备和主动服务。",
+        "summary": "围绕小度家庭看护与全屋控制，关注摄像头视角组织、地域场景配置，以及本地能力和联网状态的清晰呈现。",
         "notice": "本期收录3篇：Ring、Samsung 与 UGREEN 的家庭硬件/生态动态；均核对官方或品牌原文、发布日期及相关图片。",
         "delivery": "published",
         "items": [
@@ -182,9 +182,9 @@
             "type": "智能家居 / 摄像头与家庭安防",
             "display_type": "智能家居 / 摄像头与家庭安防",
             "focus": "UI",
-            "insight_headline": "摄像头覆盖要适配居家动线",
-            "insight_detail": "室内以转向追踪扩大视野，室外提供多种供电与安装选择。",
-            "insight_emphasis": "适配居家动线",
+            "insight_headline": "小度家庭看护应突出关键画面",
+            "insight_detail": "按门口、客厅组织视角，清楚呈现转向状态与隐私提示。",
+            "insight_emphasis": "转向状态与隐私提示",
             "published": "2026-10-07",
             "url": "https://www.aboutamazon.com/news/devices/ring-4k-cameras-pan-tilt-cam",
             "event_key": "ring-4k-camera-family-20261007",
@@ -211,7 +211,7 @@
               "image_http_status": 200,
               "body_excerpt": "Ring发布四款新的4K摄像头与一款支持转向的2K室内摄像头。室内机支持360度水平覆盖、175度俯仰；官方列出各型号地区可购买及预售状态。"
             },
-            "insight": "摄像头覆盖要适配居家动线：室内以转向追踪扩大视野，室外提供多种供电与安装选择。"
+            "insight": "小度家庭看护应突出关键画面。按门口、客厅组织视角，清楚呈现转向状态与隐私提示。"
           },
           {
             "brand": "Samsung",
@@ -221,9 +221,9 @@
             "type": "智能家居 / 家电与家庭生态",
             "display_type": "智能家居 / 家电与家庭生态",
             "focus": "UI",
-            "insight_headline": "家庭方案要回应当地生活方式",
-            "insight_detail": "以区域需求组织设备、服务与联动体验，而非统一复制。",
-            "insight_emphasis": "区域生活方式",
+            "insight_headline": "小度家庭场景需适配地域习惯",
+            "insight_detail": "围绕当地作息与家电组合安排入口，减少重复配置。",
+            "insight_emphasis": "当地作息与家电组合",
             "published": "2026-10-20",
             "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
             "event_key": "samsung-the-brief-regional-ai-home-20261020",
@@ -249,7 +249,7 @@
               "article_http_status": 200,
               "image_http_status": 200
             },
-            "insight": "家庭方案要回应当地生活方式: 以区域需求组织设备、服务与联动体验，而非统一复制。"
+            "insight": "小度家庭场景需适配地域习惯。围绕当地作息与家电组合安排入口，减少重复配置。"
           },
           {
             "brand": "UGREEN / 安克生态",
@@ -259,9 +259,9 @@
             "type": "智能家居 / 家庭中枢与本地控制",
             "display_type": "智能家居 / 家庭中枢与本地控制",
             "focus": "UI",
-            "insight_headline": "家庭中枢强调本地处理与统一控制",
-            "insight_detail": "把影像、语音和设备控制放在同一家庭系统中。",
-            "insight_emphasis": "本地处理与统一控制",
+            "insight_headline": "小度全屋控制应让本地状态可见",
+            "insight_detail": "中控界面区分本地与联网能力，让离线可用范围清楚可查。",
+            "insight_emphasis": "离线可用范围",
             "published": "2026-09-09",
             "url": "https://ai.ugreen.com/blogs/news/ugreen-smart-living-launch-event-homeagent",
             "event_key": "ugreen-homeagent-local-ai-hub-20260909",
@@ -287,7 +287,7 @@
               "article_http_status": 200,
               "image_http_status": 200
             },
-            "insight": "家庭中枢强调本地处理与统一控制: 把影像、语音和设备控制放在同一家庭系统中。"
+            "insight": "小度全屋控制应让本地状态可见。中控界面区分本地与联网能力，让离线可用范围清楚可查。"
           }
         ]
       }
