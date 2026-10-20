@@ -24,10 +24,10 @@
             "url": "https://www.ithome.com/1/007/071.htm",
             "event_key": "issue38-visual-mac-20261020",
             "source_label": "IT之家 · 9to5Mac界面观察编译",
-            "insight_headline": "统一细节可让界面更清爽",
-            "insight_detail": "小度大屏可参考圆角与图标的统一，减少视觉干扰。",
-            "insight_emphasis": "圆角与图标的统一",
-            "insight": "统一细节可让界面更清爽。小度大屏可参考圆角与图标的统一，减少视觉干扰。",
+            "insight_headline": "图标与圆角形成统一视觉秩序",
+            "insight_detail": "统一组件细节并精简菜单，让关键信息更突出、界面更清爽。",
+            "insight_emphasis": "精简菜单",
+            "insight": "图标与圆角形成统一视觉秩序。统一组件细节并精简菜单，让关键信息更突出、界面更清爽。",
             "images": [
               {
                 "url": "./cover-visual38-mac.webp",
@@ -61,10 +61,10 @@
             "url": "https://www.ithome.com/1/014/232.htm",
             "event_key": "issue38-visual-font-20261020",
             "source_label": "IT之家 · 微软设计博客中文编译",
-            "insight_headline": "手写气质可与清晰字形兼顾",
-            "insight_detail": "文化主题视觉可借鉴笔画节奏，长文仍宜优先可读性。",
+            "insight_headline": "历史手稿转译为清晰的数字字形",
+            "insight_detail": "保留笔画节奏与字形个性，通过四种样式覆盖不同排版场景。",
             "insight_emphasis": "笔画节奏",
-            "insight": "手写气质可与清晰字形兼顾。文化主题视觉可借鉴笔画节奏，长文仍宜优先可读性。",
+            "insight": "历史手稿转译为清晰的数字字形。保留笔画节奏与字形个性，通过四种样式覆盖不同排版场景。",
             "images": [
               {
                 "url": "./cover-visual38-font.webp",
@@ -98,10 +98,10 @@
             "url": "https://news.samsung.com/tw/三星於2026首爾設計週推出《design-is-an-act-of-love》特展",
             "event_key": "reselected-t38-expressive-20261020",
             "source_label": "三星中文新闻中心 · 设计理念观察",
-            "insight_headline": "品牌表达可保留多元创作空间",
-            "insight_detail": "适合主题活动的视觉延展，可用统一轮廓串联不同风格。",
-            "insight_emphasis": "统一轮廓",
-            "insight": "品牌表达可保留多元创作空间。适合主题活动的视觉延展，可用统一轮廓串联不同风格。",
+            "insight_headline": "多元艺术风格与实体画框相互呼应",
+            "insight_detail": "用统一的屏幕轮廓承载不同色彩与作品，让展示更具个性。",
+            "insight_emphasis": "统一的屏幕轮廓",
+            "insight": "多元艺术风格与实体画框相互呼应。用统一的屏幕轮廓承载不同色彩与作品，让展示更具个性。",
             "images": [
               {
                 "url": "./cover-reselect-t38-expressive.webp",
@@ -141,10 +141,10 @@
             "url": "https://www.aqara.cn/cn/2095818917353144321",
             "event_key": "reselected-c38-v1-20261020",
             "source_label": "Aqara中国官网 · 中文新品发布",
-            "insight_headline": "桌面中控可探索轻触与旋转分工",
-            "insight_detail": "精细调节适合配合刻度反馈，夜间可减少待机亮光。",
-            "insight_emphasis": "刻度反馈",
-            "insight": "桌面中控可探索轻触与旋转分工。精细调节适合配合刻度反馈，夜间可减少待机亮光。",
+            "insight_headline": "旋钮、触屏与动作形成多种控制入口",
+            "insight_detail": "旋转用于精细调节，靠近唤醒与全黑息屏兼顾即时操作与待机。",
+            "insight_emphasis": "靠近唤醒与全黑息屏",
+            "insight": "旋钮、触屏与动作形成多种控制入口。旋转用于精细调节，靠近唤醒与全黑息屏兼顾即时操作与待机。",
             "images": [
               {
                 "url": "./cover-reselect-c38-v1.webp",
@@ -177,10 +177,10 @@
             "url": "https://news.samsung.com/tw/三星藝術市集擴充陣容　獨家呈獻大英博物館30件經",
             "event_key": "reselected-c38-art-20261020",
             "source_label": "三星中文新闻中心 · 内容服务更新",
-            "insight_headline": "闲置屏幕可尝试场景化内容策展",
-            "insight_detail": "展示艺术内容时，适合保留作品来源与订阅提示。",
-            "insight_emphasis": "作品来源与订阅提示",
-            "insight": "闲置屏幕可尝试场景化内容策展。展示艺术内容时，适合保留作品来源与订阅提示。",
+            "insight_headline": "艺术内容把闲置大屏转为展示空间",
+            "insight_detail": "馆藏作品进入家庭场景，屏幕内容与客厅陈设形成新的联系。",
+            "insight_emphasis": "馆藏作品",
+            "insight": "艺术内容把闲置大屏转为展示空间。馆藏作品进入家庭场景，屏幕内容与客厅陈设形成新的联系。",
             "images": [
               {
                 "url": "./cover-reselect-c38-art.webp",
@@ -213,10 +213,10 @@
             "url": "https://m.ithome.com/html/1010994.htm",
             "event_key": "reselected-c38-camera3-20261020",
             "source_label": "IT之家 · 官方商品信息图文报道",
-            "insight_headline": "看护提醒可围绕家庭角色分层",
-            "insight_detail": "共享设备时，适合先区分通知对象与查看范围。",
-            "insight_emphasis": "通知对象与查看范围",
-            "insight": "看护提醒可围绕家庭角色分层。共享设备时，适合先区分通知对象与查看范围。",
+            "insight_headline": "家庭看护围绕不同场景组织识别",
+            "insight_detail": "居家、幼儿与宠物检测配合家人共享，连接不同终端的查看入口。",
+            "insight_emphasis": "家人共享",
+            "insight": "家庭看护围绕不同场景组织识别。居家、幼儿与宠物检测配合家人共享，连接不同终端的查看入口。",
             "images": [
               {
                 "url": "./cover-reselect-c38-camera3.webp",
@@ -245,9 +245,11 @@
       "revised_at": "2026-10-20",
       "chinese_first": true,
       "uisdc_max": 1,
-      "insight": "有适用条件的建议；仅关联自然时提及小度；不作绝对结论",
+      "insight": "只写文章本身的设计亮点或体验变化，不写小度或业务建议",
       "scope": "只重选测试第37、38期，原始日期键与其他往期保持一致",
-      "visual_reading": "多组实图、短说明、轻阅读；优设需比较真实点赞和收藏，每期最多1篇"
+      "visual_reading": "多组实图、短说明、轻阅读；优设需比较真实点赞和收藏，每期最多1篇",
+      "article_count": "每板块至少3篇，优质内容不设数量上限",
+      "selection": "近期热议的互联网设计趋势为主；中文多图、轻阅读；优设最多1篇，比较点赞与收藏"
     }
   },
   {
@@ -275,10 +277,10 @@
             "url": "https://www.uisdc.com/cut-drawing-time",
             "event_key": "reselected-t37-workflow-20261020",
             "source_label": "优设 · 多位设计师观点整理",
-            "insight_headline": "可把评审前移到可运行原型",
-            "insight_detail": "复杂交互适合边试边改，以真实状态检验视觉方案。",
+            "insight_headline": "可运行原型连接设计探索与团队协作",
+            "insight_detail": "以真实状态呈现交互，讨论从静态画稿走向可体验方案的变化。",
             "insight_emphasis": "真实状态",
-            "insight": "可把评审前移到可运行原型。复杂交互适合边试边改，以真实状态检验视觉方案。",
+            "insight": "可运行原型连接设计探索与团队协作。以真实状态呈现交互，讨论从静态画稿走向可体验方案的变化。",
             "images": [
               {
                 "url": "./cover-reselect-t37-workflow.webp",
@@ -311,10 +313,10 @@
             "url": "https://www.smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
             "event_key": "reselected-t37-intent-20261020",
             "source_label": "Smashing · 作者观察 · 中文概述",
-            "insight_headline": "复杂任务可尝试意图式入口",
-            "insight_detail": "先保留关键确认，再以进度与结果反馈减少盲等。",
-            "insight_emphasis": "进度与结果反馈",
-            "insight": "复杂任务可尝试意图式入口。先保留关键确认，再以进度与结果反馈减少盲等。",
+            "insight_headline": "任务意图成为组织交互的入口",
+            "insight_detail": "将任务输入、进度反馈与关键确认串联，呈现复杂操作的执行过程。",
+            "insight_emphasis": "进度反馈与关键确认",
+            "insight": "任务意图成为组织交互的入口。将任务输入、进度反馈与关键确认串联，呈现复杂操作的执行过程。",
             "images": [
               {
                 "url": "./cover-reselect-t37-intent.webp",
@@ -347,10 +349,10 @@
             "url": "https://www.tatlerasia.com/lifestyle/arts/maisonobjet-fair-and-paris-design-week-in-september-zh-hans",
             "event_key": "reselected-t37-paris-20261020",
             "source_label": "Tatler Asia · 中文展会趋势观察",
-            "insight_headline": "跨行业视觉可借鉴手工肌理",
-            "insight_detail": "品牌活动适合从在地材料提炼图形，避免直接拼贴风格。",
-            "insight_emphasis": "在地材料",
-            "insight": "跨行业视觉可借鉴手工肌理。品牌活动适合从在地材料提炼图形，避免直接拼贴风格。",
+            "insight_headline": "工艺与再生材料融合多感官表达",
+            "insight_detail": "织物、纸艺和灯具呈现在地材料的肌理，让视觉与触感相互呼应。",
+            "insight_emphasis": "在地材料的肌理",
+            "insight": "工艺与再生材料融合多感官表达。织物、纸艺和灯具呈现在地材料的肌理，让视觉与触感相互呼应。",
             "images": [
               {
                 "url": "./cover-reselect-t37-paris.webp",
@@ -390,10 +392,10 @@
             "url": "https://www.aqara.cn/cn/2095816704408125441",
             "event_key": "reselected-c37-l1-20261020",
             "source_label": "Aqara中国官网 · 中文新品发布",
-            "insight_headline": "可尝试统一墙面设备的视觉秩序",
-            "insight_detail": "联排中控与开关时，可用材质和间距保持整体感。",
-            "insight_emphasis": "材质和间距",
-            "insight": "可尝试统一墙面设备的视觉秩序。联排中控与开关时，可用材质和间距保持整体感。",
+            "insight_headline": "玻璃面板整合双生态墙面控制",
+            "insight_detail": "米家与苹果家庭双生态接入，AG玻璃统一墙面观感。",
+            "insight_emphasis": "AG玻璃",
+            "insight": "玻璃面板整合双生态墙面控制。米家与苹果家庭双生态接入，AG玻璃统一墙面观感。",
             "images": [
               {
                 "url": "./cover-reselect-c37-l1.webp",
@@ -426,10 +428,10 @@
             "url": "https://www.ithome.com/1/013/630.htm",
             "event_key": "reselected-c37-huawei-20261020",
             "source_label": "IT之家 · 华为官方更新图文报道",
-            "insight_headline": "跨端接续值得保留清晰操作边界",
-            "insight_detail": "小度大屏可参考投屏与遥控的状态提示，减少操作猜测。",
-            "insight_emphasis": "状态提示",
-            "insight": "跨端接续值得保留清晰操作边界。小度大屏可参考投屏与遥控的状态提示，减少操作猜测。",
+            "insight_headline": "投屏与遥控形成更连贯的跨端入口",
+            "insight_detail": "一遥两控与快捷投屏串联操作，艺术边框丰富闲置屏幕。",
+            "insight_emphasis": "一遥两控与快捷投屏",
+            "insight": "投屏与遥控形成更连贯的跨端入口。一遥两控与快捷投屏串联操作，艺术边框丰富闲置屏幕。",
             "images": [
               {
                 "url": "./cover-reselect-c37-huawei.webp",
@@ -462,10 +464,10 @@
             "url": "https://www.ithome.com/1/012/452.htm",
             "event_key": "reselected-c37-camera4-20261020",
             "source_label": "IT之家 · 小米官方开售图文报道",
-            "insight_headline": "主动呼叫可兼顾实体与手势入口",
-            "insight_detail": "面向儿童或长辈，可用低学习成本动作发起通话。",
-            "insight_emphasis": "低学习成本动作",
-            "insight": "主动呼叫可兼顾实体与手势入口。面向儿童或长辈，可用低学习成本动作发起通话。",
+            "insight_headline": "实体按键与手势形成双呼叫入口",
+            "insight_detail": "OK手势和通话键并行，连接微信与米家，让家人沟通更直接。",
+            "insight_emphasis": "OK手势和通话键",
+            "insight": "实体按键与手势形成双呼叫入口。OK手势和通话键并行，连接微信与米家，让家人沟通更直接。",
             "images": [
               {
                 "url": "./cover-reselect-c37-camera4.webp",
@@ -494,8 +496,10 @@
       "revised_at": "2026-10-20",
       "chinese_first": true,
       "uisdc_max": 1,
-      "insight": "有适用条件的建议；仅关联自然时提及小度；不作绝对结论",
-      "scope": "只重选测试第37、38期，原始日期键与其他往期保持一致"
+      "insight": "只写文章本身的设计亮点或体验变化，不写小度或业务建议",
+      "scope": "只重选测试第37、38期，原始日期键与其他往期保持一致",
+      "article_count": "每板块至少3篇，优质内容不设数量上限",
+      "selection": "近期热议的互联网设计趋势为主；中文多图、轻阅读；优设最多1篇，比较点赞与收藏"
     }
   },
   {
