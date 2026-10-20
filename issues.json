@@ -9,8 +9,8 @@
     "test_note": "测试发布·本期为真实文章内容，仅第38期期号用于规则验证。",
     "sections": {
       "trends": {
-        "summary": "本期设计观察：品牌视觉从繁复表达中寻找差异，跨行业色彩趋势以主题化组合传递情绪。",
-        "notice": "测试期号，仅2篇通过核验：D&AD评审趋势与Pantone跨行业色彩观察；原文可读，封面取自原文配图。",
+        "summary": "本期设计观察：大胆品牌表达、情绪化配色与人本创作并行，时尚视觉回归黑色轮廓与材质表达。",
+        "notice": "本期收录4篇：聚焦品牌视觉、跨行业色彩、AI时代创作判断与时尚色彩趋势；各条均核对原文正文与配图。",
         "delivery": "published",
         "items": [
           {
@@ -90,12 +90,88 @@
               "body_excerpt": "Pantone称新增颜色体现当下对繁复主义的诠释，丰富用色应围绕色彩带来的感受与视觉世界展开，并提供四组主题配色。"
             },
             "insight": "多色组合需要明确的情绪主题：用色彩关系组织丰富层次，让“更多”仍有方向。"
+          },
+          {
+            "brand": "It’s Nice That × Adobe 99U",
+            "title": "AI 让创作更快，设计判断与手艺更显价值",
+            "original_title": "When anyone can make anything, personal taste and craftsmanship matters more than ever",
+            "overview": "Adobe 99U 会议讨论认为，AI降低制作门槛后，创意差异更多来自选题、审美判断、迭代与个人表达；文章为 It’s Nice That 的品牌赞助报道。",
+            "type": "数字设计 / AI创作趋势",
+            "display_type": "数字设计 / AI创作趋势",
+            "focus": "UI",
+            "insight_headline": "AI普及后，判断力比产出速度更稀缺",
+            "insight_detail": "把时间留给筛选、打磨与表达，让工具服务于创意意图。",
+            "insight_emphasis": "判断力比产出速度更稀缺",
+            "published": "2026-10-19",
+            "url": "https://www.itsnicethat.com/articles/adobe-99u-creative-industry-sponsored-content-191026",
+            "event_key": "adobe-99u-human-judgment-20261019",
+            "source_label": "It’s Nice That × Adobe 99U 活动报道 · 中文概述",
+            "source_kind": "设计媒体品牌合作报道",
+            "verification_notes": "页面显示标题、日期2026-10-19和完整正文；标注为Sponsored Content。文中综述Adobe 99U多个演讲关于AI、审美判断、手工艺、迭代与创作意图的讨论。原图为文章正文会场照片。",
+            "images": [
+              {
+                "url": "./cover-test38-itsnicethat.jpg",
+                "caption": "It’s Nice That 原文图：Adobe 99U 会场视觉",
+                "source": "https://www.itsnicethat.com/articles/adobe-99u-creative-industry-sponsored-content-191026",
+                "original_url": "https://m.itsnicethat.com/original_images/adobe-99u-creative-industry-news-itsnicethat-6.jpg?class=w1080",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/adobe-99u-human-judgment-20261019.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-19",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200
+            },
+            "insight": "AI普及后，判断力比产出速度更稀缺: 把时间留给筛选、打磨与表达，让工具服务于创意意图。"
+          },
+          {
+            "brand": "Wallpaper*",
+            "title": "秋冬时装以黑色回归鲜明轮廓与克制表达",
+            "original_title": "Why did the colour black take over this season’s runways?",
+            "overview": "Wallpaper*观察2026秋冬系列中黑色集中回归；纯色让廓形、质地与穿着者表达更突出，文章比较多个品牌系列，不是单一品牌发布。",
+            "type": "跨行业趋势 / 时尚与色彩",
+            "display_type": "跨行业趋势 / 时尚与色彩",
+            "focus": "UI",
+            "insight_headline": "单一色彩让廓形与材质成为焦点",
+            "insight_detail": "减少色彩干扰，以轮廓、纹理和构造建立视觉张力。",
+            "insight_emphasis": "轮廓、纹理和构造",
+            "published": "2026-08-24",
+            "url": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
+            "event_key": "wallpaper-black-fashion-aw2026-20260824",
+            "source_label": "Wallpaper* 时尚趋势观察 · 中文概述",
+            "source_kind": "Wallpaper* 时尚专题文章",
+            "verification_notes": "页面显示标题、作者和发布日期2026-08-24，正文直接可读，逐段分析多个品牌2026秋冬系列黑色趋势，并含多张时装照片；非单一作品教程。原图来自文章主图。",
+            "images": [
+              {
+                "url": "./cover-test38-wallpaper.jpg",
+                "caption": "Wallpaper* 原文配图：2026秋冬黑色造型趋势",
+                "source": "https://www.wallpaper.com/fashion-beauty/black-fashion-trend-aw-2026",
+                "original_url": "https://cdn.mos.cms.futurecdn.net/knWPu84CCrSWqTqzDiyeS3.jpg",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/wallpaper-black-fashion-aw2026-20260824.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-08-24",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200
+            },
+            "insight": "单一色彩让廓形与材质成为焦点: 减少色彩干扰，以轮廓、纹理和构造建立视觉张力。"
           }
         ]
       },
       "competitors": {
-        "summary": "本期竞品观察：Ring 扩展室内外家庭安防摄像头，兼顾画质、视野覆盖与安装方式。",
-        "notice": "测试期号，仅收录1篇：官方原文可读、含相关产品图且未与往期事件重复；其他候选因重复或缺少相关图片剔除。",
+        "summary": "本期竞品观察：从摄像头覆盖到区域化家电体验与本地家庭中枢，竞品持续整合家庭设备和主动服务。",
+        "notice": "本期收录3篇：Ring、Samsung 与 UGREEN 的家庭硬件/生态动态；均核对官方或品牌原文、发布日期及相关图片。",
         "delivery": "published",
         "items": [
           {
@@ -136,6 +212,82 @@
               "body_excerpt": "Ring发布四款新的4K摄像头与一款支持转向的2K室内摄像头。室内机支持360度水平覆盖、175度俯仰；官方列出各型号地区可购买及预售状态。"
             },
             "insight": "摄像头覆盖要适配居家动线：室内以转向追踪扩大视野，室外提供多种供电与安装选择。"
+          },
+          {
+            "brand": "Samsung",
+            "title": "三星在多地展示因地制宜的 AI 家居方案",
+            "original_title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
+            "overview": "三星10月20日汇总五大区域家居体验：从 SmartThings 互联到节能家电与家庭关怀，并于10月14日在河内展示家用及商用场景。",
+            "type": "智能家居 / 家电与家庭生态",
+            "display_type": "智能家居 / 家电与家庭生态",
+            "focus": "UI",
+            "insight_headline": "家庭方案要回应当地生活方式",
+            "insight_detail": "以区域需求组织设备、服务与联动体验，而非统一复制。",
+            "insight_emphasis": "区域生活方式",
+            "published": "2026-10-20",
+            "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
+            "event_key": "samsung-the-brief-regional-ai-home-20261020",
+            "source_label": "Samsung Global Newsroom 官方报道 · 中文概述",
+            "source_kind": "Samsung 官方家居体验报道",
+            "verification_notes": "Samsung Global Newsroom 页面显示2026-10-20，正文按区域介绍家电和SmartThings体验，含原图及图注。准确区分：页面发布日为10月20日，河内活动日为10月14日；其他区域活动日期各异。",
+            "images": [
+              {
+                "url": "./cover-test38-samsung.jpg",
+                "caption": "Samsung 原文配图：AI Vision 与 AI Pro Cooking 家庭演示",
+                "source": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
+                "original_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/19160856/Samsung-Corporate-The-Brief-Global-with-AI-Powered-Home-Appliances_Main1.jpg",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/samsung-the-brief-regional-ai-home-20261020.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-20",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200
+            },
+            "insight": "家庭方案要回应当地生活方式: 以区域需求组织设备、服务与联动体验，而非统一复制。"
+          },
+          {
+            "brand": "UGREEN / 安克生态",
+            "title": "UGREEN 推出 HomeAgent 本地 AI 家庭中枢",
+            "original_title": "Smarter Living Starts Here: We Unveiled HomeAgent at Gillette Stadium",
+            "overview": "UGREEN公布 HomeAgent 本地 AI 中枢及摄像头、智能音箱、电子相框生态，可在本地识别家庭事件，并通过 Matter 管理兼容设备。",
+            "type": "智能家居 / 家庭中枢与本地控制",
+            "display_type": "智能家居 / 家庭中枢与本地控制",
+            "focus": "UI",
+            "insight_headline": "家庭中枢强调本地处理与统一控制",
+            "insight_detail": "把影像、语音和设备控制放在同一家庭系统中。",
+            "insight_emphasis": "本地处理与统一控制",
+            "published": "2026-09-09",
+            "url": "https://ai.ugreen.com/blogs/news/ugreen-smart-living-launch-event-homeagent",
+            "event_key": "ugreen-homeagent-local-ai-hub-20260909",
+            "source_label": "UGREEN 官方发布 · 中文概述",
+            "source_kind": "UGREEN 官方智能家居发布",
+            "verification_notes": "UGREEN 官方文章显示2026-09-09，正文直接介绍9月1日发布活动、HomeAgent中枢及关联产品，9月4日开启预订；日期按官网文章发布日期记。原文含产品图、演示图及功能说明。",
+            "images": [
+              {
+                "url": "./cover-test38-ugreen.png",
+                "caption": "UGREEN 原文配图：HomeAgent 家庭中枢及设备生态",
+                "source": "https://ai.ugreen.com/blogs/news/ugreen-smart-living-launch-event-homeagent",
+                "original_url": "https://cdn.shopify.com/s/files/1/0630/9416/1602/files/UGREEN_HomeAgent.png?v=1788916953",
+                "kind": "article-body"
+              }
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-20",
+            "evidence": {
+              "file": "evidence/ugreen-homeagent-local-ai-hub-20260909.json",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-09",
+              "checked_at": "2026-10-20",
+              "article_http_status": 200,
+              "image_http_status": 200
+            },
+            "insight": "家庭中枢强调本地处理与统一控制: 把影像、语音和设备控制放在同一家庭系统中。"
           }
         ]
       }
