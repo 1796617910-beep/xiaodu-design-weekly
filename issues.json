@@ -1,5 +1,357 @@
 [
   {
+    "start": "2026-10-23",
+    "end": "2026-10-25",
+    "display_start": "2026-10-19",
+    "display_end": "2026-10-23",
+    "generated_at": "2026-10-23",
+    "test_mode": true,
+    "test_note": "测试发布·真实文章内容，仅第37期期号用于规则验证",
+    "sections": {
+      "trends": {
+        "summary": "本期观察圆屏信息层级、克制的立体表情与系统空间视觉，再以宜家纸艺和条纹补充跨行业视觉表达。均以可直接阅读的多图正文说明变化。",
+        "notice": "真实采集并核实来源、日期、原图与历史去重；观点为编辑提炼，媒体报道与官方发布分别署名。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Samsung Design",
+            "title": "圆屏设计：信息跨屏展开",
+            "overview": "三星官方设计团队以多组表盘与手机界面说明：圆形屏幕按重要性组织信息，字体变化时调整布局，再将健康详情延伸到手机。配图为设计示意，非全部产品实拍。",
+            "type": "UI / 圆屏与跨设备",
+            "display_type": "UI / 圆屏与跨设备",
+            "focus": "UI",
+            "published": "2026-09-18",
+            "url": "https://www.design.samsung.com/global/contents/view/one-ui-9-watch",
+            "event_key": "test37-watch-2026-09-18",
+            "source_label": "Samsung Design · 官方",
+            "insight_headline": "圆形布局把信息主次落到视线",
+            "insight_detail": "以放射层级呈现状态，手机承接详情，保持跨屏阅读连续。",
+            "insight_emphasis": "放射层级",
+            "insight": "圆形布局把信息主次落到视线。以放射层级呈现状态，手机承接详情，保持跨屏阅读连续。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-watch.webp",
+                "original_url": "https://www.design.samsung.com/didesign/contents_file_eng/one-ui-9-watch/media/01_Trail_running_01_img2.png",
+                "source": "https://www.design.samsung.com/global/contents/view/one-ui-9-watch",
+                "caption": "圆形屏幕的运动状态界面",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "iot",
+              "cross-device",
+              "interaction",
+              "design-system"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "圆屏信息架构、响应字体和手表到手机的层级衔接，官方设计团队署名，18组图像说明。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-18",
+              "checked_at": "2026-10-23",
+              "body_image_count": 18,
+              "original_image_local": true
+            }
+          },
+          {
+            "brand": "Google · Noto",
+            "title": "立体表情：细节克制",
+            "overview": "IT之家编译Google Design的Noto 3D设计说明，以表情、动物与暗色背景示例展示：保留少量识别特征，在小尺寸和不同背景下仍清楚传达情绪。并非本周首次发布表情库。",
+            "type": "图标 / 立体表情",
+            "display_type": "图标 / 立体表情",
+            "focus": "UI",
+            "published": "2026-09-18",
+            "url": "https://www.ithome.com/1/003/879.htm",
+            "event_key": "test37-noto-2026-09-18",
+            "source_label": "IT之家 · 谷歌设计编译",
+            "insight_headline": "立体表情保留最少的识别特征",
+            "insight_detail": "精简材质与细节，让小尺寸表情和暗色背景中的轮廓更清楚。",
+            "insight_emphasis": "小尺寸表情",
+            "insight": "立体表情保留最少的识别特征。精简材质与细节，让小尺寸表情和暗色背景中的轮廓更清楚。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-noto.webp",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/9/8a58fd9f-4884-4844-ae46-4ff2d3d9390d.png",
+                "source": "https://www.ithome.com/1/003/879.htm",
+                "caption": "Noto 3D 表情的形态与细节对照",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "icons-type",
+              "visual"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "中文正文直接可读，5组设计图；逐项对应Google Design原文，不将9月报道日期冒充5月产品首发。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-18",
+              "checked_at": "2026-10-23",
+              "body_image_count": 5,
+              "original_image_local": true
+            },
+            "original_source": "https://design.google/library/noto-3d-emoji-design"
+          },
+          {
+            "brand": "华为 · HarmonyOS",
+            "title": "空间时钟：照片前后叠合",
+            "overview": "IT之家发布会报道展示鸿蒙7的空间时钟、3D壁纸与通知中心材质。本文仅观察照片、时钟及界面层次的视觉变化；9月7日为报道及公测开启日，不是6月开发者版本首发。",
+            "type": "UI / 空间视觉",
+            "display_type": "UI / 空间视觉",
+            "focus": "UI",
+            "published": "2026-09-07",
+            "url": "https://www.ithome.com/0/999/277.htm",
+            "event_key": "test37-huawei-2026-09-07",
+            "source_label": "IT之家 · 发布会报道",
+            "insight_headline": "时钟与照片形成前后空间层次",
+            "insight_detail": "让主体与数字交错叠合，配合半透明材质区分界面层级。",
+            "insight_emphasis": "交错叠合",
+            "insight": "时钟与照片形成前后空间层次。让主体与数字交错叠合，配合半透明材质区分界面层级。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-huawei.webp",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/9/aea380d4-276b-4cee-b20b-8dbdcd184fed.jpg",
+                "source": "https://www.ithome.com/0/999/277.htm",
+                "caption": "发布会展示的空间时钟与壁纸界面",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "interaction",
+              "design-system",
+              "visual"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "头部品牌系统视觉变化，有15张现场图；对照华为官网确认空间时钟与材质设计，不以普通手机规格充当趋势。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-07",
+              "checked_at": "2026-10-23",
+              "body_image_count": 15,
+              "original_image_local": true
+            },
+            "original_source": "https://consumer.huawei.com/cn/harmonyos-7/"
+          },
+          {
+            "brand": "IKEA · 宜家",
+            "title": "节日视觉：纸艺与条纹",
+            "overview": "宜家官方用两组节日视觉表达呈现传统与玩趣：从民俗配色到鲜明条纹、对称折纸和蜂窝纸结构，多组场景图说明图案如何延伸到包装、挂饰与空间。观察范围为该品牌本季系列。",
+            "type": "跨行业 / 色彩与纸艺",
+            "display_type": "跨行业 / 色彩与纸艺",
+            "focus": "UI",
+            "published": "2026-09-08",
+            "url": "https://www.ikea.com/global/en/newsroom/retail/winter-celebrations-2026-260908/",
+            "event_key": "test37-ikea-global-2026-09-08",
+            "source_label": "IKEA 官方 · 中文概述",
+            "insight_headline": "纸艺结构与条纹构成节日节奏",
+            "insight_detail": "以对称折叠和鲜明配色串联包装与挂饰，形成统一的视觉气氛。",
+            "insight_emphasis": "对称折叠",
+            "insight": "纸艺结构与条纹构成节日节奏。以对称折叠和鲜明配色串联包装与挂饰，形成统一的视觉气氛。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-ikea-global.webp",
+                "original_url": "https://www.ikea.com/global/en/media/PE_1022002_6044a4104d.jpg",
+                "source": "https://www.ikea.com/global/en/newsroom/retail/winter-celebrations-2026-260908/",
+                "caption": "官方正文中的彩色纸艺挂饰",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "visual"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "官方多图解释纸艺、图形和色彩表达；作为本期唯一跨行业补充，不泛化为整个家居行业趋势。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-08",
+              "checked_at": "2026-10-23",
+              "body_image_count": 20,
+              "original_image_local": true
+            }
+          }
+        ]
+      },
+      "competitors": {
+        "summary": "本期关注家庭状态如何被看见：通话前活动摘要、录像文字概括、分区感知与桌面中控，分别呈现家庭查看、感知和操作方式的变化。",
+        "notice": "真实采集并核实来源、日期、原图与历史去重；观点为编辑提炼，媒体报道与官方发布分别署名。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Amazon · Blink",
+            "title": "Blink：动态查看与摘要",
+            "overview": "Blink五款新摄像头在美国开放预订，加入云台追踪、照明和长距连接等形态。Mini 4K+的录像文字摘要需特定AI订阅，并受国家、语言与地区限制；预订不等于已发货。",
+            "type": "IoT / 家庭安防",
+            "display_type": "IoT / 家庭安防",
+            "focus": "IoT",
+            "published": "2026-10-21",
+            "url": "https://www.aboutamazon.com/news/devices/blink-4k-long-range-security-cameras",
+            "event_key": "test37-blink-2026-10-21",
+            "source_label": "Amazon 官方 · 中文概述",
+            "insight_headline": "视频摘要补充家庭动态的阅读入口",
+            "insight_detail": "以文字概括录像事件，配合云台视角查看活动，减少逐段回看。",
+            "insight_emphasis": "文字概括录像事件",
+            "insight": "视频摘要补充家庭动态的阅读入口。以文字概括录像事件，配合云台视角查看活动，减少逐段回看。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-blink.webp",
+                "original_url": "https://assets.aboutamazon.com/df/19/5c2f5e894c9d9be22bf00f3e860c/blinkcameras-hero-amazonnews-ck101925.jpg",
+                "source": "https://www.aboutamazon.com/news/devices/blink-4k-long-range-security-cameras",
+                "caption": "Blink五款新家庭摄像头官方产品图",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "iot",
+              "interaction"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "10月21日官方新发布；正文提供五款原图与功能边界，覆盖家庭安防设备的查看方式变化。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-21",
+              "checked_at": "2026-10-23",
+              "body_image_count": 6,
+              "original_image_local": true
+            }
+          },
+          {
+            "brand": "SmartThings",
+            "title": "家庭关怀：通话前看摘要",
+            "overview": "SmartThings在10月20日梳理Family Care：Care on Call于通话前显示活动摘要，长时间无活动时可由照护者远程调用机器人查看。文中回顾4月功能，非10月新增；机型、账号及地区有条件。",
+            "type": "IoT / 家庭关怀",
+            "display_type": "IoT / 家庭关怀",
+            "focus": "IoT",
+            "published": "2026-10-20",
+            "url": "https://blog.smartthings.com/smartthings-updates/smartthings-family-care-care-on-call-and-safety-patrol/",
+            "event_key": "test37-samsung-2026-10-20",
+            "source_label": "SmartThings 官方 · 中文概述",
+            "insight_headline": "通话前摘要串联活动与远程查看",
+            "insight_detail": "先呈现最近活动，再由照护者选择查看，保留人工确认环节。",
+            "insight_emphasis": "最近活动",
+            "insight": "通话前摘要串联活动与远程查看。先呈现最近活动，再由照护者选择查看，保留人工确认环节。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-samsung.webp",
+                "original_url": "https://blog.smartthings.com/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-9.14.23-PM.png",
+                "source": "https://blog.smartthings.com/smartthings-updates/smartthings-family-care-care-on-call-and-safety-patrol/",
+                "caption": "Family Care通话前活动摘要界面",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "iot",
+              "cross-device",
+              "interaction"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "10月官方完整体验说明，正文4组界面图；核实其回顾性质、人工派遣与设备地区条件，不将无活动等同跌倒。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-10-20",
+              "checked_at": "2026-10-23",
+              "body_image_count": 4,
+              "original_image_local": true
+            }
+          },
+          {
+            "brand": "Aqara · FP400",
+            "title": "FP400：房间分区感知",
+            "overview": "Aqara官方宣布FP400可用，以分区存在感知触发不同位置的自动化。文章于9月17日发布，稿内纽约日期为9月16日；Thread接入第三方平台仅提供整体存在与照度，分区能力有生态边界。",
+            "type": "IoT / 分区联动",
+            "display_type": "IoT / 分区联动",
+            "focus": "IoT",
+            "published": "2026-09-17",
+            "url": "https://www.aqara.com/en/news/spatial-multi-sensor-fp400-availability-announcement/",
+            "event_key": "test37-aqara-2026-09-17",
+            "source_label": "Aqara 官方 · 中文概述",
+            "insight_headline": "存在感知从整个房间细化到分区",
+            "insight_detail": "围绕人的位置触发灯光，分区联动与整体存在反馈分层呈现。",
+            "insight_emphasis": "人的位置",
+            "insight": "存在感知从整个房间细化到分区。围绕人的位置触发灯光，分区联动与整体存在反馈分层呈现。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-aqara.webp",
+                "original_url": "https://www.aqara.com/wp-content/uploads/2026/09/fp400-launch.png",
+                "source": "https://www.aqara.com/en/news/spatial-multi-sensor-fp400-availability-announcement/",
+                "caption": "FP400传感器与居家应用官方图",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "iot",
+              "interaction"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "官方可用性公告为实质新进展，区别年初CES预告；原图清晰，核实Thread第三方功能限制。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-09-17",
+              "checked_at": "2026-10-23",
+              "body_image_count": 1,
+              "original_image_local": true
+            }
+          },
+          {
+            "brand": "Aqara · 桌面中控",
+            "title": "桌面中控：触屏与旋钮",
+            "overview": "Aqara官方社区介绍S1 Plus EU与Dial V1桌面版：一款集中显示设备与门口画面，一款结合触屏、旋转及振动反馈。此次变化是桌面形态，不是原有墙面版首发；地区及兼容能力因型号而异。",
+            "type": "智能屏 / 控制交互",
+            "display_type": "智能屏 / 控制交互",
+            "focus": "IoT",
+            "published": "2026-08-28",
+            "url": "https://forum.aqara.com/t/introducing-2-new-aqara-desktop-controllers-panel-hub-s1-plus-eu-touchscreen-dial-v1/329131",
+            "event_key": "test37-aqara-desktop-2026-08-28",
+            "source_label": "Aqara 官方社区 · 中文概述",
+            "insight_headline": "触屏概览与旋钮微调形成互补",
+            "insight_detail": "把常用设备和场景放到桌面，旋转反馈让连续调节更明确。",
+            "insight_emphasis": "旋转反馈",
+            "insight": "触屏概览与旋钮微调形成互补。把常用设备和场景放到桌面，旋转反馈让连续调节更明确。",
+            "images": [
+              {
+                "url": "./cover-test37-20261023-aqara-desktop.webp",
+                "original_url": "https://forum-static.aqara.com/optimized/3X/8/b/8b21bea3cf11b63043c0f2db8680dd534ce4a5ec_2_1380x642.jpeg",
+                "source": "https://forum.aqara.com/t/introducing-2-new-aqara-desktop-controllers-panel-hub-s1-plus-eu-touchscreen-dial-v1/329131",
+                "caption": "S1 Plus EU桌面版官方场景图",
+                "kind": "article-body"
+              }
+            ],
+            "tags": [
+              "iot",
+              "screen-ui",
+              "voice",
+              "interaction"
+            ],
+            "cover_status": "verified-article-image",
+            "source_verified_at": "2026-10-23",
+            "verification_notes": "AqaraOfficial于8月28日发布；与既有墙面S1 Plus历史文章区分为桌面形态新进展，两个设备原图均已保存。",
+            "evidence": {
+              "archive": "reports/2026-10-23_test_issue_37",
+              "verified_body": true,
+              "verified_publication_date": "2026-08-28",
+              "checked_at": "2026-10-23",
+              "body_image_count": 2,
+              "original_image_local": true
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
     "start": "2026-10-12",
     "end": "2026-10-18",
     "display_start": "2026-10-19",
