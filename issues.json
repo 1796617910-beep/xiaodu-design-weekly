@@ -7,7 +7,7 @@
     "generated_at": "2026-11-09",
     "sections": {
       "trends": {
-        "summary": "从家庭面板的自动分区，到音乐 App 的跨端视觉，再看一条飘带如何贯穿交响乐团的品牌触点。",
+        "summary": "本期观察家庭面板的自动分区、音乐 App 的跨端视觉与交响乐团的品牌表达，并加入马来西亚通话界面的语言本地化案例。",
         "notice": "设计关注点为编辑提炼，产品发布、推送与预计上市时间按原文区分。",
         "delivery": "published",
         "items": [
@@ -106,6 +106,38 @@
                 "original_url": "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_18.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3020%2C1700&w=2000&s=b69b004847435759506e60d1180c83b7",
                 "source": "Pentagram 官方",
                 "caption": "乐团新视觉应用在场馆外墙与旗帜上",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Samsung · Galaxy AI",
+            "title": "马来西亚：双语通话字幕",
+            "overview": "三星马来西亚于 10 月 14 日宣布，马来语将加入通话翻译、口译、笔记和录音转录等功能。官方通话示意分别标出双方语言，并逐句显示英文与马来语字幕。三星称相关 Galaxy AI 语言随后数周分批推出。",
+            "display_type": "出海设计 / 语言本地化",
+            "published": "2026-10-14",
+            "source_label": "三星马来西亚官方",
+            "url": "https://news.samsung.com/my/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+            "original_title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+            "insight_headline": "双方语言在通话界面分开标示",
+            "insight_detail": "英文和马来语字幕逐句配对，保留原话与译文的对应关系。",
+            "insight_emphasis": "英文和马来语字幕逐句配对",
+            "tags": [
+              "voice",
+              "interaction"
+            ],
+            "type": "出海设计",
+            "focus": "语言本地化",
+            "event_key": "samsung-galaxy-ai-malay-language-20261014",
+            "insight": "双方语言在通话界面分开标示。英文和马来语字幕逐句配对，保留原话与译文的对应关系。",
+            "source_verified_at": "2026-11-09T18:47:00+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261109-samsung-malay.webp",
+                "original_url": "https://img.global.news.samsung.com/my/wp-content/uploads/2026/10/14200253/Live-Translate_Thumbnail_Malay-1000x563.png",
+                "source": "https://news.samsung.com/my/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+                "caption": "三星马来西亚官方通话翻译界面示意",
                 "kind": "article-body"
               }
             ]
