@@ -145,7 +145,7 @@
         ]
       },
       "competitors": {
-        "summary": "追踪家庭设备的控制与反馈：门锁模块融入门体，设备状态汇入日报，摄像头通过全景界面指定跟踪位置。",
+        "summary": "追踪家庭设备的控制与反馈：门锁模块融入门体，设备状态汇入日报，摄像头通过全景界面指定跟踪位置。智能屏补充关注 Echo Show 16 的可切换首页，以及三星洗衣机触屏的简易模式。",
         "notice": "设计关注点为编辑提炼，产品发布、推送与预计上市时间按原文区分。",
         "delivery": "published",
         "items": [
@@ -242,6 +242,72 @@
                 "original_url": "https://home-cdn.reolink.us/shop/public/media/1788516957736-8rMs.jpg",
                 "source": "Reolink 官方",
                 "caption": "IFA 展台上的 OMVI 2i Ultra 实机",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Amazon · Echo Show 16",
+            "title": "家庭大屏可切换三种首页",
+            "overview": "亚马逊 10 月 28 日在美国发布新款 Echo Show 16 并开放预订。用户可将首页设为家庭日程、家居控制或相册。家庭日程将日历、待办和餐单放在同一处，首页侧栏可固定常用功能。",
+            "display_type": "智能屏 UI / 家庭首页",
+            "published": "2026-10-28",
+            "source_label": "Amazon 官方",
+            "url": "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display",
+            "original_title": "Amazon introduces the all-new Echo Show 16",
+            "insight_headline": "共享屏按家庭任务切换首页",
+            "insight_detail": "日程、家居控制和相册各有首页，侧栏固定常用入口。",
+            "insight_emphasis": "侧栏固定常用入口",
+            "tags": [
+              "iot",
+              "screen-ui",
+              "interaction"
+            ],
+            "type": "智能屏 UI",
+            "focus": "家庭首页",
+            "event_key": "echo-show-16-screen-styles",
+            "insight": "共享屏按家庭任务切换首页。日程、家居控制和相册各有首页，侧栏固定常用入口。",
+            "source_verified_at": "2026-11-09T19:04:18+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261109-echo-show-16-screen-styles.webp",
+                "original_url": "https://assets.aboutamazon.com/a0/aa/bc7044a04b5cb84fed3e083d17a5/echoshow16-inline-smarthome-amazonnews-ck102826.png",
+                "source": "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display",
+                "caption": "Echo Show 16 官方家居控制界面",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Samsung · Bespoke AI",
+            "title": "洗衣机触屏新增简易模式",
+            "overview": "三星 9 月 7 日宣布为部分 2024 至 2025 年款洗衣设备推送更新。适用的 7 英寸触屏可在显示设置中选择简易模式，突出常用操作。更新自 9 月起分批推送，具体时间和功能因机型与市场而异。",
+            "display_type": "智能屏 UI / 家电控制",
+            "published": "2026-09-07",
+            "source_label": "三星官方",
+            "url": "https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates",
+            "original_title": "Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates",
+            "insight_headline": "简易模式让常用操作更显眼",
+            "insight_detail": "用户可在屏幕设置切换布局，用更精简的界面查看关键信息。",
+            "insight_emphasis": "更精简的界面",
+            "tags": [
+              "iot",
+              "screen-ui",
+              "interaction"
+            ],
+            "type": "智能屏 UI",
+            "focus": "家电控制",
+            "event_key": "bespoke-laundry-easy-mode",
+            "insight": "简易模式让常用操作更显眼。用户可在屏幕设置切换布局，用更精简的界面查看关键信息。",
+            "source_verified_at": "2026-11-09T19:04:18+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261109-bespoke-laundry-easy-mode.webp",
+                "original_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/05/20190209/Samsung-Digital-Appliances-Accessibility-Features_main1.jpg",
+                "source": "https://news.samsung.com/global/infographic-samsung-ai-appliances-deliver-inclusive-experiences-through-enhanced-accessibility-features",
+                "caption": "三星官方图解中的标准模式与简易模式对比",
                 "kind": "article-body"
               }
             ]
