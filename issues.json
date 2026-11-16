@@ -1,5 +1,217 @@
 [
   {
+    "start": "2026-11-09",
+    "end": "2026-11-15",
+    "display_start": "2026-11-16",
+    "display_end": "2026-11-20",
+    "generated_at": "2026-11-16",
+    "sections": {
+      "trends": {
+        "summary": "从美国来电的实时字幕、希腊银行的双文字字族，到多哈设计展的双语排版，看不同语言如何进入界面和品牌系统。",
+        "notice": "设计关注点为编辑提炼，发布时间与实际推送或发货日期分别注明。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Google · Pixel",
+            "title": "美国：语音输入与来电字幕",
+            "overview": "Google 11 月更新为美国 Pixel 11 系列带来新版来电筛查。用户主动开启后，Gemini 自然追问陌生来电的来意，屏幕实时显示对话，用户可随时接听或结束。正文也以界面图展示 Rambler 如何将口语整理成待确认的消息。",
+            "display_type": "出海设计 / 语音与字幕",
+            "published": "2026-11-10",
+            "source_label": "Google 官方",
+            "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+            "original_title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+            "insight_headline": "语音结果保留人工确认",
+            "insight_detail": "口述先整理成可检查的文字，来电代接也通过字幕呈现过程。",
+            "insight_emphasis": "可检查的文字",
+            "insight": "语音结果保留人工确认。口述先整理成可检查的文字，来电代接也通过字幕呈现过程。",
+            "tags": [
+              "overseas-design",
+              "voice",
+              "interaction"
+            ],
+            "type": "出海设计",
+            "focus": "语音与字幕",
+            "event_key": "20261116-pixel",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261116-pixel.jpg",
+                "original_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_10_Pro_Gemini_Intelligence.width-1200.format-webp.webp",
+                "source": "Google 官方",
+                "caption": "美国：语音输入与来电字幕",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Pentagram · Alpha Bank",
+            "title": "希腊：双文字字族统一品牌",
+            "overview": "Pentagram 为希腊 Alpha Bank 重绘取自古银币的标志，并配套设计五种字重、覆盖希腊字母和拉丁字母的定制字族，统一银行不同业务与触点的视觉。",
+            "display_type": "出海设计 / 多语言字体",
+            "published": "2026-11-12",
+            "source_label": "Pentagram 官方",
+            "url": "https://www.pentagram.com/work/alpha-bank",
+            "original_title": "Alpha Bank",
+            "insight_headline": "两套文字沿用同一字形逻辑",
+            "insight_detail": "希腊字母与拉丁字母共用字重体系，便于保持不同语言下的品牌识别。",
+            "insight_emphasis": "共用字重体系",
+            "insight": "两套文字沿用同一字形逻辑。希腊字母与拉丁字母共用字重体系，便于保持不同语言下的品牌识别。",
+            "tags": [
+              "overseas-design",
+              "icons-type",
+              "visual"
+            ],
+            "type": "出海设计",
+            "focus": "多语言字体",
+            "event_key": "20261116-alpha",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261116-alpha.jpg",
+                "original_url": "https://pentagram-production.imgix.net/15a9674d-6cc2-4596-ae42-4c40ebf37845/DL_AlphaBank_20.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3840%2C2160&w=2000&s=f99f4c38b99ce8daf6b6a676d6f6669d",
+                "source": "Pentagram 官方",
+                "caption": "希腊：双文字字族统一品牌",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Pentagram · Design Doha",
+            "title": "双语排版让两种文字同等醒目",
+            "overview": "多哈设计双年展将阿拉伯文与英文置于同一版式，以延长的字画连接展览名称与视觉元素。主展沿用这套结构，使用更粗的字形强化辨识度。",
+            "display_type": "跨行业 / 双语品牌",
+            "published": "2026-10-08",
+            "source_label": "Pentagram 官方",
+            "url": "https://www.pentagram.com/work/design-doha-biennial",
+            "original_title": "Design Doha Biennial",
+            "insight_headline": "两种文字在同一构图中并重",
+            "insight_detail": "延展的笔画连起文字与图形，主展通过字重变化建立层级。",
+            "insight_emphasis": "延展的笔画",
+            "insight": "两种文字在同一构图中并重。延展的笔画连起文字与图形，主展通过字重变化建立层级。",
+            "tags": [
+              "icons-type",
+              "visual"
+            ],
+            "type": "跨行业",
+            "focus": "双语品牌",
+            "event_key": "20261116-doha",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261116-doha.jpg",
+                "original_url": "https://pentagram-production.imgix.net/b28b6833-9ac7-4484-bfd0-dc14d7bda205/SM_DDB26_03.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2880%2C1620&w=2000&s=d9a39e5606e901798d32ee08325ae6f6",
+                "source": "Pentagram 官方",
+                "caption": "双语排版让两种文字同等醒目",
+                "kind": "article-body"
+              }
+            ]
+          }
+        ]
+      },
+      "competitors": {
+        "summary": "关注桌面智能屏的门口联动、窗帘保留的手拉操作，以及家庭安防设备如何用地图设置巡查。",
+        "notice": "设计关注点为编辑提炼，发布时间与实际推送或发货日期分别注明。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Aqara",
+            "title": "桌面中控兼顾看门与解锁",
+            "overview": "Aqara 8 月 28 日发布桌面版 Panel Hub S1 Plus EU 和 Touchscreen Dial V1。前者把设备控制、门口画面和解锁放在屏上，后者用触屏搭配有触觉回馈的旋钮。官方列出的市场包括欧洲和东南亚。",
+            "display_type": "智能屏 / 家庭中控",
+            "published": "2026-08-28",
+            "source_label": "Aqara 官方",
+            "url": "https://forum.aqara.com/t/introducing-2-new-aqara-desktop-controllers-panel-hub-s1-plus-eu-touchscreen-dial-v1/329131",
+            "original_title": "Introducing 2 New Aqara Desktop Controllers — Panel Hub S1 Plus EU & Touchscreen Dial V1!",
+            "insight_headline": "门口画面和操作聚在同一屏",
+            "insight_detail": "在中控屏查看门铃和摄像头画面，可直接解锁，减少设备切换。",
+            "insight_emphasis": "可直接解锁",
+            "insight": "门口画面和操作聚在同一屏。在中控屏查看门铃和摄像头画面，可直接解锁，减少设备切换。",
+            "tags": [
+              "iot",
+              "screen-ui",
+              "interaction"
+            ],
+            "type": "智能屏",
+            "focus": "家庭中控",
+            "event_key": "20261116-aqara",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261116-aqara.jpg",
+                "original_url": "https://forum-static.aqara.com/original/3X/8/b/8b21bea3cf11b63043c0f2db8680dd534ce4a5ec.jpeg",
+                "source": "Aqara 官方",
+                "caption": "桌面中控兼顾看门与解锁",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "SwitchBot",
+            "title": "窗帘支持手拉启动与定时",
+            "overview": "SwitchBot 美国站 11 月 10 日公开 Curtain Track 4 产品页。用户可轻拉布帘启动电机，也可通过 App 设定时间；特定套装搭配中枢接入 Matter。美国站当时预计 11 月底发货。",
+            "display_type": "IoT / 窗帘控制",
+            "published": "2026-11-10",
+            "source_label": "SwitchBot 美国官网",
+            "url": "https://us.switch-bot.com/products/switchbot-curtain-track-4?variant=67906171011305",
+            "original_title": "SwitchBot Curtain Track 4",
+            "insight_headline": "轻拉窗帘即可触发电动开合",
+            "insight_detail": "设备保留手动拉帘的操作习惯，并提供 App 定时控制。",
+            "insight_emphasis": "手动拉帘",
+            "insight": "轻拉窗帘即可触发电动开合。设备保留手动拉帘的操作习惯，并提供 App 定时控制。",
+            "tags": [
+              "iot",
+              "interaction"
+            ],
+            "type": "IoT",
+            "focus": "窗帘控制",
+            "event_key": "20261116-switchbot",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261116-switchbot.jpg",
+                "original_url": "https://us.switch-bot.com/cdn/shop/files/Curtain4_EN_AmazonImages_1600x1600_0.jpg?v=1793867439",
+                "source": "SwitchBot 美国官网",
+                "caption": "窗帘支持手拉启动与定时",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Ring",
+            "title": "室内摄像头按房间巡查",
+            "overview": "Amazon 11 月 10 日发布 Ring Drone Cam。设置时手持设备走一圈即可生成平面图，系统推荐巡查点，也支持手动补点。设备在底座休眠时关闭摄像头。官方预计 2027 年 1 月 27 日在美国发货，当时仍待 FCC 授权。",
+            "display_type": "IoT / 家庭安防",
+            "published": "2026-11-10",
+            "source_label": "Amazon 官方",
+            "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
+            "original_title": "Ring announces Ring Robotics, ushering in a new era of security",
+            "insight_headline": "巡查设置从房间平面图开始",
+            "insight_detail": "系统生成地图并推荐巡查点，仍保留手动添加位置的入口。",
+            "insight_emphasis": "推荐巡查点",
+            "insight": "巡查设置从房间平面图开始。系统生成地图并推荐巡查点，仍保留手动添加位置的入口。",
+            "tags": [
+              "iot",
+              "interaction"
+            ],
+            "type": "IoT",
+            "focus": "家庭安防",
+            "event_key": "20261116-ring",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261116-ring.jpg",
+                "original_url": "https://assets.aboutamazon.com/2c/ca/dd0c6bb84c3896a7165e4503c268/amazon-ring-drone-camera-amazonnews-cdlt-11092026.jpeg",
+                "source": "Amazon 官方",
+                "caption": "室内摄像头按房间巡查",
+                "kind": "article-body"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
     "start": "2026-11-02",
     "end": "2026-11-08",
     "display_start": "2026-11-09",
