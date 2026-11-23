@@ -1,5 +1,259 @@
 [
   {
+    "start": "2026-11-16",
+    "end": "2026-11-22",
+    "display_start": "2026-11-23",
+    "display_end": "2026-11-27",
+    "generated_at": "2026-11-23",
+    "sections": {
+      "trends": {
+        "summary": "从日历屏的拖拽排餐、美英手语的播放入口到客厅侧栏个性化，观察屏幕如何让安排、发现和操作更直接；再看重复线纹与青铜材质的跨行业表达。",
+        "notice": "设计关注点为编辑提炼；公告、报道、测试与产品上市时间按原文分别说明。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Skylight Calendar",
+            "title": "美国：拖动餐食卡片调整周计划",
+            "overview": "Skylight 11 月 18 日官方公告展示在日历屏上拖动食谱、更换所属餐次的交互。配套多图说明呈现七天餐食网格、餐次配色和家庭成员分配；网站、照片等导入方式可通过二维码衔接手机，Sidekick 导入需要 Plus 订阅。",
+            "display_type": "出海设计 / 日历屏交互",
+            "published": "2026-11-18",
+            "source_label": "Skylight 官方",
+            "url": "https://skylight.zendesk.com/hc/en-us/articles/41418036777371-The-Meals-Tab",
+            "original_title": "The Meals Tab",
+            "insight_headline": "餐食卡片可直接移动改期",
+            "insight_detail": "七天网格显示餐次与成员，拖动食谱即可调整安排，减少反复编辑。",
+            "insight_emphasis": "拖动食谱",
+            "insight": "餐食卡片可直接移动改期。七天网格显示餐次与成员，拖动食谱即可调整安排，减少反复编辑。",
+            "tags": [
+              "overseas-design",
+              "screen-ui",
+              "interaction",
+              "cross-device"
+            ],
+            "type": "出海设计",
+            "focus": "日历屏交互",
+            "event_key": "20261123-skylight",
+            "source_verified_at": "2026-11-23T07:07:07.894510+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261123-skylight.gif",
+                "original_url": "https://skylight.zendesk.com/hc/article_attachments/58849319689115",
+                "source": "Skylight 官方",
+                "caption": "美国：拖动餐食卡片调整周计划，正文实图",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Apple TV",
+            "title": "美英手语通过播放控件切换",
+            "overview": "苹果 11 月 10 日公告介绍 Apple TV 手语功能，11 月 13 日随影片上线。中文报道配有设置与播放画面：支持作品显示手语图标，用户开启设置后可在播放时选择手语，也可通过 ASL 关键词和专区查找作品。所述语言为美国手语与英国手语。",
+            "display_type": "出海设计 / 无障碍观影",
+            "published": "2026-11-11",
+            "source_label": "IT之家 · 苹果编译",
+            "url": "https://www.ithome.com/1/025/319.htm",
+            "original_title": "Apple TV introduces new Sign Language interpretation feature",
+            "insight_headline": "手语能力贯穿发现与播放",
+            "insight_detail": "作品图标、搜索与播放按钮相互衔接，让可用的手语版本更容易找到。",
+            "insight_emphasis": "作品图标、搜索与播放按钮",
+            "insight": "手语能力贯穿发现与播放。作品图标、搜索与播放按钮相互衔接，让可用的手语版本更容易找到。",
+            "tags": [
+              "overseas-design",
+              "interaction",
+              "cross-device"
+            ],
+            "type": "出海设计",
+            "focus": "无障碍观影",
+            "event_key": "20261123-apple",
+            "source_verified_at": "2026-11-23T07:07:07.894553+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261123-apple.jpg",
+                "original_url": "https://www.apple.com/newsroom/images/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/article/Apple-TV-ASL-TV-App-Settings_big.jpg.large.jpg",
+                "source": "IT之家 · 苹果编译",
+                "caption": "美英手语通过播放控件切换，正文实图",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Microsoft · XBOX",
+            "title": "电视侧栏可选择从左或右打开",
+            "overview": "微软 11 月 12 日向 Alpha Skip-Ahead 内测用户公布界面测试，中文报道次日发布。多组截图展示指南侧栏可左右切换、动态背景按周期轮播，以及光盘数字授权在游戏库中单独分类。功能仍处于内测。",
+            "display_type": "UI / 客厅界面",
+            "published": "2026-11-13",
+            "source_label": "IT之家 · 微软编译",
+            "url": "https://www.ithome.com/1/026/859.htm",
+            "original_title": "Available for XBOX Insiders: More Ways to Personalize Your Home, Library, and Guide",
+            "insight_headline": "侧栏位置与内容分类可调",
+            "insight_detail": "指南支持左右换边，授权分类与背景轮播分别设置，保留用户选择。",
+            "insight_emphasis": "指南支持左右换边",
+            "insight": "侧栏位置与内容分类可调。指南支持左右换边，授权分类与背景轮播分别设置，保留用户选择。",
+            "tags": [
+              "interaction",
+              "visual"
+            ],
+            "type": "UI",
+            "focus": "客厅界面",
+            "event_key": "20261123-xbox",
+            "source_verified_at": "2026-11-23T07:07:07.894560+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261123-xbox.jpg",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/11/5b2cb8b3-f4b1-4d58-8fc6-133ea1b2b484.png?x-bce-process=image/format,f_auto",
+                "source": "IT之家 · 微软编译",
+                "caption": "电视侧栏可选择从左或右打开，正文实图",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Pentagram · Tideway",
+            "title": "线纹与字体让金属井盖可辨识",
+            "overview": "Pentagram 10 月 22 日发布伦敦 Tideway 青铜井盖项目复盘。两组叠加圆纹形成近似流动的视觉效果，边缘文字使用与泰晤士河历史相关的 Doves Type。正文以制作细节和现场图说明图案、字体与金属材质的关系。",
+            "display_type": "跨行业 / 图案与材质",
+            "published": "2026-10-22",
+            "source_label": "Pentagram 官方",
+            "url": "https://www.pentagram.com/work/thames-tideway-s-bronze-drain-covers",
+            "original_title": "Thames Tideway’s Bronze Drain Covers",
+            "insight_headline": "重复线纹把水流转成图案",
+            "insight_detail": "两组圆纹叠出流动层次，结合沿边排字与青铜纹理，形成场所识别。",
+            "insight_emphasis": "两组圆纹",
+            "insight": "重复线纹把水流转成图案。两组圆纹叠出流动层次，结合沿边排字与青铜纹理，形成场所识别。",
+            "tags": [
+              "visual",
+              "icons-type"
+            ],
+            "type": "跨行业",
+            "focus": "图案与材质",
+            "event_key": "20261123-pentagram",
+            "source_verified_at": "2026-11-23T07:07:07.894564+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261123-pentagram.jpg",
+                "original_url": "https://pentagram-production.imgix.net/853443ff-1d93-4471-987f-52120d140781/MW_TT_01.jpg?auto=compress%2Cformat&crop=entropy&fit=crop&fm=jpg&h=470&q=80&rect=150%2C0%2C2700%2C1688&w=900&s=06c92e19da6281c3218de31baead5560",
+                "source": "Pentagram 官方",
+                "caption": "线纹与字体让金属井盖可辨识，正文实图",
+                "kind": "article-body"
+              }
+            ]
+          }
+        ]
+      },
+      "competitors": {
+        "summary": "本期关注多品牌摄像头统一管理、彩屏开关的按键名称与状态反馈，以及家庭照片屏的语音检索和共享。",
+        "notice": "设计关注点为编辑提炼；公告、报道、测试与产品上市时间按原文分别说明。",
+        "delivery": "published",
+        "items": [
+          {
+            "brand": "Samsung SmartThings",
+            "title": "摄像头记录与设备控制集中管理",
+            "overview": "SmartThings 11 月 20 日官方文章介绍 Matter 摄像头的统一接入体验。支持直播、双向通话、录像与事件时间线，并可设置运动与隐私区域。文中列出 Aqara、Eve、Xthings，以及可直接支持这些摄像头的兼容中枢。本文日期为文章发布日。",
+            "display_type": "IoT / 摄像头与家庭控制",
+            "published": "2026-11-20",
+            "source_label": "SmartThings 官方",
+            "url": "https://blog.smartthings.com/matter/smartthings-is-the-first-platform-to-support-matter-cameras-enabling-a-first-class-multi-brand-camera-experience/",
+            "original_title": "SmartThings Is the First Platform to Support Matter Cameras, Enabling a First-class Multi-brand Camera Experience.",
+            "insight_headline": "直播与事件记录归入同一入口",
+            "insight_detail": "不同品牌摄像头接入家庭控制，运动与隐私区域可分别设置。",
+            "insight_emphasis": "运动与隐私区域",
+            "insight": "直播与事件记录归入同一入口。不同品牌摄像头接入家庭控制，运动与隐私区域可分别设置。",
+            "tags": [
+              "iot",
+              "cross-device",
+              "interaction"
+            ],
+            "type": "IoT",
+            "focus": "摄像头与家庭控制",
+            "event_key": "20261123-smartthings",
+            "source_verified_at": "2026-11-23T07:07:07.894569+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261123-smartthings.jpg",
+                "original_url": "https://blog.smartthings.com/wp-content/uploads/2025/12/Blog-Matter1.5-1296pxx720px-1.jpg",
+                "source": "SmartThings 官方",
+                "caption": "摄像头记录与设备控制集中管理，正文实图",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "小米",
+            "title": "屏显开关把按键名称写在屏上",
+            "overview": "IT之家 10 月 28 日报道小米智能屏显开关 2，上架时预告 11 月 4 日开启众筹。屏幕可显示自定义按键名及时间天气，上方两键用于无线场景，下方两键控制灯具。单火接线需满足每日开灯超过十分钟，且不支持常显。",
+            "display_type": "智能屏 / 控制与反馈",
+            "published": "2026-10-28",
+            "source_label": "IT之家 · 小米报道",
+            "url": "https://m.ithome.com/html/1018773.htm",
+            "original_title": "小米智能屏显开关 2 上架：自带彩屏、单零火兼容设计，众筹价 159 元起",
+            "insight_headline": "按键名称与控制用途直接对应",
+            "insight_detail": "屏上文字区分灯控与场景，靠近唤亮并随环境调光，让操作状态可见。",
+            "insight_emphasis": "屏上文字",
+            "insight": "按键名称与控制用途直接对应。屏上文字区分灯控与场景，靠近唤亮并随环境调光，让操作状态可见。",
+            "tags": [
+              "iot",
+              "screen-ui",
+              "interaction"
+            ],
+            "type": "智能屏",
+            "focus": "控制与反馈",
+            "event_key": "20261123-xiaomi",
+            "source_verified_at": "2026-11-23T07:07:07.894574+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261123-xiaomi.jpg",
+                "original_url": "https://img.ithome.com/newsuploadfiles/2026/10/7d893b42-7cfa-456e-949d-8107b464cee7.jpg?x-bce-process=image/format,f_auto",
+                "source": "IT之家 · 小米报道",
+                "caption": "屏显开关把按键名称写在屏上，正文实图",
+                "kind": "article-body"
+              }
+            ]
+          },
+          {
+            "brand": "Amazon · Alexa Photo Frame",
+            "title": "相框用语音寻找照片并留声音",
+            "overview": "Amazon 10 月 28 日官方发布 Alexa Photo Frame。照片可从 Amazon Photos 同步，用户能用语音描述找图、并排查看相关照片，并为照片添加语音留言。触屏支持滑动浏览，亮度随环境变化；部分功能需要 Alexa+。",
+            "display_type": "出海设计 / 家庭照片屏",
+            "published": "2026-10-28",
+            "source_label": "Amazon 官方",
+            "url": "https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame",
+            "original_title": "Amazon introduces Alexa Photo Frame—the smartest way to bring your photos into the home",
+            "insight_headline": "照片浏览连接语音检索与留言",
+            "insight_detail": "描述人物或场景即可找图，语音留言保留照片背景，家人可持续分享。",
+            "insight_emphasis": "语音留言",
+            "insight": "照片浏览连接语音检索与留言。描述人物或场景即可找图，语音留言保留照片背景，家人可持续分享。",
+            "tags": [
+              "overseas-design",
+              "screen-ui",
+              "voice",
+              "cross-device"
+            ],
+            "type": "出海设计",
+            "focus": "家庭照片屏",
+            "event_key": "20261123-amazon",
+            "source_verified_at": "2026-11-23T07:07:07.894582+08:00",
+            "cover_status": "verified",
+            "images": [
+              {
+                "url": "./cover-20261123-amazon.jpg",
+                "original_url": "https://assets.aboutamazon.com/0c/df/f5fb27a847c0aac634d318f8c9f0/alexaphotoframe-hero-amazonnews-ck102526.png",
+                "source": "Amazon 官方",
+                "caption": "相框用语音寻找照片并留声音，正文实图",
+                "kind": "article-body"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
     "start": "2026-11-09",
     "end": "2026-11-15",
     "display_start": "2026-11-16",
